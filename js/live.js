@@ -1,37 +1,15 @@
 /* =========================================================
-   Her Innings — LIVE DATA via cricketdata.org (CricAPI)
-   Runs only when CRICAPI_KEY is set in js/data.js.
-   - Fetches current/upcoming matches, keeps women's games only,
-     converts them to the site's match shape and re-renders.
-   - Finished matches feed the Highlights tab (with a YouTube
-     highlights search link).
-   - Any failure -> the manual lists in data.js stay in place.
-   - Responses are cached in localStorage for 6 hours so the
-     free tier (100 requests/day) isn't burned by page reloads.
+   Her Innings — LIVE DATA
+   Reads data/live.json, which a scheduled GitHub Action
+   (.github/workflows/update-matches.yml) refreshes four times
+   a day from cricketdata.org. The API key lives in a GitHub
+   Secret — it never appears in this site's code.
+   If the file is missing or empty, the manual lists in
+   js/data.js stay in place.
    ========================================================= */
 
 (async function liveData() {
-  if (typeof CRICAPI_KEY === "undefined" || !CRICAPI_KEY) return;
-
-  const CACHE_KEY = "herinnings-live-v1";
-  const CACHE_HOURS = 6;
-
-  async function getMatches() {
-    try {
-      const cached = JSON.parse(localStorage.getItem(CACHE_KEY) || "null");
-      if (cached && Date.now() - cached.at < CACHE_HOURS * 3600 * 1000) return cached.data;
-    } catch (e) { /* corrupt cache — refetch */ }
-    const res = await fetch(`https://api.cricapi.com/v1/matches?apikey=${CRICAPI_KEY}&offset=0`);
-    const json = await res.json();
-    if (json.status !== "success" || !Array.isArray(json.data)) {
-      throw new Error("CricAPI: " + (json.reason || json.status));
-    }
-    localStorage.setItem(CACHE_KEY, JSON.stringify({ at: Date.now(), data: json.data }));
-    return json.data;
-  }
-
   const cleanTeam = (t) => (t || "").replace(/\s*women\s*$/i, "").trim();
-  const isWomens = (m) => /women/i.test(m.name || "") && Array.isArray(m.teams) && m.teams.length === 2;
 
   function istDate(m) {
     const d = new Date((m.dateTimeGMT || m.date) + (String(m.dateTimeGMT || "").endsWith("Z") ? "" : "Z"));
@@ -93,7 +71,10 @@
   }
 
   try {
-    const data = (await getMatches()).filter(isWomens);
+    const res = await fetch("data/live.json?t=" + Date.now());
+    if (!res.ok) return; // no live data yet — manual lists stay
+    const json = await res.json();
+    const data = (json.matches || []).filter(m => Array.isArray(m.teams) && m.teams.length === 2);
 
     const upcoming = data.filter(m => !m.matchEnded).map(toUpcoming).filter(m => m.date);
     const completed = data.filter(m => m.matchEnded && /won|tied|draw/i.test(m.status || ""))
@@ -110,7 +91,7 @@
       completedMatches.push(...completed);
       renderHighlights();
     }
-    console.log(`Her Innings: live data loaded — ${upcoming.length} upcoming, ${completed.length} completed.`);
+    console.log(`Her Innings: live data (${json.updatedAt}) — ${upcoming.length} upcoming, ${completed.length} completed.`);
   } catch (err) {
     console.warn("Her Innings: live data unavailable, using manual data.", err);
   }

@@ -35,16 +35,22 @@ links against ESPNcricinfo / ICC before promoting the site.
 
 ## Automatic match updates (recommended)
 
-The site can fetch real upcoming women's matches and results by itself:
+A scheduled GitHub Action (`.github/workflows/update-matches.yml`) fetches
+real women's fixtures and results four times a day and saves them to
+`data/live.json`, which the site reads. The API key is stored as an
+encrypted GitHub Secret — it never appears in the code or on the site.
 
-1. Sign up free at [cricketdata.org](https://cricketdata.org) (100 requests/day).
-2. Paste your API key into `CRICAPI_KEY` at the top of `js/data.js`.
-3. Bump the `?v=` numbers in `index.html` and push.
+One-time setup:
 
-Visitors then see live fixtures (cached 6 hours in their browser). If the
-API is ever down, the site quietly falls back to the manual lists in
-`js/data.js`. Note: the key is visible in the page source — that's normal
-for free-tier client-side keys, but don't use a paid key here.
+1. Sign up free at [cricketdata.org](https://cricketdata.org) (100 requests/day —
+   the schedule uses only 4).
+2. In a terminal, inside this folder, run `gh secret set CRICAPI_KEY`,
+   paste your key at the prompt and press Enter.
+3. Run the workflow once to test: `gh workflow run "Update match data"`
+   (or wait for the next scheduled run).
+
+If the API is ever down or the secret isn't set, the site quietly falls
+back to the manual lists in `js/data.js`.
 
 ## Ideas for later
 
