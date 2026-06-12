@@ -63,17 +63,29 @@ body::before {
   color: var(--text); letter-spacing: -0.5px;
 }
 .brand-name span { color: var(--blue); }
-.nav-links { display: flex; gap: 26px; }
+/* dropdown menu behind the hamburger (all screen sizes) */
+.nav-links {
+  display: none; position: absolute; top: calc(100% + 8px); right: 20px;
+  flex-direction: column; min-width: 220px; padding: 8px;
+  background: #ffffff; border: 1px solid var(--border); border-radius: var(--radius);
+  box-shadow: 0 12px 32px rgba(17, 33, 77, 0.14);
+  animation: menuDrop 0.18s ease;
+}
+.nav-links.open { display: flex; }
+@keyframes menuDrop { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
 .nav-links a {
   color: var(--text-dim); text-decoration: none; font-weight: 600; font-size: 0.95rem;
-  padding: 6px 2px; border-bottom: 2.5px solid transparent; transition: all 0.2s;
+  padding: 11px 14px; border-radius: 8px; border-left: 3px solid transparent;
+  transition: all 0.15s;
 }
-.nav-links a:hover { color: var(--text); }
-.nav-links a.active { color: var(--blue); border-bottom-color: var(--blue); }
+.nav-links a:hover { color: var(--text); background: var(--bg-soft); }
+.nav-links a.active { color: var(--blue); background: var(--blue-soft); border-left-color: var(--blue); }
 .nav-toggle {
-  display: none; background: none; border: 1px solid var(--border-strong); color: var(--text);
-  font-size: 1.2rem; padding: 4px 12px; border-radius: 8px; cursor: pointer;
+  display: block; background: #ffffff; border: 1.5px solid var(--border-strong); color: var(--text);
+  font-size: 1.15rem; line-height: 1; padding: 8px 13px; border-radius: 10px; cursor: pointer;
+  transition: all 0.2s;
 }
+.nav-toggle:hover { border-color: var(--blue); color: var(--blue); }
 
 /* ===== Pages ===== */
 .page { display: none; padding-bottom: 80px; animation: fadeIn 0.3s ease; }
@@ -302,13 +314,6 @@ select { cursor: pointer; }
 
 /* ===== Responsive ===== */
 @media (max-width: 720px) {
-  .nav-links {
-    display: none; position: absolute; top: 100%; left: 0; right: 0;
-    flex-direction: column; background: #ffffff; padding: 12px 20px 18px;
-    border-bottom: 1px solid var(--border); gap: 8px;
-  }
-  .nav-links.open { display: flex; }
-  .nav-toggle { display: block; }
   .hero { padding: 48px 20px 0; }
   .hero-photo { margin-top: 40px; }
   .footer-inner { flex-direction: column; }

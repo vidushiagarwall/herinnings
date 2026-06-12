@@ -56,7 +56,15 @@ document.addEventListener("click", (e) => {
   }
 });
 
-$("#navToggle").addEventListener("click", () => $("#navLinks").classList.toggle("open"));
+$("#navToggle").addEventListener("click", (e) => {
+  e.stopPropagation();
+  $("#navLinks").classList.toggle("open");
+});
+
+// clicking anywhere outside the menu closes it
+document.addEventListener("click", (e) => {
+  if (!e.target.closest("#navLinks")) $("#navLinks").classList.remove("open");
+});
 
 // open the right tab if the URL has a hash (e.g. site.com/#stats)
 if (location.hash) {
