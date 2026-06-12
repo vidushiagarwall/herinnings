@@ -1,0 +1,954 @@
+{
+  "players": {
+    "Harmanpreet Kaur": {
+      "ODI": {
+        "Matches": 157,
+        "Runs": 4290,
+        "Avg": 36.98,
+        "SR": 76.71,
+        "Wickets": 31,
+        "Econ": 5.28
+      },
+      "T20I": {
+        "Matches": 182,
+        "Runs": 3654,
+        "Avg": 28.55,
+        "SR": 108.59,
+        "Wickets": 32,
+        "Econ": 6.28
+      },
+      "Test": {
+        "Matches": 6,
+        "Runs": 200,
+        "Avg": 25,
+        "SR": 54.21,
+        "Wickets": 12,
+        "Econ": 2.59
+      }
+    },
+    "Smriti Mandhana": {
+      "ODI": {
+        "Matches": 113,
+        "Runs": 5110,
+        "Avg": 47.76,
+        "SR": 90.05,
+        "High Score": " 136 ",
+        "50s/100s": "25/5"
+      },
+      "T20I": {
+        "Matches": 153,
+        "Runs": 3982,
+        "Avg": 29.94,
+        "SR": 123.98,
+        "High Score": " 112 ",
+        "50s/100s": "22/0"
+      },
+      "Test": {
+        "Matches": 7,
+        "Runs": 629,
+        "Avg": 57.18,
+        "SR": 63.73,
+        "High Score": " 149 ",
+        "50s/100s": "2/1"
+      }
+    },
+    "Shafali Verma": {
+      "ODI": {
+        "Matches": 29,
+        "Runs": 644,
+        "Avg": 23,
+        "SR": 83.21,
+        "High Score": " 71 ",
+        "50s/100s": "4/0"
+      },
+      "T20I": {
+        "Matches": 90,
+        "Runs": 2221,
+        "Avg": 26.13,
+        "SR": 131.04,
+        "High Score": " 81 ",
+        "50s/100s": "5/0"
+      },
+      "Test": {
+        "Matches": 5,
+        "Runs": 567,
+        "Avg": 63,
+        "SR": 74.32,
+        "High Score": " 205 ",
+        "50s/100s": "3/0"
+      }
+    },
+    "Jemimah Rodrigues": {
+      "T20I": {
+        "Matches": 112,
+        "Runs": 2375,
+        "Avg": 30.06,
+        "SR": 116.48,
+        "High Score": " 76 ",
+        "50s/100s": "10/0"
+      },
+      "ODI": {
+        "Matches": 55,
+        "Runs": 1522,
+        "Avg": 31.06,
+        "SR": 88.44,
+        "High Score": " 123 ",
+        "50s/100s": "3/0"
+      },
+      "Test": {
+        "Matches": 3,
+        "Runs": 235,
+        "Avg": 58.75,
+        "SR": 65.65,
+        "High Score": " 73 ",
+        "50s/100s": " 3 / 0 "
+      }
+    },
+    "Richa Ghosh": {
+      "T20I": {
+        "Matches": 67,
+        "Runs": 1067,
+        "Avg": 27.36,
+        "SR": 142.46,
+        "High Score": " 64 ",
+        "50s/100s": "0/0"
+      },
+      "ODI": {
+        "Matches": 48,
+        "Runs": 1081,
+        "Avg": 29.22,
+        "SR": 101.89,
+        "High Score": " 96 ",
+        "50s/100s": "2/0"
+      },
+      "Test": {
+        "Matches": 2,
+        "Runs": 151,
+        "Avg": 50.33,
+        "SR": 66.82,
+        "High Score": " 86 ",
+        "50s/100s": " 2 / 0 "
+      }
+    },
+    "Deepti Sharma": {
+      "Test": {
+        "Matches": 5,
+        "Runs": 319,
+        "Avg": 63.8,
+        "SR": 43.94,
+        "Wickets": 20,
+        "Econ": 2.21
+      },
+      "ODI": {
+        "Matches": 117,
+        "Runs": 2657,
+        "Avg": 36.9,
+        "SR": 69.89,
+        "Wickets": 153,
+        "Econ": 4.33
+      },
+      "T20I": {
+        "Matches": 129,
+        "Runs": 1100,
+        "Avg": 23.4,
+        "SR": 104.27,
+        "Wickets": 147,
+        "Econ": 6.12
+      }
+    },
+    "Renuka Singh Thakur": {
+      "ODI": {
+        "Matches": 23,
+        "Wickets": 38,
+        "Econ": 4.91,
+        "Best": " 5/29 ",
+        "Avg": 24.84
+      },
+      "T20I": {
+        "Matches": 54,
+        "Wickets": 58,
+        "Econ": 6.37,
+        "Best": " 5/15 ",
+        "Avg": 21.74
+      },
+      "Test": {
+        "Matches": 3,
+        "Wickets": 2,
+        "Econ": 3.62,
+        "Best": " 1/30 ",
+        "Avg": 90.5
+      }
+    },
+    "Pooja Vastrakar": {
+      "Test": {
+        "Matches": 5,
+        "Runs": 111,
+        "Avg": 27.75,
+        "SR": 35.36,
+        "Wickets": 15,
+        "Econ": 3.19
+      },
+      "T20I": {
+        "Matches": 72,
+        "Runs": 332,
+        "Avg": 13.83,
+        "SR": 114.49,
+        "Wickets": 58,
+        "Econ": 6.39
+      },
+      "ODI": {
+        "Matches": 33,
+        "Runs": 585,
+        "Avg": 25.43,
+        "SR": 87.06,
+        "Wickets": 27,
+        "Econ": 5.57
+      }
+    },
+    "Sneh Rana": {
+      "ODI": {
+        "Matches": 43,
+        "Runs": 380,
+        "Avg": 16.52,
+        "SR": 92.24,
+        "Wickets": 56,
+        "Econ": 4.82
+      },
+      "T20I": {
+        "Matches": 29,
+        "Runs": 76,
+        "Avg": 12.67,
+        "SR": 97.44,
+        "Wickets": 24,
+        "Econ": 6.44
+      },
+      "Test": {
+        "Matches": 4,
+        "Runs": 121,
+        "Avg": 30.25,
+        "SR": 40.2,
+        "Wickets": 23,
+        "Econ": 3.02
+      }
+    },
+    "Radha Yadav": {
+      "T20I": {
+        "Matches": 89,
+        "Wickets": 103,
+        "Econ": 6.61,
+        "Best": " 4/23 ",
+        "Avg": 19.1
+      },
+      "ODI": {
+        "Matches": 11,
+        "Wickets": 9,
+        "Econ": 5.83,
+        "Best": " 4/69 ",
+        "Avg": 57.89
+      },
+      "Test": {
+        "Matches": 0,
+        "Wickets": 0,
+        "Econ": 0,
+        "Best": " -/- ",
+        "Avg": 0
+      }
+    },
+    "Shreyanka Patil": {
+      "ODI": {
+        "Matches": 3,
+        "Wickets": 5,
+        "Econ": 4.5,
+        "Best": " 3/57 ",
+        "Avg": 27
+      },
+      "T20I": {
+        "Matches": 16,
+        "Wickets": 20,
+        "Econ": 6.74,
+        "Best": " 3/19 ",
+        "Avg": 19.2
+      },
+      "Test": {
+        "Matches": 0,
+        "Wickets": 0,
+        "Econ": 0,
+        "Best": " -/- ",
+        "Avg": 0
+      }
+    },
+    "Titas Sadhu": {
+      "ODI": {
+        "Matches": 8,
+        "Wickets": 6,
+        "Econ": 4.96,
+        "Best": " 2/42 ",
+        "Avg": 50.67
+      },
+      "T20I": {
+        "Matches": 12,
+        "Wickets": 13,
+        "Econ": 6.86,
+        "Best": " 4/17 ",
+        "Avg": 19
+      },
+      "Test": {
+        "Matches": 0,
+        "Wickets": 0,
+        "Econ": 0,
+        "Best": " -/- ",
+        "Avg": 0
+      }
+    },
+    "Harleen Deol": {
+      "ODI": {
+        "Matches": 35,
+        "Runs": 1050,
+        "Avg": 32.81,
+        "SR": 76.93,
+        "High Score": " 115 ",
+        "50s/100s": "1/0"
+      },
+      "T20I": {
+        "Matches": 26,
+        "Runs": 298,
+        "Avg": 17.53,
+        "SR": 91.14,
+        "High Score": " 52 ",
+        "50s/100s": "1/0"
+      },
+      "Test": {
+        "Matches": 0,
+        "Runs": 0,
+        "Avg": 0,
+        "SR": 0,
+        "High Score": " 0 ",
+        "50s/100s": " 0 / 0 "
+      }
+    },
+    "Yastika Bhatia": {
+      "ODI": {
+        "Matches": 28,
+        "Runs": 666,
+        "Avg": 24.67,
+        "SR": 73.03,
+        "High Score": " 64 ",
+        "50s/100s": "4/0"
+      },
+      "T20I": {
+        "Matches": 19,
+        "Runs": 214,
+        "Avg": 16.46,
+        "SR": 88.43,
+        "High Score": " 36 ",
+        "50s/100s": "0/0"
+      },
+      "Test": {
+        "Matches": 3,
+        "Runs": 98,
+        "Avg": 19.6,
+        "SR": 60.87,
+        "High Score": " 66 ",
+        "50s/100s": "0/0"
+      }
+    },
+    "Arundhati Reddy": {
+      "ODI": {
+        "Matches": 11,
+        "Wickets": 15,
+        "Econ": 5.36,
+        "Best": " 4/26 ",
+        "Avg": 32.67
+      },
+      "T20I": {
+        "Matches": 38,
+        "Wickets": 34,
+        "Econ": 7.71,
+        "Best": " 3/19 ",
+        "Avg": 27.85
+      },
+      "Test": {
+        "Matches": 0,
+        "Wickets": 0,
+        "Econ": 0,
+        "Best": " -/- ",
+        "Avg": 0
+      }
+    },
+    "Alyssa Healy": {
+      "ODI": {
+        "Matches": 122,
+        "Runs": 3558,
+        "Avg": 36.31,
+        "SR": 99.98,
+        "High Score": " 170 ",
+        "50s/100s": "15/5"
+      },
+      "T20I": {
+        "Matches": 162,
+        "Runs": 3054,
+        "Avg": 25.03,
+        "SR": 129.8,
+        "High Score": " 148 ",
+        "50s/100s": "14/1"
+      },
+      "Test": {
+        "Matches": 10,
+        "Runs": 489,
+        "Avg": 30.56,
+        "SR": 56.87,
+        "High Score": " 99 ",
+        "50s/100s": "1/0"
+      }
+    },
+    "Ellyse Perry": {
+      "ODI": {
+        "Matches": 162,
+        "Runs": 4414,
+        "Avg": 49.04,
+        "SR": 78.46,
+        "Wickets": 166,
+        "Econ": 4.38
+      },
+      "T20I": {
+        "Matches": 168,
+        "Runs": 2173,
+        "Avg": 31.04,
+        "SR": 116.83,
+        "Wickets": 126,
+        "Econ": 5.85
+      },
+      "Test": {
+        "Matches": 14,
+        "Runs": 930,
+        "Avg": 58.13,
+        "SR": 45.59,
+        "Wickets": 39,
+        "Econ": 2.48
+      }
+    },
+    "Beth Mooney": {
+      "ODI": {
+        "Matches": 89,
+        "Runs": 2911,
+        "Avg": 48.52,
+        "SR": 88.27,
+        "High Score": " 138 ",
+        "50s/100s": "13/3"
+      },
+      "T20I": {
+        "Matches": 112,
+        "Runs": 3381,
+        "Avg": 42.26,
+        "SR": 125.74,
+        "High Score": " 117 ",
+        "50s/100s": "18/2"
+      },
+      "Test": {
+        "Matches": 8,
+        "Runs": 559,
+        "Avg": 43,
+        "SR": 53.4,
+        "High Score": " 106 ",
+        "50s/100s": "2/0"
+      }
+    },
+    "Tahlia McGrath": {
+      "Test": {
+        "Matches": 7,
+        "Runs": 358,
+        "Avg": 35.8,
+        "SR": 50.15,
+        "Wickets": 11,
+        "Econ": 2.49
+      },
+      "ODI": {
+        "Matches": 53,
+        "Runs": 844,
+        "Avg": 27.23,
+        "SR": 88.75,
+        "Wickets": 28,
+        "Econ": 5.38
+      },
+      "T20I": {
+        "Matches": 56,
+        "Runs": 1138,
+        "Avg": 42.15,
+        "SR": 132.95,
+        "Wickets": 21,
+        "Econ": 8.03
+      }
+    },
+    "Ashleigh Gardner": {
+      "ODI": {
+        "Matches": 84,
+        "Runs": 1487,
+        "Avg": 30.35,
+        "SR": 108.39,
+        "Wickets": 108,
+        "Econ": 4.27
+      },
+      "T20I": {
+        "Matches": 96,
+        "Runs": 1411,
+        "Avg": 24.75,
+        "SR": 127.7,
+        "Wickets": 78,
+        "Econ": 6.55
+      },
+      "Test": {
+        "Matches": 7,
+        "Runs": 325,
+        "Avg": 32.5,
+        "SR": 58.35,
+        "Wickets": 28,
+        "Econ": 2.54
+      }
+    },
+    "Annabel Sutherland": {
+      "ODI": {
+        "Matches": 46,
+        "Runs": 870,
+        "Avg": 37.83,
+        "SR": 92.36,
+        "Wickets": 55,
+        "Econ": 4.53
+      },
+      "T20I": {
+        "Matches": 45,
+        "Runs": 191,
+        "Avg": 11.94,
+        "SR": 139.42,
+        "Wickets": 40,
+        "Econ": 6.44
+      },
+      "Test": {
+        "Matches": 6,
+        "Runs": 586,
+        "Avg": 83.71,
+        "SR": 62.02,
+        "Wickets": 13,
+        "Econ": 3.3
+      }
+    },
+    "Phoebe Litchfield": {
+      "ODI": {
+        "Matches": 33,
+        "Runs": 1162,
+        "Avg": 41.5,
+        "SR": 86.14,
+        "High Score": " 119 ",
+        "50s/100s": " 8 / 2 "
+      },
+      "T20I": {
+        "Matches": 27,
+        "Runs": 440,
+        "Avg": 31.43,
+        "SR": 140.13,
+        "High Score": " 64 ",
+        "50s/100s": " 2 / 0 "
+      },
+      "Test": {
+        "Matches": 4,
+        "Runs": 136,
+        "Avg": 22.67,
+        "SR": 48.23,
+        "High Score": " 46 ",
+        "50s/100s": " 0 / 0 "
+      }
+    },
+    "Grace Harris": {
+      "ODI": {
+        "Matches": 12,
+        "Runs": 16,
+        "Avg": 2.67,
+        "SR": 57.15,
+        "High Score": " 7 ",
+        "50s/100s": "0/0"
+      },
+      "T20I": {
+        "Matches": 54,
+        "Runs": 577,
+        "Avg": 22.19,
+        "SR": 155.53,
+        "High Score": " 64 ",
+        "50s/100s": "1/0"
+      },
+      "Test": {
+        "Matches": 0,
+        "Runs": 0,
+        "Avg": 0,
+        "SR": 0,
+        "High Score": " 0 ",
+        "50s/100s": " 0 / 0 "
+      }
+    },
+    "Georgia Wareham": {
+      "ODI": {
+        "Matches": 47,
+        "Runs": 260,
+        "Avg": 26,
+        "SR": 108.34,
+        "Wickets": 49,
+        "Econ": 4.39
+      },
+      "T20I": {
+        "Matches": 69,
+        "Runs": 261,
+        "Avg": 16.31,
+        "SR": 137.37,
+        "Wickets": 71,
+        "Econ": 6.12
+      },
+      "Test": {
+        "Matches": 1,
+        "Runs": 2,
+        "Avg": 2,
+        "SR": 18.19,
+        "Wickets": 1,
+        "Econ": 3.64
+      }
+    },
+    "Alana King": {
+      "Test": {
+        "Matches": 5,
+        "Wickets": 13,
+        "Econ": 2.64,
+        "Best": " 5/53 ",
+        "Avg": 26.15
+      },
+      "ODI": {
+        "Matches": 44,
+        "Wickets": 64,
+        "Econ": 4.39,
+        "Best": " 5/46 ",
+        "Avg": 20
+      },
+      "T20I": {
+        "Matches": 27,
+        "Wickets": 27,
+        "Econ": 6.5,
+        "Best": " 4/8 ",
+        "Avg": 18.81
+      }
+    },
+    "Megan Schutt": {
+      "Test": {
+        "Matches": 4,
+        "Wickets": 9,
+        "Econ": 2.04,
+        "Best": " 4/26 ",
+        "Avg": 20.11
+      },
+      "ODI": {
+        "Matches": 105,
+        "Wickets": 144,
+        "Econ": 4.27,
+        "Best": " 5/19 ",
+        "Avg": 23.54
+      },
+      "T20I": {
+        "Matches": 123,
+        "Wickets": 151,
+        "Econ": 6.41,
+        "Best": " 5/15 ",
+        "Avg": 17.71
+      }
+    },
+    "Darcie Brown": {
+      "Test": {
+        "Matches": 5,
+        "Wickets": 13,
+        "Econ": 3.32,
+        "Best": " 5/21 ",
+        "Avg": 26.38
+      },
+      "ODI": {
+        "Matches": 26,
+        "Wickets": 28,
+        "Econ": 5.01,
+        "Best": " 4/33 ",
+        "Avg": 28.82
+      },
+      "T20I": {
+        "Matches": 37,
+        "Wickets": 34,
+        "Econ": 6.47,
+        "Best": " 3/20 ",
+        "Avg": 22.47
+      }
+    },
+    "Kim Garth": {
+      "T20I": {
+        "Matches": 61,
+        "Wickets": 49,
+        "Econ": 6.33,
+        "Best": " 3/6 ",
+        "Avg": 23.06
+      },
+      "ODI": {
+        "Matches": 61,
+        "Wickets": 62,
+        "Econ": 4.22,
+        "Best": " 4/11 ",
+        "Avg": 24.65
+      },
+      "Test": {
+        "Matches": 4,
+        "Wickets": 8,
+        "Econ": 2.88,
+        "Best": " 2/13 ",
+        "Avg": 33.13
+      }
+    },
+    "Heather Knight": {
+      "ODI": {
+        "Matches": 154,
+        "Runs": 4272,
+        "Avg": 36.2,
+        "SR": 73.22,
+        "High Score": " 109 ",
+        "50s/100s": "24/2"
+      },
+      "T20I": {
+        "Matches": 132,
+        "Runs": 2331,
+        "Avg": 27.1,
+        "SR": 121.47,
+        "High Score": " 108 ",
+        "50s/100s": "4/1"
+      },
+      "Test": {
+        "Matches": 14,
+        "Runs": 970,
+        "Avg": 42.17,
+        "SR": 48.48,
+        "High Score": " 168 ",
+        "50s/100s": "3/2"
+      }
+    },
+    "Sophie Ecclestone": {
+      "ODI": {
+        "Matches": 79,
+        "Wickets": 135,
+        "Econ": 3.66,
+        "Best": " 6/36 ",
+        "Avg": 19.2
+      },
+      "T20I": {
+        "Matches": 101,
+        "Wickets": 142,
+        "Econ": 5.97,
+        "Best": " 4/18 ",
+        "Avg": 15.73
+      },
+      "Test": {
+        "Matches": 9,
+        "Wickets": 40,
+        "Econ": 2.85,
+        "Best": " 5/63 ",
+        "Avg": 29.75
+      }
+    },
+    "Sophia Dunkley": {
+      "ODI": {
+        "Matches": 45,
+        "Runs": 1025,
+        "Avg": 26.28,
+        "SR": 83.54,
+        "High Score": " 107 ",
+        "50s/100s": "5/1"
+      },
+      "Test": {
+        "Matches": 6,
+        "Runs": 228,
+        "Avg": 25.33,
+        "SR": 53.91,
+        "High Score": " 74 ",
+        "50s/100s": "1/0"
+      },
+      "T20I": {
+        "Matches": 72,
+        "Runs": 1245,
+        "Avg": 25.41,
+        "SR": 122.54,
+        "High Score": " 81 ",
+        "50s/100s": "2/0"
+      }
+    },
+    "Alice Capsey": {
+      "T20I": {
+        "Matches": 45,
+        "Runs": 741,
+        "Avg": 19.5,
+        "SR": 116.15,
+        "Wickets": 6,
+        "Econ": 7.27
+      },
+      "ODI": {
+        "Matches": 31,
+        "Runs": 381,
+        "Avg": 18.14,
+        "SR": 74.27,
+        "Wickets": 15,
+        "Econ": 4.61
+      },
+      "Test": {
+        "Matches": 0,
+        "Runs": 0,
+        "Avg": 0,
+        "SR": 0,
+        "Wickets": 0,
+        "Econ": 0
+      }
+    },
+    "Amy Jones": {
+      "Test": {
+        "Matches": 8,
+        "Runs": 188,
+        "Avg": 14.46,
+        "SR": 47.96,
+        "High Score": " 64 ",
+        "50s/100s": "1/0"
+      },
+      "ODI": {
+        "Matches": 108,
+        "Runs": 2555,
+        "Avg": 32.34,
+        "SR": 85.09,
+        "High Score": " 129 ",
+        "50s/100s": "11/0"
+      },
+      "T20I": {
+        "Matches": 125,
+        "Runs": 1666,
+        "Avg": 20.32,
+        "SR": 121.61,
+        "High Score": " 89 ",
+        "50s/100s": "5/0"
+      }
+    },
+    "Sarah Glenn": {
+      "ODI": {
+        "Matches": 19,
+        "Wickets": 23,
+        "Econ": 4.34,
+        "Best": " 4/18 ",
+        "Avg": 23.78
+      },
+      "T20I": {
+        "Matches": 73,
+        "Wickets": 89,
+        "Econ": 6.05,
+        "Best": " 4/12 ",
+        "Avg": 16.48
+      },
+      "Test": {
+        "Matches": 0,
+        "Wickets": 0,
+        "Econ": 0,
+        "Best": " -/- ",
+        "Avg": 0
+      }
+    },
+    "Lauren Bell": {
+      "ODI": {
+        "Matches": 28,
+        "Wickets": 41,
+        "Econ": 5.48,
+        "Best": " 5/37 ",
+        "Avg": 29.41
+      },
+      "Test": {
+        "Matches": 5,
+        "Wickets": 18,
+        "Econ": 3.47,
+        "Best": " 4/27 ",
+        "Avg": 24.11
+      },
+      "T20I": {
+        "Matches": 36,
+        "Wickets": 50,
+        "Econ": 7.15,
+        "Best": " 4/12 ",
+        "Avg": 18.34
+      }
+    },
+    "Lauren Filer": {
+      "ODI": {
+        "Matches": 19,
+        "Wickets": 29,
+        "Econ": 5.32,
+        "Best": " 3/10 ",
+        "Avg": 23.83
+      },
+      "T20I": {
+        "Matches": 12,
+        "Wickets": 8,
+        "Econ": 7.61,
+        "Best": " 2/17 ",
+        "Avg": 39
+      },
+      "Test": {
+        "Matches": 4,
+        "Wickets": 9,
+        "Econ": 4.04,
+        "Best": " 2/49 ",
+        "Avg": 44
+      }
+    },
+    "Tammy Beaumont": {
+      "ODI": {
+        "Matches": 137,
+        "Runs": 4620,
+        "Avg": 40.53,
+        "SR": 76.32,
+        "High Score": " 168 ",
+        "50s/100s": "10/1"
+      },
+      "Test": {
+        "Matches": 11,
+        "Runs": 612,
+        "Avg": 34,
+        "SR": 48.77,
+        "High Score": " 208 ",
+        "50s/100s": "2/0"
+      },
+      "T20I": {
+        "Matches": 109,
+        "Runs": 1975,
+        "Avg": 24.09,
+        "SR": 110.09,
+        "High Score": " 116 ",
+        "50s/100s": "10/1"
+      }
+    },
+    "Maia Bouchier": {
+      "T20I": {
+        "Matches": 45,
+        "Runs": 738,
+        "Avg": 23.06,
+        "SR": 121.39,
+        "High Score": " 91 ",
+        "50s/100s": "0/0"
+      },
+      "Test": {
+        "Matches": 2,
+        "Runs": 129,
+        "Avg": 32.25,
+        "SR": 68.62,
+        "High Score": " 126 ",
+        "50s/100s": " 0 / 1 "
+      },
+      "ODI": {
+        "Matches": 18,
+        "Runs": 482,
+        "Avg": 37.08,
+        "SR": 106.88,
+        "High Score": " 100 ",
+        "50s/100s": " 2 / 1 "
+      }
+    }
+  },
+  "updatedAt": "2026-06-12T18:53:24.477Z"
+}
