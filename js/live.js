@@ -21,10 +21,13 @@
   }
 
   function format(m, a, b) {
+    // The API often omits or mislabels matchType, so trust the match name
+    // first ("3rd ODI", "One-off Test", ...), then fall back to matchType.
+    const name = m.name || "";
     const t = (m.matchType || "").toLowerCase();
-    if (t === "odi") return "ODI";
-    if (t === "test") return "Test";
-    // t20 between two national sides = T20I, otherwise a league game
+    if (/\bODI\b/i.test(name) || t === "odi") return "ODI";
+    if (/\bTest\b/i.test(name) || t === "test") return "Test";
+    // T20 between two national sides = T20I, otherwise a league game
     const national = (x) => x === "West Indies" || !!flagCodes[x];
     return national(a) && national(b) ? "T20I" : "T20";
   }
