@@ -11,15 +11,25 @@ if (!key) {
   process.exit(0);
 }
 
-const res = await fetch(`https://api.cricapi.com/v1/matches?apikey=${key}&offset=0`);
-const json = await res.json();
-if (json.status !== "success" || !Array.isArray(json.data)) {
-  console.error("CricAPI error:", json.reason || json.status);
-  process.exit(1);
+// The API pages 25 matches at a time — fetch several pages so fixtures
+// further out aren't missed. 4 pages x 4 runs/day = 16 of 100 daily requests.
+const all = [];
+for (const offset of [0, 25, 50, 75]) {
+  const res = await fetch(`https://api.cricapi.com/v1/matches?apikey=${key}&offset=${offset}`);
+  const json = await res.json();
+  if (json.status !== "success" || !Array.isArray(json.data)) {
+    console.error(`CricAPI error at offset ${offset}:`, json.reason || json.status);
+    if (offset === 0) process.exit(1);
+    break; // keep what we have from earlier pages
+  }
+  all.push(...json.data);
+  if (json.data.length < 25) break; // no more pages
 }
 
-const matches = json.data
+const seen = new Set();
+const matches = all
   .filter(m => /women/i.test(m.name || "") && Array.isArray(m.teams) && m.teams.length === 2)
+  .filter(m => { const k = m.name + m.date; if (seen.has(k)) return false; seen.add(k); return true; })
   .map(({ name, matchType, status, venue, date, dateTimeGMT, teams, matchEnded }) =>
     ({ name, matchType, status, venue, date, dateTimeGMT, teams, matchEnded }));
 
