@@ -21,6 +21,8 @@ Just double-click `index.html` — it opens in your browser. No installation nee
   link to the official highlights (YouTube/JioHotstar/ICC), and delete it
   from `upcomingMatches`.
 - **Update player stats** → edit the numbers in `players`.
+- **After any edit** → bump the `?v=` number on the css/js links in
+  `index.html` (v=3 → v=4) so visitors' browsers pick up the new files.
 
 ⚠️ The current data is **sample data** — double-check all dates, stats and
 links against ESPNcricinfo / ICC before promoting the site.
