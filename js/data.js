@@ -8,6 +8,14 @@
    before promoting the site, and update regularly.
    ========================================================= */
 
+// ---------- LIVE DATA (optional but recommended) ----------
+// 1. Sign up free at https://cricketdata.org (100 requests/day).
+// 2. Paste your API key between the quotes below.
+// 3. Bump the ?v= numbers in index.html and push.
+// The site will then load real women's fixtures + results automatically
+// and only fall back to the manual lists below if the API is down.
+const CRICAPI_KEY = "";
+
 // ---------- UPCOMING EVENTS ----------
 // countries: list every team involved, so country search works.
 // involvesIndia: true puts it in the India tab (and highlights the card).

@@ -33,8 +33,20 @@ links against ESPNcricinfo / ICC before promoting the site.
 2. Drag and drop this whole folder onto Netlify's "Deploy" page.
 3. You get a live link you can share. Re-drag the folder whenever you update data.
 
+## Automatic match updates (recommended)
+
+The site can fetch real upcoming women's matches and results by itself:
+
+1. Sign up free at [cricketdata.org](https://cricketdata.org) (100 requests/day).
+2. Paste your API key into `CRICAPI_KEY` at the top of `js/data.js`.
+3. Bump the `?v=` numbers in `index.html` and push.
+
+Visitors then see live fixtures (cached 6 hours in their browser). If the
+API is ever down, the site quietly falls back to the manual lists in
+`js/data.js`. Note: the key is visible in the page source — that's normal
+for free-tier client-side keys, but don't use a paid key here.
+
 ## Ideas for later
 
-- Live scores via a cricket API (e.g. CricAPI / ESPNcricinfo feeds)
 - A news section and player profile pages
 - Fan polls and a newsletter signup
