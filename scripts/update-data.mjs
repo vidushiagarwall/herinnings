@@ -33,8 +33,21 @@ const matches = all
   .map(({ name, matchType, status, venue, date, dateTimeGMT, teams, matchEnded }) =>
     ({ name, matchType, status, venue, date, dateTimeGMT, teams, matchEnded }));
 
+// Never replace good data with an empty set (API hiccup) — keep the old file.
+if (matches.length === 0) {
+  console.log("API returned no women's matches — keeping existing data/live.json.");
+  process.exit(0);
+}
+
 fs.mkdirSync("data", { recursive: true });
 fs.writeFileSync("data/live.json", JSON.stringify(
   { updatedAt: new Date().toISOString(), matches }, null, 2));
 
-console.log(`Wrote data/live.json with ${matches.length} women's matches.`);
+// Log a format breakdown so each run's classification is easy to eyeball
+// in the Actions tab (the site classifies by name: ODI / Test / else T20).
+const counts = {};
+for (const m of matches) {
+  const f = /\bODI\b/i.test(m.name) ? "ODI" : /\bTest\b/i.test(m.name) ? "Test" : "T20/T20I";
+  counts[f] = (counts[f] || 0) + 1;
+}
+console.log(`Wrote data/live.json with ${matches.length} women's matches:`, JSON.stringify(counts));
