@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Her Innings — The Home of Women's Cricket</title>
+  <meta name="description" content="Upcoming women's cricket events, live match links, player stats and highlights — India and the world." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- ===== NAVBAR ===== -->
+  <header class="navbar">
+    <div class="nav-inner">
+      <a class="brand" href="#home" data-nav="home">
+        <span class="brand-name">Her <span>Innings</span></span>
+      </a>
+      <nav class="nav-links" id="navLinks">
+        <a href="#home" data-nav="home" class="active">Home</a>
+        <a href="#events" data-nav="events">Events</a>
+        <a href="#stats" data-nav="stats">Stats</a>
+        <a href="#highlights" data-nav="highlights">Highlights</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu">&#9776;</button>
+    </div>
+  </header>
+
+  <main>
+
+    <!-- ===== HOME ===== -->
+    <section id="home" class="page active-page">
+      <div class="hero">
+        <div class="hero-grid">
+          <div class="hero-content">
+            <p class="hero-kicker">WOMEN'S CRICKET, FRONT AND CENTRE</p>
+            <h1>Cricket is not just <em>his</em> game.<br>It's <em>hers</em> too.</h1>
+            <p class="hero-sub">
+              India's biggest sport has another half of the story — and it deserves the spotlight.
+              Fixtures, live links, stats and highlights for women's cricket in India and around the world.
+            </p>
+            <div class="hero-actions">
+              <a href="#events" class="btn btn-primary" data-nav="events">See Upcoming Events</a>
+              <a href="#highlights" class="btn btn-ghost" data-nav="highlights">Catch Up on Highlights</a>
+            </div>
+          </div>
+          <figure class="hero-photo" id="heroPhoto">
+            <img src="images/champions.jpg" alt="India — ICC Women's World Cup Champions 2025"
+                 onerror="document.getElementById('heroPhoto').style.display='none'" />
+            <figcaption>India — ICC Women's World Cup Champions 2025</figcaption>
+          </figure>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="ticker" id="homeTicker"></div>
+
+        <h2 class="section-title">Next Up <span class="title-accent">— don't miss these</span></h2>
+        <div class="card-grid" id="homeUpcoming"></div>
+
+        <h2 class="section-title">Why Her Innings?</h2>
+        <div class="why-grid">
+          <div class="why-card">
+            <h3>Every fixture, one place</h3>
+            <p>Indian team and international women's cricket schedules so you never find out about a match after it happened.</p>
+          </div>
+          <div class="why-card">
+            <h3>Know where to watch</h3>
+            <p>Every event card tells you exactly which app or channel is streaming it live — no more hunting.</p>
+          </div>
+          <div class="why-card">
+            <h3>Player stats that matter</h3>
+            <p>Batting and bowling numbers for the stars of the women's game, searchable by name and country.</p>
+          </div>
+          <div class="why-card">
+            <h3>Missed it? Replay it.</h3>
+            <p>Direct links to official highlights of recent matches, so a busy day never means a missed match.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== EVENTS ===== -->
+    <section id="events" class="page">
+      <div class="container">
+        <h2 class="page-title">Upcoming Events</h2>
+        <p class="page-sub">All times are IST. Tap <strong>Watch live</strong> on match day to jump straight to the stream.</p>
+
+        <div class="subtabs">
+          <button class="subtab active" data-events-tab="india">India</button>
+          <button class="subtab" data-events-tab="world">International</button>
+        </div>
+
+        <div class="search-row" id="worldSearchRow" hidden>
+          <input type="search" id="countrySearch" placeholder="Search a country — e.g. Australia, England, Sri Lanka" />
+        </div>
+
+        <div class="card-grid" id="eventsGrid"></div>
+        <p class="empty-msg" id="eventsEmpty" hidden>No upcoming matches found for that country. Try another one!</p>
+      </div>
+    </section>
+
+    <!-- ===== STATS ===== -->
+    <section id="stats" class="page">
+      <div class="container">
+        <h2 class="page-title">Player Stats</h2>
+        <p class="page-sub">Career T20I numbers for the biggest names in the women's game. Search by player or filter by country.</p>
+
+        <div class="filter-row">
+          <input type="search" id="playerSearch" placeholder="Search a player — e.g. Smriti Mandhana" />
+          <select id="countryFilter">
+            <option value="all">All countries</option>
+          </select>
+          <select id="roleFilter">
+            <option value="all">All roles</option>
+            <option value="Batter">Batters</option>
+            <option value="Bowler">Bowlers</option>
+            <option value="All-rounder">All-rounders</option>
+            <option value="Wicketkeeper">Wicketkeepers</option>
+          </select>
+        </div>
+
+        <div class="player-grid" id="playerGrid"></div>
+        <p class="empty-msg" id="playersEmpty" hidden>No players found. Try a different search.</p>
+      </div>
+    </section>
+
+    <!-- ===== HIGHLIGHTS ===== -->
+    <section id="highlights" class="page">
+      <div class="container">
+        <h2 class="page-title">Match Highlights</h2>
+        <p class="page-sub">Missed a match? Catch the best moments here — straight from the official broadcasters.</p>
+
+        <div class="search-row">
+          <input type="search" id="highlightSearch" placeholder="Search by team or tournament — e.g. India, World Cup" />
+        </div>
+
+        <div class="highlight-list" id="highlightList"></div>
+        <p class="empty-msg" id="highlightsEmpty" hidden>No highlights found for that search.</p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div>
+        <p class="brand-name footer-brand">Her <span>Innings</span></p>
+        <p class="footer-tag">The home of women's cricket. Made by a fan, for fans.</p>
+      </div>
+      <p class="footer-note">
+        Her Innings is an independent fan project. Match data is updated manually and streaming availability may vary by region.
+        All highlights link to official broadcaster channels.
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
