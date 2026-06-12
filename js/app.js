@@ -93,9 +93,6 @@ function renderHome() {
 let eventsTab = "india";
 let formatTab = "all";
 
-// formats that count as international cricket; everything else is a league
-const intlFormats = ["T20I", "ODI", "Test"];
-
 function renderEvents() {
   if (!$("#eventsGrid")) return;
   const query = ($("#countrySearch").value || "").trim().toLowerCase();
@@ -116,9 +113,7 @@ function renderEvents() {
     }
   }
 
-  if (formatTab === "leagues") {
-    list = list.filter(m => !intlFormats.includes(m.format));
-  } else if (formatTab !== "all") {
+  if (formatTab !== "all") {
     list = list.filter(m => m.format === formatTab);
   }
 
@@ -148,8 +143,10 @@ if ($("#eventsGrid")) {
 }
 
 // ---------- STATS (stats.html) ----------
+let statsFormat = "T20I";
+
 function playerCardHTML(p) {
-  const statEntries = Object.entries(p.stats).slice(0, 6);
+  const statEntries = Object.entries(p.stats[statsFormat] || {}).slice(0, 6);
   const statsHTML = statEntries.map(([label, val]) =>
     `<div class="stat"><div class="stat-val">${val}</div><div class="stat-label">${label}</div></div>`
   ).join("");
@@ -174,6 +171,7 @@ function renderPlayers() {
   const role = $("#roleFilter").value;
 
   const list = players.filter(p =>
+    p.stats[statsFormat] &&
     (country === "all" || p.country === country) &&
     (role === "all" || p.role === role) &&
     (!q || p.name.toLowerCase().includes(q) || p.country.toLowerCase().includes(q))
@@ -184,6 +182,14 @@ function renderPlayers() {
 }
 
 if ($("#playerGrid")) {
+  $$("[data-stats-format]").forEach(btn => {
+    btn.addEventListener("click", () => {
+      statsFormat = btn.dataset.statsFormat;
+      $$("[data-stats-format]").forEach(b => b.classList.toggle("active", b === btn));
+      renderPlayers();
+    });
+  });
+
   const countries = [...new Set(players.map(p => p.country))].sort();
   countries.forEach(c => {
     const opt = document.createElement("option");

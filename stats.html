@@ -4,10 +4,10 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Player Stats — Her Innings</title>
-  <meta name="description" content="Career stats for the biggest names in women's cricket — searchable by player, country and role." />
+  <meta name="description" content="Career stats for women's cricketers from India, Australia, England, South Africa, Pakistan and beyond — by format, country and role." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css?v=8" />
+  <link rel="stylesheet" href="css/style.css?v=9" />
 </head>
 <body>
 
@@ -31,7 +31,13 @@
     <section class="page">
       <div class="container">
         <h2 class="page-title">Player Stats</h2>
-        <p class="page-sub">Career T20I numbers for the biggest names in the women's game. Search by player or filter by country.</p>
+        <p class="page-sub">Career numbers for the women's game across formats — switch between T20I, ODI and Tests, then search by player or filter by country. Figures are approximate.</p>
+
+        <div class="subtabs">
+          <button class="subtab active" data-stats-format="T20I">T20I</button>
+          <button class="subtab" data-stats-format="ODI">ODI</button>
+          <button class="subtab" data-stats-format="Test">Tests</button>
+        </div>
 
         <div class="filter-row">
           <input type="search" id="playerSearch" placeholder="Search a player — e.g. Smriti Mandhana" />
@@ -48,7 +54,7 @@
         </div>
 
         <div class="player-grid" id="playerGrid"></div>
-        <p class="empty-msg" id="playersEmpty" hidden>No players found. Try a different search.</p>
+        <p class="empty-msg" id="playersEmpty" hidden>No players found for that filter. Try another format or search.</p>
       </div>
     </section>
   </main>
@@ -57,7 +63,7 @@
     <div class="container footer-inner">
       <div>
         <p class="brand-name footer-brand">Her <span>Innings</span></p>
-        <p class="footer-tag">The home of women's cricket. Made by a fan, for fans.</p>
+        <p class="footer-tag">The home of women's cricket. Made by Vidushi.</p>
       </div>
       <p class="footer-note">
         Her Innings is an independent fan project. Match data is updated manually and streaming availability may vary by region.
@@ -66,8 +72,8 @@
     </div>
   </footer>
 
-  <script src="js/data.js?v=8"></script>
-  <script src="js/app.js?v=8"></script>
-  <script src="js/live.js?v=8"></script>
+  <script src="js/data.js?v=9"></script>
+  <script src="js/app.js?v=9"></script>
+  <script src="js/live.js?v=9"></script>
 </body>
 </html>
