@@ -98,4 +98,26 @@
   } catch (err) {
     console.warn("Her Innings: live data unavailable, using manual data.", err);
   }
+
+  // ---- player stats from data/player-stats.json (refreshed daily
+  //      by the update-stats workflow; manual numbers are the fallback) ----
+  if (document.querySelector("#playerGrid")) {
+    try {
+      const res = await fetch("data/player-stats.json?t=" + Date.now());
+      if (!res.ok) return;
+      const json = await res.json();
+      let updated = 0;
+      players.forEach(p => {
+        const apiStats = json.players && json.players[p.name];
+        if (apiStats && Object.keys(apiStats).length) {
+          p.stats = apiStats;
+          updated++;
+        }
+      });
+      if (updated) renderPlayers();
+      console.log(`Her Innings: live stats for ${updated} players (updated ${json.updatedAt}).`);
+    } catch (err) {
+      console.warn("Her Innings: player stats unavailable, using manual numbers.", err);
+    }
+  }
 })();
