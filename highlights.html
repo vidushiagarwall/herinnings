@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Match Highlights — Her Innings</title>
+  <meta name="description" content="Official highlights of recent women's cricket matches — never miss a moment." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css?v=8" />
+</head>
+<body>
+
+  <!-- ===== NAVBAR ===== -->
+  <header class="navbar">
+    <div class="nav-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-name">Her <span>Innings</span></span>
+      </a>
+      <nav class="nav-links" id="navLinks">
+        <a href="index.html">Home</a>
+        <a href="events.html">Events</a>
+        <a href="stats.html">Stats</a>
+        <a href="highlights.html">Highlights</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu">&#9776;</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="page">
+      <div class="container">
+        <h2 class="page-title">Match Highlights</h2>
+        <p class="page-sub">Missed a match? Catch the best moments here — straight from the official broadcasters.</p>
+
+        <div class="search-row">
+          <input type="search" id="highlightSearch" placeholder="Search by team or tournament — e.g. India, World Cup" />
+        </div>
+
+        <div class="highlight-list" id="highlightList"></div>
+        <p class="empty-msg" id="highlightsEmpty" hidden>No highlights found for that search.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div>
+        <p class="brand-name footer-brand">Her <span>Innings</span></p>
+        <p class="footer-tag">The home of women's cricket. Made by a fan, for fans.</p>
+      </div>
+      <p class="footer-note">
+        Her Innings is an independent fan project. Match data is updated manually and streaming availability may vary by region.
+        All highlights link to official broadcaster channels.
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/data.js?v=8"></script>
+  <script src="js/app.js?v=8"></script>
+  <script src="js/live.js?v=8"></script>
+</body>
+</html>

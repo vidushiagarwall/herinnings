@@ -1,5 +1,7 @@
 /* =========================================================
-   Her Innings — app logic (navigation, rendering, search)
+   Her Innings — app logic (nav menu, rendering, search)
+   One script for all pages: each section only renders when
+   its elements exist on the current page.
    ========================================================= */
 
 // ---------- helpers ----------
@@ -37,24 +39,11 @@ function flagHTML(team) {
   return `<img class="flag" src="https://flagcdn.com/48x36/${code}.png" alt="" loading="lazy">`;
 }
 
-// ---------- page navigation ----------
-function showPage(id) {
-  $$(".page").forEach(p => p.classList.remove("active-page"));
-  const page = document.getElementById(id);
-  if (page) page.classList.add("active-page");
-  $$("[data-nav]").forEach(a => a.classList.toggle("active", a.dataset.nav === id && a.closest(".nav-links")));
-  $("#navLinks").classList.remove("open");
-  window.scrollTo({ top: 0 });
-}
-
-document.addEventListener("click", (e) => {
-  const link = e.target.closest("[data-nav]");
-  if (link) {
-    e.preventDefault();
-    showPage(link.dataset.nav);
-    history.replaceState(null, "", "#" + link.dataset.nav);
-  }
-});
+// ---------- nav menu ----------
+// highlight the page we're on
+const currentPage = location.pathname.split("/").pop() || "index.html";
+$$(".nav-links a").forEach(a =>
+  a.classList.toggle("active", a.getAttribute("href") === currentPage));
 
 $("#navToggle").addEventListener("click", (e) => {
   e.stopPropagation();
@@ -65,12 +54,6 @@ $("#navToggle").addEventListener("click", (e) => {
 document.addEventListener("click", (e) => {
   if (!e.target.closest("#navLinks")) $("#navLinks").classList.remove("open");
 });
-
-// open the right tab if the URL has a hash (e.g. site.com/#stats)
-if (location.hash) {
-  const id = location.hash.slice(1);
-  if (document.getElementById(id)) showPage(id);
-}
 
 // ---------- match card rendering ----------
 function matchCardHTML(m) {
@@ -93,8 +76,9 @@ function matchCardHTML(m) {
     </article>`;
 }
 
-// ---------- HOME ----------
+// ---------- HOME (index.html) ----------
 function renderHome() {
+  if (!$("#homeUpcoming")) return;
   const sorted = [...upcomingMatches].sort((a, b) => a.date.localeCompare(b.date));
   $("#homeUpcoming").innerHTML = sorted.slice(0, 3).map(matchCardHTML).join("");
 
@@ -105,7 +89,7 @@ function renderHome() {
   }
 }
 
-// ---------- EVENTS ----------
+// ---------- EVENTS (events.html) ----------
 let eventsTab = "india";
 let formatTab = "all";
 
@@ -113,6 +97,7 @@ let formatTab = "all";
 const intlFormats = ["T20I", "ODI", "Test"];
 
 function renderEvents() {
+  if (!$("#eventsGrid")) return;
   const query = ($("#countrySearch").value || "").trim().toLowerCase();
   const sorted = [...upcomingMatches].sort((a, b) => a.date.localeCompare(b.date));
 
@@ -141,26 +126,28 @@ function renderEvents() {
   $("#eventsEmpty").hidden = list.length > 0;
 }
 
-$$("[data-format-tab]").forEach(btn => {
-  btn.addEventListener("click", () => {
-    formatTab = btn.dataset.formatTab;
-    $$("[data-format-tab]").forEach(b => b.classList.toggle("active", b === btn));
-    renderEvents();
+if ($("#eventsGrid")) {
+  $$("[data-format-tab]").forEach(btn => {
+    btn.addEventListener("click", () => {
+      formatTab = btn.dataset.formatTab;
+      $$("[data-format-tab]").forEach(b => b.classList.toggle("active", b === btn));
+      renderEvents();
+    });
   });
-});
 
-$$("[data-events-tab]").forEach(btn => {
-  btn.addEventListener("click", () => {
-    eventsTab = btn.dataset.eventsTab;
-    $$("[data-events-tab]").forEach(b => b.classList.toggle("active", b === btn));
-    $("#worldSearchRow").hidden = eventsTab !== "world";
-    renderEvents();
+  $$("[data-events-tab]").forEach(btn => {
+    btn.addEventListener("click", () => {
+      eventsTab = btn.dataset.eventsTab;
+      $$("[data-events-tab]").forEach(b => b.classList.toggle("active", b === btn));
+      $("#worldSearchRow").hidden = eventsTab !== "world";
+      renderEvents();
+    });
   });
-});
 
-$("#countrySearch").addEventListener("input", renderEvents);
+  $("#countrySearch").addEventListener("input", renderEvents);
+}
 
-// ---------- STATS ----------
+// ---------- STATS (stats.html) ----------
 function playerCardHTML(p) {
   const statEntries = Object.entries(p.stats).slice(0, 6);
   const statsHTML = statEntries.map(([label, val]) =>
@@ -181,6 +168,7 @@ function playerCardHTML(p) {
 }
 
 function renderPlayers() {
+  if (!$("#playerGrid")) return;
   const q = ($("#playerSearch").value || "").trim().toLowerCase();
   const country = $("#countryFilter").value;
   const role = $("#roleFilter").value;
@@ -195,22 +183,21 @@ function renderPlayers() {
   $("#playersEmpty").hidden = list.length > 0;
 }
 
-function buildCountryFilter() {
+if ($("#playerGrid")) {
   const countries = [...new Set(players.map(p => p.country))].sort();
-  const select = $("#countryFilter");
   countries.forEach(c => {
     const opt = document.createElement("option");
     opt.value = c;
     opt.textContent = c;
-    select.appendChild(opt);
+    $("#countryFilter").appendChild(opt);
   });
+
+  $("#playerSearch").addEventListener("input", renderPlayers);
+  $("#countryFilter").addEventListener("change", renderPlayers);
+  $("#roleFilter").addEventListener("change", renderPlayers);
 }
 
-$("#playerSearch").addEventListener("input", renderPlayers);
-$("#countryFilter").addEventListener("change", renderPlayers);
-$("#roleFilter").addEventListener("change", renderPlayers);
-
-// ---------- HIGHLIGHTS ----------
+// ---------- HIGHLIGHTS (highlights.html) ----------
 function highlightCardHTML(m) {
   return `
     <article class="highlight-card">
@@ -225,6 +212,7 @@ function highlightCardHTML(m) {
 }
 
 function renderHighlights() {
+  if (!$("#highlightList")) return;
   const q = ($("#highlightSearch").value || "").trim().toLowerCase();
   const sorted = [...completedMatches].sort((a, b) => b.date.localeCompare(a.date));
   const list = !q ? sorted : sorted.filter(m =>
@@ -236,10 +224,11 @@ function renderHighlights() {
   $("#highlightsEmpty").hidden = list.length > 0;
 }
 
-$("#highlightSearch").addEventListener("input", renderHighlights);
+if ($("#highlightSearch")) {
+  $("#highlightSearch").addEventListener("input", renderHighlights);
+}
 
 // ---------- init ----------
-buildCountryFilter();
 renderHome();
 renderEvents();
 renderPlayers();

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Upcoming Events — Her Innings</title>
+  <meta name="description" content="Upcoming women's cricket fixtures — India and international, T20I, ODI, Tests and leagues, with where to watch." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css?v=8" />
+</head>
+<body>
+
+  <!-- ===== NAVBAR ===== -->
+  <header class="navbar">
+    <div class="nav-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-name">Her <span>Innings</span></span>
+      </a>
+      <nav class="nav-links" id="navLinks">
+        <a href="index.html">Home</a>
+        <a href="events.html">Events</a>
+        <a href="stats.html">Stats</a>
+        <a href="highlights.html">Highlights</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu">&#9776;</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="page">
+      <div class="container">
+        <h2 class="page-title">Upcoming Events</h2>
+        <p class="page-sub">All times are IST. Tap <strong>Watch live</strong> on match day to jump straight to the stream.</p>
+
+        <div class="subtabs">
+          <button class="subtab active" data-events-tab="india">India</button>
+          <button class="subtab" data-events-tab="world">International</button>
+        </div>
+
+        <div class="subtabs subtabs-format">
+          <button class="subtab active" data-format-tab="all">All formats</button>
+          <button class="subtab" data-format-tab="T20I">T20I</button>
+          <button class="subtab" data-format-tab="ODI">ODI</button>
+          <button class="subtab" data-format-tab="Test">Tests</button>
+          <button class="subtab" data-format-tab="leagues">Leagues</button>
+        </div>
+
+        <div class="search-row" id="worldSearchRow" hidden>
+          <input type="search" id="countrySearch" placeholder="Search a country — e.g. Australia, England, Sri Lanka" />
+        </div>
+
+        <div class="card-grid" id="eventsGrid"></div>
+        <p class="empty-msg" id="eventsEmpty" hidden>No upcoming matches for that filter. Try another format or country!</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div>
+        <p class="brand-name footer-brand">Her <span>Innings</span></p>
+        <p class="footer-tag">The home of women's cricket. Made by a fan, for fans.</p>
+      </div>
+      <p class="footer-note">
+        Her Innings is an independent fan project. Match data is updated manually and streaming availability may vary by region.
+        All highlights link to official broadcaster channels.
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/data.js?v=8"></script>
+  <script src="js/app.js?v=8"></script>
+  <script src="js/live.js?v=8"></script>
+</body>
+</html>

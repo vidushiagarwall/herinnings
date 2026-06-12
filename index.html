@@ -8,30 +8,28 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <!-- bump ?v= on every deploy so browsers always fetch fresh files -->
-  <link rel="stylesheet" href="css/style.css?v=7" />
+  <link rel="stylesheet" href="css/style.css?v=8" />
 </head>
 <body>
 
   <!-- ===== NAVBAR ===== -->
   <header class="navbar">
     <div class="nav-inner">
-      <a class="brand" href="#home" data-nav="home">
+      <a class="brand" href="index.html">
         <span class="brand-name">Her <span>Innings</span></span>
       </a>
       <nav class="nav-links" id="navLinks">
-        <a href="#home" data-nav="home" class="active">Home</a>
-        <a href="#events" data-nav="events">Events</a>
-        <a href="#stats" data-nav="stats">Stats</a>
-        <a href="#highlights" data-nav="highlights">Highlights</a>
+        <a href="index.html">Home</a>
+        <a href="events.html">Events</a>
+        <a href="stats.html">Stats</a>
+        <a href="highlights.html">Highlights</a>
       </nav>
       <button class="nav-toggle" id="navToggle" aria-label="Menu">&#9776;</button>
     </div>
   </header>
 
   <main>
-
-    <!-- ===== HOME ===== -->
-    <section id="home" class="page active-page">
+    <section class="page">
       <div class="hero">
         <div class="hero-inner">
           <p class="hero-kicker">WOMEN'S CRICKET · FRONT AND CENTRE</p>
@@ -41,8 +39,8 @@
             Fixtures, live links, stats and highlights for women's cricket in India and around the world.
           </p>
           <div class="hero-actions">
-            <a href="#events" class="btn btn-primary" data-nav="events">See Upcoming Events</a>
-            <a href="#highlights" class="btn btn-ghost" data-nav="highlights">Catch Up on Highlights</a>
+            <a href="events.html" class="btn btn-primary">See Upcoming Events</a>
+            <a href="highlights.html" class="btn btn-ghost">Catch Up on Highlights</a>
           </div>
         </div>
         <figure class="hero-photo" id="heroPhoto">
@@ -79,75 +77,6 @@
         </div>
       </div>
     </section>
-
-    <!-- ===== EVENTS ===== -->
-    <section id="events" class="page">
-      <div class="container">
-        <h2 class="page-title">Upcoming Events</h2>
-        <p class="page-sub">All times are IST. Tap <strong>Watch live</strong> on match day to jump straight to the stream.</p>
-
-        <div class="subtabs">
-          <button class="subtab active" data-events-tab="india">India</button>
-          <button class="subtab" data-events-tab="world">International</button>
-        </div>
-
-        <div class="subtabs subtabs-format">
-          <button class="subtab active" data-format-tab="all">All formats</button>
-          <button class="subtab" data-format-tab="T20I">T20I</button>
-          <button class="subtab" data-format-tab="ODI">ODI</button>
-          <button class="subtab" data-format-tab="Test">Tests</button>
-          <button class="subtab" data-format-tab="leagues">Leagues</button>
-        </div>
-
-        <div class="search-row" id="worldSearchRow" hidden>
-          <input type="search" id="countrySearch" placeholder="Search a country — e.g. Australia, England, Sri Lanka" />
-        </div>
-
-        <div class="card-grid" id="eventsGrid"></div>
-        <p class="empty-msg" id="eventsEmpty" hidden>No upcoming matches for that filter. Try another format or country!</p>
-      </div>
-    </section>
-
-    <!-- ===== STATS ===== -->
-    <section id="stats" class="page">
-      <div class="container">
-        <h2 class="page-title">Player Stats</h2>
-        <p class="page-sub">Career T20I numbers for the biggest names in the women's game. Search by player or filter by country.</p>
-
-        <div class="filter-row">
-          <input type="search" id="playerSearch" placeholder="Search a player — e.g. Smriti Mandhana" />
-          <select id="countryFilter">
-            <option value="all">All countries</option>
-          </select>
-          <select id="roleFilter">
-            <option value="all">All roles</option>
-            <option value="Batter">Batters</option>
-            <option value="Bowler">Bowlers</option>
-            <option value="All-rounder">All-rounders</option>
-            <option value="Wicketkeeper">Wicketkeepers</option>
-          </select>
-        </div>
-
-        <div class="player-grid" id="playerGrid"></div>
-        <p class="empty-msg" id="playersEmpty" hidden>No players found. Try a different search.</p>
-      </div>
-    </section>
-
-    <!-- ===== HIGHLIGHTS ===== -->
-    <section id="highlights" class="page">
-      <div class="container">
-        <h2 class="page-title">Match Highlights</h2>
-        <p class="page-sub">Missed a match? Catch the best moments here — straight from the official broadcasters.</p>
-
-        <div class="search-row">
-          <input type="search" id="highlightSearch" placeholder="Search by team or tournament — e.g. India, World Cup" />
-        </div>
-
-        <div class="highlight-list" id="highlightList"></div>
-        <p class="empty-msg" id="highlightsEmpty" hidden>No highlights found for that search.</p>
-      </div>
-    </section>
-
   </main>
 
   <footer class="footer">
@@ -163,8 +92,8 @@
     </div>
   </footer>
 
-  <script src="js/data.js?v=7"></script>
-  <script src="js/app.js?v=7"></script>
-  <script src="js/live.js?v=7"></script>
+  <script src="js/data.js?v=8"></script>
+  <script src="js/app.js?v=8"></script>
+  <script src="js/live.js?v=8"></script>
 </body>
 </html>

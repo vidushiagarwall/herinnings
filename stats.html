@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Player Stats — Her Innings</title>
+  <meta name="description" content="Career stats for the biggest names in women's cricket — searchable by player, country and role." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css?v=8" />
+</head>
+<body>
+
+  <!-- ===== NAVBAR ===== -->
+  <header class="navbar">
+    <div class="nav-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-name">Her <span>Innings</span></span>
+      </a>
+      <nav class="nav-links" id="navLinks">
+        <a href="index.html">Home</a>
+        <a href="events.html">Events</a>
+        <a href="stats.html">Stats</a>
+        <a href="highlights.html">Highlights</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu">&#9776;</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="page">
+      <div class="container">
+        <h2 class="page-title">Player Stats</h2>
+        <p class="page-sub">Career T20I numbers for the biggest names in the women's game. Search by player or filter by country.</p>
+
+        <div class="filter-row">
+          <input type="search" id="playerSearch" placeholder="Search a player — e.g. Smriti Mandhana" />
+          <select id="countryFilter">
+            <option value="all">All countries</option>
+          </select>
+          <select id="roleFilter">
+            <option value="all">All roles</option>
+            <option value="Batter">Batters</option>
+            <option value="Bowler">Bowlers</option>
+            <option value="All-rounder">All-rounders</option>
+            <option value="Wicketkeeper">Wicketkeepers</option>
+          </select>
+        </div>
+
+        <div class="player-grid" id="playerGrid"></div>
+        <p class="empty-msg" id="playersEmpty" hidden>No players found. Try a different search.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div>
+        <p class="brand-name footer-brand">Her <span>Innings</span></p>
+        <p class="footer-tag">The home of women's cricket. Made by a fan, for fans.</p>
+      </div>
+      <p class="footer-note">
+        Her Innings is an independent fan project. Match data is updated manually and streaming availability may vary by region.
+        All highlights link to official broadcaster channels.
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/data.js?v=8"></script>
+  <script src="js/app.js?v=8"></script>
+  <script src="js/live.js?v=8"></script>
+</body>
+</html>

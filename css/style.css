@@ -87,9 +87,8 @@ body::before {
 }
 .nav-toggle:hover { border-color: var(--blue); color: var(--blue); }
 
-/* ===== Pages ===== */
-.page { display: none; padding-bottom: 80px; animation: fadeIn 0.3s ease; }
-.page.active-page { display: block; }
+/* ===== Pages (each one is its own .html file now) ===== */
+.page { display: block; padding-bottom: 80px; animation: fadeIn 0.3s ease; }
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
 
 /* ===== Hero — centred headline, photo banner below ===== */
