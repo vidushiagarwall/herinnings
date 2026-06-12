@@ -99,6 +99,10 @@ function renderHome() {
 
 // ---------- EVENTS ----------
 let eventsTab = "india";
+let formatTab = "all";
+
+// formats that count as international cricket; everything else is a league
+const intlFormats = ["T20I", "ODI", "Test"];
 
 function renderEvents() {
   const query = ($("#countrySearch").value || "").trim().toLowerCase();
@@ -119,9 +123,23 @@ function renderEvents() {
     }
   }
 
+  if (formatTab === "leagues") {
+    list = list.filter(m => !intlFormats.includes(m.format));
+  } else if (formatTab !== "all") {
+    list = list.filter(m => m.format === formatTab);
+  }
+
   $("#eventsGrid").innerHTML = list.map(matchCardHTML).join("");
   $("#eventsEmpty").hidden = list.length > 0;
 }
+
+$$("[data-format-tab]").forEach(btn => {
+  btn.addEventListener("click", () => {
+    formatTab = btn.dataset.formatTab;
+    $$("[data-format-tab]").forEach(b => b.classList.toggle("active", b === btn));
+    renderEvents();
+  });
+});
 
 $$("[data-events-tab]").forEach(btn => {
   btn.addEventListener("click", () => {

@@ -13,7 +13,10 @@ Just double-click `index.html` — it opens in your browser. No installation nee
 
 - **Add an upcoming match** → copy one block in `upcomingMatches`, change the
   teams, date, venue and streaming links. Set `involvesIndia: true` if India
-  is playing (this puts it in the India tab).
+  is playing (this puts it in the India tab). The `format` field drives the
+  format tabs on the Events page: use `"T20I"`, `"ODI"` or `"Test"` for
+  internationals — anything else (e.g. `"T20"`, `"The Hundred"`) lands in
+  the Leagues tab.
 - **A match finished?** → add it to `completedMatches` with the result and a
   link to the official highlights (YouTube/JioHotstar/ICC), and delete it
   from `upcomingMatches`.

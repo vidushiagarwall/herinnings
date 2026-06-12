@@ -90,12 +90,20 @@
           <button class="subtab" data-events-tab="world">International</button>
         </div>
 
+        <div class="subtabs subtabs-format">
+          <button class="subtab active" data-format-tab="all">All formats</button>
+          <button class="subtab" data-format-tab="T20I">T20I</button>
+          <button class="subtab" data-format-tab="ODI">ODI</button>
+          <button class="subtab" data-format-tab="Test">Tests</button>
+          <button class="subtab" data-format-tab="leagues">Leagues</button>
+        </div>
+
         <div class="search-row" id="worldSearchRow" hidden>
           <input type="search" id="countrySearch" placeholder="Search a country — e.g. Australia, England, Sri Lanka" />
         </div>
 
         <div class="card-grid" id="eventsGrid"></div>
-        <p class="empty-msg" id="eventsEmpty" hidden>No upcoming matches found for that country. Try another one!</p>
+        <p class="empty-msg" id="eventsEmpty" hidden>No upcoming matches for that filter. Try another format or country!</p>
       </div>
     </section>
 

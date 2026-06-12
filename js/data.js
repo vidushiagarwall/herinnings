@@ -103,6 +103,58 @@ const upcomingMatches = [
     ]
   },
   {
+    tournament: "India Women tour of Sri Lanka — 1st ODI",
+    teamA: "Sri Lanka", teamB: "India",
+    countries: ["Sri Lanka", "India"],
+    involvesIndia: true,
+    date: "2026-07-08", time: "02:30 PM IST",
+    venue: "R. Premadasa Stadium, Colombo",
+    format: "ODI",
+    watch: [
+      { platform: "JioHotstar", url: "https://www.hotstar.com" },
+      { platform: "Star Sports", url: "https://www.starsports.com" }
+    ]
+  },
+  {
+    tournament: "Australia Women tour of England — 1st ODI",
+    teamA: "England", teamB: "Australia",
+    countries: ["England", "Australia"],
+    involvesIndia: false,
+    date: "2026-07-20", time: "03:30 PM IST",
+    venue: "Lord's, London",
+    format: "ODI",
+    watch: [
+      { platform: "Sky Sports (UK)", url: "https://www.skysports.com" },
+      { platform: "FanCode (India)", url: "https://www.fancode.com" }
+    ]
+  },
+  {
+    tournament: "Australia Women tour of England — One-off Test",
+    teamA: "England", teamB: "Australia",
+    countries: ["England", "Australia"],
+    involvesIndia: false,
+    date: "2026-07-30", time: "03:30 PM IST",
+    venue: "Trent Bridge, Nottingham",
+    format: "Test",
+    watch: [
+      { platform: "Sky Sports (UK)", url: "https://www.skysports.com" },
+      { platform: "FanCode (India)", url: "https://www.fancode.com" }
+    ]
+  },
+  {
+    tournament: "Australia Women tour of India — One-off Test",
+    teamA: "India", teamB: "Australia",
+    countries: ["India", "Australia"],
+    involvesIndia: true,
+    date: "2026-09-17", time: "09:30 AM IST",
+    venue: "M. Chinnaswamy Stadium, Bengaluru",
+    format: "Test",
+    watch: [
+      { platform: "JioHotstar", url: "https://www.hotstar.com" },
+      { platform: "Star Sports", url: "https://www.starsports.com" }
+    ]
+  },
+  {
     tournament: "The Hundred Women 2026",
     teamA: "Oval Invincibles", teamB: "London Spirit",
     countries: ["England"],
