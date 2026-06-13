@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T08:37:15.777Z",
+  "updatedAt": "2026-06-13T18:58:10.832Z",
   "matches": [
     {
       "name": "Sri Lanka Women vs Pakistan Women, 3rd T20I, Pakistan Women tour of Sri Lanka, 2026",
@@ -456,7 +456,7 @@
     {
       "name": "West Indies Women vs New Zealand Women, 4th Match, Group B, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 13, 17:30 GMT",
+      "status": "West Indies Women opt to bowl",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-06-13",
       "dateTimeGMT": "2026-06-13T17:30:00",
@@ -469,7 +469,7 @@
     {
       "name": "Australia Women vs South Africa Women, 3rd Match, Group A, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 13, 13:30 GMT",
+      "status": "Australia Women won by 65 runs",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-06-13",
       "dateTimeGMT": "2026-06-13T13:30:00",
@@ -477,12 +477,12 @@
         "Australia Women",
         "South Africa Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
-      "name": "Scotland Women vs Ireland Women, 2nd Match, Group A, ICC Womens T20 World Cup 2026",
+      "name": "Scotland Women vs Ireland Women, 2nd Match, Group B, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 13, 09:30 GMT",
+      "status": "Scotland Women won by 40 runs",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-06-13",
       "dateTimeGMT": "2026-06-13T09:30:00",
@@ -490,7 +490,7 @@
         "Scotland Women",
         "Ireland Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "England Women vs Sri Lanka Women, 1st Match, Group B, ICC Womens T20 World Cup 2026",
@@ -519,9 +519,9 @@
       "matchEnded": false
     },
     {
-      "name": "Jersey Women vs Guernsey Women, 1st T20I, Guernsey Women tour of Jersey 2026",
+      "name": "Jersey Women vs Guernsey Women, 1st T20I, Guernsey Women tour of Jersey, 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 14, 09:00 GMT",
+      "status": "Match starts at Jun 14, 10:00 GMT",
       "venue": "Grainville, St Saviour",
       "date": "2026-06-14",
       "dateTimeGMT": "2026-06-14T09:00:00",
@@ -656,240 +656,6 @@
         "Jamaica Empress Women"
       ],
       "matchEnded": false
-    },
-    {
-      "name": "Jamaica Empress Women vs Guyana Amazon Warriors Women, 2nd Match, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Sep 06, 18:00 GMT",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-05",
-      "dateTimeGMT": "2026-09-05T18:00:00",
-      "teams": [
-        "Jamaica Empress Women",
-        "Guyana Amazon Warriors Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Barbados Tridents Women vs Trinbago Knight Riders Women, 1st Match, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Sep 06, 19:00 GMT",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-05",
-      "dateTimeGMT": "2026-09-05T19:00:00",
-      "teams": [
-        "Barbados Tridents Women",
-        "Trinbago Knight Riders Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Cyprus Women vs Malta Women, 5th T20I, Malta Women tour of Cyprus, 2026",
-      "matchType": "t20",
-      "status": "Match starts at Jun 20, 07:30 GMT",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-06-20",
-      "dateTimeGMT": "2026-06-20T07:30:00",
-      "teams": [
-        "Cyprus Women",
-        "Malta Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Cyprus Women vs Malta Women, 4th T20I, Malta Women tour of Cyprus, 2026",
-      "matchType": "t20",
-      "status": "Match starts at Jun 19, 12:30 GMT",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-06-19",
-      "dateTimeGMT": "2026-06-19T12:30:00",
-      "teams": [
-        "Cyprus Women",
-        "Malta Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Cyprus Women vs Malta Women, 3rd T20I, Malta Women tour of Cyprus, 2026",
-      "matchType": "t20",
-      "status": "Match starts at Jun 19, 07:30 GMT",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-06-19",
-      "dateTimeGMT": "2026-06-19T07:30:00",
-      "teams": [
-        "Cyprus Women",
-        "Malta Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Cyprus Women vs Malta Women, 2nd T20I, Malta Women tour of Cyprus, 2026",
-      "matchType": "t20",
-      "status": "Match starts at Jun 18, 12:30 GMT",
-      "venue": "Happy Valley Ground, Episkopi",
-      "date": "2026-06-18",
-      "dateTimeGMT": "2026-06-18T12:30:00",
-      "teams": [
-        "Cyprus Women",
-        "Malta Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Cyprus Women vs Malta Women, 1st T20I, Malta Women tour of Cyprus, 2026",
-      "matchType": "t20",
-      "status": "Match starts at Jun 18, 07:30 GMT",
-      "venue": "Kennington Oval, London",
-      "date": "2026-06-18",
-      "dateTimeGMT": "2026-06-18T07:30:00",
-      "teams": [
-        "Cyprus Women",
-        "Malta Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "West Indies Women vs Australia Women, 12th match, ICC Womens T20 World Cup Warm-up Matches 2026",
-      "matchType": "t20",
-      "status": "Australia Women won by 6 wkts",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-06-10",
-      "dateTimeGMT": "2026-06-10T14:00:00",
-      "teams": [
-        "West Indies Women",
-        "Australia Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "India Women vs England Women, 11th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
-      "matchType": "t20",
-      "status": "England Women won by 5 runs",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-06-10",
-      "dateTimeGMT": "2026-06-10T09:00:00",
-      "teams": [
-        "India Women",
-        "England Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "South Africa Women vs New Zealand Women, 10th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
-      "matchType": "t20",
-      "status": "New Zealand Women won by 5 wkts",
-      "venue": "Haslegrave Ground, Loughborough",
-      "date": "2026-06-09",
-      "dateTimeGMT": "2026-06-09T14:00:00",
-      "teams": [
-        "South Africa Women",
-        "New Zealand Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Netherlands Women vs Sri Lanka Women, 9th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
-      "matchType": "t20",
-      "status": "Sri Lanka Women won by 7 wkts",
-      "venue": "County Ground, Derby",
-      "date": "2026-06-09",
-      "dateTimeGMT": "2026-06-09T14:00:00",
-      "teams": [
-        "Netherlands Women",
-        "Sri Lanka Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Scotland Women vs Pakistan Women, 7th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
-      "matchType": "t20",
-      "status": "Scotland Women won by 41 runs (DLS method)",
-      "venue": "County Ground, Derby",
-      "date": "2026-06-09",
-      "dateTimeGMT": "2026-06-09T09:00:00",
-      "teams": [
-        "Scotland Women",
-        "Pakistan Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Ireland Women vs Bangladesh Women, 8th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
-      "matchType": "t20",
-      "status": "Ireland Women won by 11 runs",
-      "venue": "Haslegrave Ground, Loughborough",
-      "date": "2026-06-09",
-      "dateTimeGMT": "2026-06-09T09:00:00",
-      "teams": [
-        "Ireland Women",
-        "Bangladesh Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "England Women vs Australia Women, 6th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
-      "matchType": "t20",
-      "status": "Australia Women won by 5 wkts",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-06-08",
-      "dateTimeGMT": "2026-06-08T14:00:00",
-      "teams": [
-        "England Women",
-        "Australia Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "West Indies Women vs India Women, 5th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
-      "matchType": "t20",
-      "status": "India Women won by 26 runs",
-      "venue": "Sophia Gardens, Cardiff",
-      "date": "2026-06-08",
-      "dateTimeGMT": "2026-06-08T09:00:00",
-      "teams": [
-        "West Indies Women",
-        "India Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "New Zealand Women vs Bangladesh Women, 4th Match, ICC Womens T20 World Cup Warm-up Matches 2026",
-      "matchType": "t20",
-      "status": "New Zealand Women won by 68 runs",
-      "venue": "Haslegrave Ground, Loughborough",
-      "date": "2026-06-06",
-      "dateTimeGMT": "2026-06-06T00:00:00",
-      "teams": [
-        "New Zealand Women",
-        "Bangladesh Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Sri Lanka Women vs Pakistan Women, 3rd Match, ICC Womens T20 World Cup Warm-up Matches 2026",
-      "matchType": "t20",
-      "status": "Sri Lanka Women won by 9 wkts",
-      "venue": "County Ground, Derby",
-      "date": "2026-06-06",
-      "dateTimeGMT": "2026-06-06T00:00:00",
-      "teams": [
-        "Sri Lanka Women",
-        "Pakistan Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "South Africa Women vs Ireland Women, 2nd Match, ICC Womens T20 World Cup Warm-up Matches 2026",
-      "matchType": "t20",
-      "status": "South Africa Women won by 15 runs - 18 Overs game due to rain",
-      "venue": "Haslegrave Ground, Loughborough",
-      "date": "2026-06-06",
-      "dateTimeGMT": "2026-06-06T00:00:00",
-      "teams": [
-        "South Africa Women",
-        "Ireland Women"
-      ],
-      "matchEnded": true
     }
   ]
 }
