@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-06-14T08:55:46.557Z",
+  "updatedAt": "2026-06-14T19:00:30.038Z",
   "matches": [
+    {
+      "name": "South Africa Women vs India Women, One-off Test, India Women tour of South Africa 2026",
+      "status": "Match starts at Dec 20, 08:00 GMT",
+      "venue": "St George's Park, Gqeberha",
+      "date": "2026-12-20",
+      "dateTimeGMT": "2026-12-20T08:00:00",
+      "teams": [
+        "South Africa Women",
+        "India Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "South Africa Women vs India Women, 3rd ODI, India Women tour of South Africa 2026",
+      "status": "Match starts at Dec 15, 12:00 GMT",
+      "venue": "Newlands, Cape Town",
+      "date": "2026-12-15",
+      "dateTimeGMT": "2026-12-15T12:00:00",
+      "teams": [
+        "South Africa Women",
+        "India Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "South Africa Women vs India Women, 2nd ODI, India Women tour of South Africa 2026",
+      "status": "Match starts at Dec 12, 08:00 GMT",
+      "venue": "Mangaung Oval, Bloemfontein",
+      "date": "2026-12-12",
+      "dateTimeGMT": "2026-12-12T08:00:00",
+      "teams": [
+        "South Africa Women",
+        "India Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "South Africa Women vs India Women, 1st ODI, India Women tour of South Africa 2026",
+      "status": "Match starts at Dec 09, 12:00 GMT",
+      "venue": "Senwes Park, Potchefstroom",
+      "date": "2026-12-09",
+      "dateTimeGMT": "2026-12-09T12:00:00",
+      "teams": [
+        "South Africa Women",
+        "India Women"
+      ],
+      "matchEnded": false
+    },
     {
       "name": "Sri Lanka Women vs Pakistan Women, 3rd T20I, Pakistan Women tour of Sri Lanka, 2026",
       "matchType": "t20",
@@ -430,7 +478,7 @@
     {
       "name": "India Women vs Pakistan Women, 6th Match, Group A, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 14, 13:30 GMT",
+      "status": "India Women won by 64 runs",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-06-14",
       "dateTimeGMT": "2026-06-14T13:30:00",
@@ -438,12 +486,12 @@
         "India Women",
         "Pakistan Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Bangladesh Women vs Netherlands Women, 5th Match, Group A, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 14, 09:30 GMT",
+      "status": "Bangladesh Women won by 6 wkts",
       "venue": "Edgbaston, Birmingham",
       "date": "2026-06-14",
       "dateTimeGMT": "2026-06-14T09:30:00",
@@ -451,7 +499,7 @@
         "Bangladesh Women",
         "Netherlands Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "West Indies Women vs New Zealand Women, 4th Match, Group B, ICC Womens T20 World Cup 2026",
