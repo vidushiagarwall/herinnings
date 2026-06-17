@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T15:32:53.619Z",
+  "updatedAt": "2026-06-17T12:35:00.850Z",
   "matches": [
     {
       "name": "South Africa Women vs India Women, One-off Test, India Women tour of South Africa 2026",
@@ -439,7 +439,7 @@
     {
       "name": "Australia Women vs Bangladesh Women, 9th Match, Group A, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 17, 09:30 GMT",
+      "status": "Australia Women won by 9 wkts",
       "venue": "Headingley, Leeds",
       "date": "2026-06-17",
       "dateTimeGMT": "2026-06-17T09:30:00",
@@ -447,12 +447,12 @@
         "Australia Women",
         "Bangladesh Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "England Women vs Ireland Women, 8th Match, Group B, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 16, 17:30 GMT",
+      "status": "England Women won by 4 wkts",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-06-16",
       "dateTimeGMT": "2026-06-16T17:30:00",
@@ -460,12 +460,12 @@
         "England Women",
         "Ireland Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "New Zealand Women vs Sri Lanka Women, 7th Match, Group B, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Sri Lanka Women need 141 runs",
+      "status": "Sri Lanka Women won by 5 wkts",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-06-16",
       "dateTimeGMT": "2026-06-16T13:30:00",
@@ -473,7 +473,7 @@
         "New Zealand Women",
         "Sri Lanka Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "India Women vs Pakistan Women, 6th Match, Group A, ICC Womens T20 World Cup 2026",
@@ -511,45 +511,6 @@
       "teams": [
         "West Indies Women",
         "New Zealand Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Australia Women vs South Africa Women, 3rd Match, Group A, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "Australia Women won by 65 runs",
-      "venue": "Emirates Old Trafford, Manchester",
-      "date": "2026-06-13",
-      "dateTimeGMT": "2026-06-13T13:30:00",
-      "teams": [
-        "Australia Women",
-        "South Africa Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Scotland Women vs Ireland Women, 2nd Match, Group B, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "Scotland Women won by 40 runs",
-      "venue": "Emirates Old Trafford, Manchester",
-      "date": "2026-06-13",
-      "dateTimeGMT": "2026-06-13T09:30:00",
-      "teams": [
-        "Scotland Women",
-        "Ireland Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "England Women vs Sri Lanka Women, 1st Match, Group B, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "England Women won by 87 runs",
-      "venue": "Edgbaston, Birmingham",
-      "date": "2026-06-12",
-      "dateTimeGMT": "2026-06-12T17:30:00",
-      "teams": [
-        "England Women",
-        "Sri Lanka Women"
       ],
       "matchEnded": true
     }
