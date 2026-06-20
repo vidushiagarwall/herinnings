@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T21:43:48.303Z",
+  "updatedAt": "2026-06-20T06:46:05.732Z",
   "matches": [
     {
       "name": "South Africa Women vs India Women, One-off Test, India Women tour of South Africa 2026",
@@ -266,6 +266,292 @@
         "Bangladesh Women"
       ],
       "matchEnded": false
+    },
+    {
+      "name": "England Women vs West Indies Women, 22nd Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jun 24, 17:30 GMT",
+      "venue": "Lord's, London",
+      "date": "2026-06-24",
+      "dateTimeGMT": "2026-06-24T17:30:00",
+      "teams": [
+        "England Women",
+        "West Indies Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Australia Women vs Pakistan Women, 21st Match, Group A, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jun 23, 17:30 GMT",
+      "venue": "Headingley, Leeds",
+      "date": "2026-06-23",
+      "dateTimeGMT": "2026-06-23T17:30:00",
+      "teams": [
+        "Australia Women",
+        "Pakistan Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Sri Lanka Women vs Ireland Women, 20th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jun 23, 13:30 GMT",
+      "venue": "County Ground, Bristol",
+      "date": "2026-06-23",
+      "dateTimeGMT": "2026-06-23T13:30:00",
+      "teams": [
+        "Sri Lanka Women",
+        "Ireland Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "New Zealand Women vs Scotland Women, 19th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jun 23, 09:30 GMT",
+      "venue": "County Ground, Bristol",
+      "date": "2026-06-23",
+      "dateTimeGMT": "2026-06-23T09:30:00",
+      "teams": [
+        "New Zealand Women",
+        "Scotland Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "South Africa Women vs India Women, 18th Match, Group A, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jun 21, 13:30 GMT",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-06-21",
+      "dateTimeGMT": "2026-06-21T13:30:00",
+      "teams": [
+        "South Africa Women",
+        "India Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "West Indies Women vs Sri Lanka Women, 17th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jun 21, 09:30 GMT",
+      "venue": "County Ground, Bristol",
+      "date": "2026-06-21",
+      "dateTimeGMT": "2026-06-21T09:30:00",
+      "teams": [
+        "West Indies Women",
+        "Sri Lanka Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "England Women vs Scotland Women, 16th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jun 20, 17:30 GMT",
+      "venue": "Headingley, Leeds",
+      "date": "2026-06-20",
+      "dateTimeGMT": "2026-06-20T17:30:00",
+      "teams": [
+        "England Women",
+        "Scotland Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Pakistan Women vs Bangladesh Women, 15th Match, Group A, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jun 20, 13:30 GMT",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-06-20",
+      "dateTimeGMT": "2026-06-20T13:30:00",
+      "teams": [
+        "Pakistan Women",
+        "Bangladesh Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Australia Women vs Netherlands Women, 14th Match, Group A, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jun 20, 09:30 GMT",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-06-20",
+      "dateTimeGMT": "2026-06-20T09:30:00",
+      "teams": [
+        "Australia Women",
+        "Netherlands Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "New Zealand Women vs Ireland Women, 13th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "New Zealand Women won by 4 runs",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-06-19",
+      "dateTimeGMT": "2026-06-19T17:30:00",
+      "teams": [
+        "New Zealand Women",
+        "Ireland Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "West Indies Women vs Scotland Women, 12th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "West Indies Women won by 7 runs",
+      "venue": "Headingley, Leeds",
+      "date": "2026-06-18",
+      "dateTimeGMT": "2026-06-18T17:30:00",
+      "teams": [
+        "West Indies Women",
+        "Scotland Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "South Africa Women vs Pakistan Women, 11th Match, Group A, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "South Africa Women won by 2 wkts",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-06-17",
+      "dateTimeGMT": "2026-06-17T17:30:00",
+      "teams": [
+        "South Africa Women",
+        "Pakistan Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "India Women vs Netherlands Women, 10th Match, Group A, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "India Women won by 95 runs",
+      "venue": "Headingley, Leeds",
+      "date": "2026-06-17",
+      "dateTimeGMT": "2026-06-17T13:30:00",
+      "teams": [
+        "India Women",
+        "Netherlands Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Australia Women vs Bangladesh Women, 9th Match, Group A, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Australia Women won by 9 wkts",
+      "venue": "Headingley, Leeds",
+      "date": "2026-06-17",
+      "dateTimeGMT": "2026-06-17T09:30:00",
+      "teams": [
+        "Australia Women",
+        "Bangladesh Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "England Women vs Ireland Women, 8th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "England Women won by 4 wkts",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-06-16",
+      "dateTimeGMT": "2026-06-16T17:30:00",
+      "teams": [
+        "England Women",
+        "Ireland Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "New Zealand Women vs Sri Lanka Women, 7th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Sri Lanka Women won by 5 wkts",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-06-16",
+      "dateTimeGMT": "2026-06-16T13:30:00",
+      "teams": [
+        "New Zealand Women",
+        "Sri Lanka Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "India Women vs Pakistan Women, 6th Match, Group A, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "India Women won by 64 runs",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-06-14",
+      "dateTimeGMT": "2026-06-14T13:30:00",
+      "teams": [
+        "India Women",
+        "Pakistan Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Bangladesh Women vs Netherlands Women, 5th Match, Group A, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Bangladesh Women won by 6 wkts",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-06-14",
+      "dateTimeGMT": "2026-06-14T09:30:00",
+      "teams": [
+        "Bangladesh Women",
+        "Netherlands Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "West Indies Women vs New Zealand Women, 4th Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "West Indies Women won by 7 wkts",
+      "venue": "The Rose Bowl, Southampton",
+      "date": "2026-06-13",
+      "dateTimeGMT": "2026-06-13T17:30:00",
+      "teams": [
+        "West Indies Women",
+        "New Zealand Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Australia Women vs South Africa Women, 3rd Match, Group A, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Australia Women won by 65 runs",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-06-13",
+      "dateTimeGMT": "2026-06-13T13:30:00",
+      "teams": [
+        "Australia Women",
+        "South Africa Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Scotland Women vs Ireland Women, 2nd Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "Scotland Women won by 40 runs",
+      "venue": "Emirates Old Trafford, Manchester",
+      "date": "2026-06-13",
+      "dateTimeGMT": "2026-06-13T09:30:00",
+      "teams": [
+        "Scotland Women",
+        "Ireland Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "England Women vs Sri Lanka Women, 1st Match, Group B, ICC Womens T20 World Cup 2026",
+      "matchType": "t20",
+      "status": "England Women won by 87 runs",
+      "venue": "Edgbaston, Birmingham",
+      "date": "2026-06-12",
+      "dateTimeGMT": "2026-06-12T17:30:00",
+      "teams": [
+        "England Women",
+        "Sri Lanka Women"
+      ],
+      "matchEnded": true
     }
   ]
 }
