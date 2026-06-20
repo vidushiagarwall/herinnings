@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T10:57:43.923Z",
+  "updatedAt": "2026-06-20T15:58:09.084Z",
   "matches": [
     {
       "name": "South Africa Women vs India Women, One-off Test, India Women tour of South Africa 2026",
@@ -361,7 +361,7 @@
     {
       "name": "Pakistan Women vs Bangladesh Women, 15th Match, Group A, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 20, 13:30 GMT",
+      "status": "Pakistan Women need 66 runs in 65 balls",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-06-20",
       "dateTimeGMT": "2026-06-20T13:30:00",
@@ -374,7 +374,7 @@
     {
       "name": "Australia Women vs Netherlands Women, 14th Match, Group A, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Netherlands Women opt to bowl",
+      "status": "Australia Women won by 98 runs",
       "venue": "The Rose Bowl, Southampton",
       "date": "2026-06-20",
       "dateTimeGMT": "2026-06-20T09:30:00",
@@ -382,7 +382,7 @@
         "Australia Women",
         "Netherlands Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "New Zealand Women vs Ireland Women, 13th Match, Group B, ICC Womens T20 World Cup 2026",
