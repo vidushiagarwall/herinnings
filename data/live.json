@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T11:29:46.968Z",
+  "updatedAt": "2026-06-21T16:15:16.620Z",
   "matches": [
     {
       "name": "South Africa Women vs India Women, One-off Test, India Women tour of South Africa 2026",
@@ -322,7 +322,7 @@
     {
       "name": "South Africa Women vs India Women, 18th Match, Group A, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 21, 13:30 GMT",
+      "status": "South Africa Women need 82 runs in 48 balls",
       "venue": "Emirates Old Trafford, Manchester",
       "date": "2026-06-21",
       "dateTimeGMT": "2026-06-21T13:30:00",
@@ -335,7 +335,7 @@
     {
       "name": "West Indies Women vs Sri Lanka Women, 17th Match, Group B, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "West Indies Women won by 5 wkts",
       "venue": "County Ground, Bristol",
       "date": "2026-06-21",
       "dateTimeGMT": "2026-06-21T09:30:00",
@@ -343,7 +343,7 @@
         "West Indies Women",
         "Sri Lanka Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "England Women vs Scotland Women, 16th Match, Group B, ICC Womens T20 World Cup 2026",
