@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T11:38:45.831Z",
+  "updatedAt": "2026-06-23T17:00:22.956Z",
   "matches": [
     {
       "name": "Denmark Women vs Switzerland Women, 2nd T20I, Switzerland Women tour of Denmark, 2026",
@@ -335,7 +335,7 @@
     {
       "name": "Sri Lanka Women vs Ireland Women, 20th Match, Group B, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 23, 13:30 GMT",
+      "status": "Sri Lanka Women won by 9 wkts",
       "venue": "County Ground, Bristol",
       "date": "2026-06-23",
       "dateTimeGMT": "2026-06-23T13:30:00",
@@ -343,12 +343,12 @@
         "Sri Lanka Women",
         "Ireland Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "New Zealand Women vs Scotland Women, 19th Match, Group B, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Innings Break",
+      "status": "New Zealand Women won by 6 wkts",
       "venue": "County Ground, Bristol",
       "date": "2026-06-23",
       "dateTimeGMT": "2026-06-23T09:30:00",
@@ -356,7 +356,7 @@
         "New Zealand Women",
         "Scotland Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "South Africa Women vs India Women, 18th Match, Group A, ICC Womens T20 World Cup 2026",
