@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-06-23T06:32:03.951Z",
+  "updatedAt": "2026-06-23T11:38:45.831Z",
   "matches": [
+    {
+      "name": "Denmark Women vs Switzerland Women, 2nd T20I, Switzerland Women tour of Denmark, 2026",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Albertslund Cricket Club, Copenhagen",
+      "date": "2026-06-27",
+      "dateTimeGMT": "2026-06-27T13:30:00",
+      "teams": [
+        "Denmark Women",
+        "Switzerland Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Denmark Women vs Switzerland Women, 1st T20I, Switzerland Women tour of Denmark, 2026",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Albertslund Cricket Club, Copenhagen",
+      "date": "2026-06-27",
+      "dateTimeGMT": "2026-06-27T09:00:00",
+      "teams": [
+        "Denmark Women",
+        "Switzerland Women"
+      ],
+      "matchEnded": false
+    },
     {
       "name": "Bulgaria Women vs Serbia Women, 1st T20I, Serbia Women tour of Bulgaria, 2026",
       "matchType": "t20",
@@ -322,7 +348,7 @@
     {
       "name": "New Zealand Women vs Scotland Women, 19th Match, Group B, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 23, 09:30 GMT",
+      "status": "Innings Break",
       "venue": "County Ground, Bristol",
       "date": "2026-06-23",
       "dateTimeGMT": "2026-06-23T09:30:00",
