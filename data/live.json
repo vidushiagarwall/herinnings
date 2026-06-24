@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T11:22:42.990Z",
+  "updatedAt": "2026-06-24T16:37:50.990Z",
   "matches": [
     {
       "name": "Bulgaria Women vs Serbia Women, 1st T20I, Serbia Women tour of Bulgaria, 2026",
@@ -550,19 +550,6 @@
       "teams": [
         "Scotland Women",
         "Ireland Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "England Women vs Sri Lanka Women, 1st Match, Group B, ICC Womens T20 World Cup 2026",
-      "matchType": "t20",
-      "status": "England Women won by 87 runs",
-      "venue": "Edgbaston, Birmingham",
-      "date": "2026-06-12",
-      "dateTimeGMT": "2026-06-12T17:30:00",
-      "teams": [
-        "England Women",
-        "Sri Lanka Women"
       ],
       "matchEnded": true
     }
