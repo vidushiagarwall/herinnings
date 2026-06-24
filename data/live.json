@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T16:37:50.990Z",
+  "updatedAt": "2026-06-24T21:53:46.010Z",
   "matches": [
     {
       "name": "Bulgaria Women vs Serbia Women, 1st T20I, Serbia Women tour of Bulgaria, 2026",
@@ -283,7 +283,7 @@
     {
       "name": "England Women vs West Indies Women, 22nd Match, Group B, ICC Womens T20 World Cup 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 24, 17:30 GMT",
+      "status": "England Women won by 38 runs",
       "venue": "Lord's, London",
       "date": "2026-06-24",
       "dateTimeGMT": "2026-06-24T17:30:00",
@@ -291,7 +291,7 @@
         "England Women",
         "West Indies Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Australia Women vs Pakistan Women, 21st Match, Group A, ICC Womens T20 World Cup 2026",
