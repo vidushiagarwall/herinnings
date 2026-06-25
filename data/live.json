@@ -1,64 +1,78 @@
 {
-  "updatedAt": "2026-06-25T16:40:44.123Z",
+  "updatedAt": "2026-06-25T22:02:51.184Z",
   "matches": [
     {
-      "name": "Bulgaria Women vs Serbia Women, 1st T20I, Serbia Women tour of Bulgaria, 2026",
+      "name": "New Zealand Women vs Bangladesh Women, 3rd ODI, Bangladesh Women tour of New Zealand 2026",
+      "status": "Match starts at Dec 23, 02:00 GMT",
+      "venue": "Bay Oval, Mount Maunganui",
+      "date": "2026-12-23",
+      "dateTimeGMT": "2026-12-23T02:00:00",
+      "teams": [
+        "New Zealand Women",
+        "Bangladesh Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "New Zealand Women vs Bangladesh Women, 2nd ODI, Bangladesh Women tour of New Zealand 2026",
+      "status": "Match starts at Dec 21, 02:00 GMT",
+      "venue": "Bay Oval, Mount Maunganui",
+      "date": "2026-12-21",
+      "dateTimeGMT": "2026-12-21T02:00:00",
+      "teams": [
+        "New Zealand Women",
+        "Bangladesh Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "New Zealand Women vs Bangladesh Women, 1st ODI, Bangladesh Women tour of New Zealand 2026",
+      "status": "Match starts at Dec 18, 02:00 GMT",
+      "venue": "Sky Stadium, Wellington",
+      "date": "2026-12-18",
+      "dateTimeGMT": "2026-12-18T02:00:00",
+      "teams": [
+        "New Zealand Women",
+        "Bangladesh Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "New Zealand Women vs Bangladesh Women, 3rd T20I, Bangladesh Women tour of New Zealand 2026",
       "matchType": "t20",
-      "status": "Match not started",
-      "venue": "National Sports Academy, Sofia",
-      "date": "2026-06-26",
-      "dateTimeGMT": "2026-06-26T12:00:00",
-      "teams": [
-        "Bulgaria Women",
-        "Serbia Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "South Africa Women vs India Women, One-off Test, India Women tour of South Africa 2026",
-      "status": "Match starts at Dec 20, 08:00 GMT",
-      "venue": "St George's Park, Gqeberha",
-      "date": "2026-12-20",
-      "dateTimeGMT": "2026-12-20T08:00:00",
-      "teams": [
-        "South Africa Women",
-        "India Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "South Africa Women vs India Women, 3rd ODI, India Women tour of South Africa 2026",
-      "status": "Match starts at Dec 15, 12:00 GMT",
-      "venue": "Newlands, Cape Town",
+      "status": "Match starts at Dec 15, 07:00 GMT",
+      "venue": "Sky Stadium, Wellington",
       "date": "2026-12-15",
-      "dateTimeGMT": "2026-12-15T12:00:00",
+      "dateTimeGMT": "2026-12-15T07:00:00",
       "teams": [
-        "South Africa Women",
-        "India Women"
+        "New Zealand Women",
+        "Bangladesh Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "South Africa Women vs India Women, 2nd ODI, India Women tour of South Africa 2026",
-      "status": "Match starts at Dec 12, 08:00 GMT",
-      "venue": "Mangaung Oval, Bloemfontein",
+      "name": "New Zealand Women vs Bangladesh Women, 2nd T20I, Bangladesh Women tour of New Zealand 2026",
+      "matchType": "t20",
+      "status": "Match starts at Dec 12, 07:00 GMT",
+      "venue": "Saxton Oval, Nelson",
       "date": "2026-12-12",
-      "dateTimeGMT": "2026-12-12T08:00:00",
+      "dateTimeGMT": "2026-12-12T07:00:00",
       "teams": [
-        "South Africa Women",
-        "India Women"
+        "New Zealand Women",
+        "Bangladesh Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "South Africa Women vs India Women, 1st ODI, India Women tour of South Africa 2026",
-      "status": "Match starts at Dec 09, 12:00 GMT",
-      "venue": "Senwes Park, Potchefstroom",
-      "date": "2026-12-09",
-      "dateTimeGMT": "2026-12-09T12:00:00",
+      "name": "New Zealand Women vs Bangladesh Women, 1st T20I, Bangladesh Women tour of New Zealand 2026",
+      "matchType": "t20",
+      "status": "Match starts at Dec 10, 07:00 GMT",
+      "venue": "Saxton Oval, Nelson",
+      "date": "2026-12-10",
+      "dateTimeGMT": "2026-12-10T07:00:00",
       "teams": [
-        "South Africa Women",
-        "India Women"
+        "New Zealand Women",
+        "Bangladesh Women"
       ],
       "matchEnded": false
     }
