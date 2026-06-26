@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T16:31:47.396Z",
+  "updatedAt": "2026-06-26T21:47:16.873Z",
   "matches": [
     {
       "name": "Bulgaria Women vs Serbia Women, 4th T20I, Serbia Women tour of Bulgaria, 2026",
@@ -170,7 +170,7 @@
     {
       "name": "Luxembourg Women vs Czech Republic Women, 2nd Match, Womens T20I Central Europe Cup, 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 26, 13:00 GMT",
+      "status": "Czech Republic Women won by 10 wkts",
       "venue": "Scott Page Field, Vinor, Prague",
       "date": "2026-06-26",
       "dateTimeGMT": "2026-06-26T13:00:00",
@@ -178,7 +178,7 @@
         "Luxembourg Women",
         "Czech Republic Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Norway Women vs Luxembourg Women, 1st Match, Womens T20I Central Europe Cup, 2026",
