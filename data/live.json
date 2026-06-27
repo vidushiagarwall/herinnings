@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T10:32:48.335Z",
+  "updatedAt": "2026-06-27T15:48:33.540Z",
   "matches": [
     {
       "name": "Bulgaria Women vs Serbia Women, 4th T20I, Serbia Women tour of Bulgaria, 2026",
@@ -79,7 +79,7 @@
     {
       "name": "India Women U19 vs Sri Lanka Women U19, 3rd unofficial T20, Sri Lanka Women U19 tour of India 2026",
       "matchType": "t20",
-      "status": "India Women U19 need 68 runs in 66 balls",
+      "status": "India Women U19 won by 7 wkts",
       "venue": "MA Chidambaram Stadium, Chennai",
       "date": "2026-06-27",
       "dateTimeGMT": "2026-06-27T07:30:00",
@@ -87,7 +87,7 @@
         "India Women U19",
         "Sri Lanka Women U19"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "India Women U19 vs Sri Lanka Women U19, 2nd unofficial T20, Sri Lanka Women U19 tour of India 2026",
@@ -144,7 +144,7 @@
     {
       "name": "Norway Women vs Luxembourg Women, 4th Match, Womens T20I Central Europe Cup, 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 27, 13:00 GMT",
+      "status": "Luxembourg Women need 159 runs",
       "venue": "Scott Page Field, Vinor, Prague",
       "date": "2026-06-27",
       "dateTimeGMT": "2026-06-27T13:00:00",
@@ -157,7 +157,7 @@
     {
       "name": "Czech Republic Women vs Norway Women, 3rd Match, Womens T20I Central Europe Cup, 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 27, 09:00 GMT",
+      "status": "Czech Republic Women won by 33 runs",
       "venue": "Scott Page Field, Vinor, Prague",
       "date": "2026-06-27",
       "dateTimeGMT": "2026-06-27T09:00:00",
@@ -165,7 +165,7 @@
         "Czech Republic Women",
         "Norway Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Luxembourg Women vs Czech Republic Women, 2nd Match, Womens T20I Central Europe Cup, 2026",
@@ -222,7 +222,7 @@
     {
       "name": "Denmark Women vs Switzerland Women, 2nd T20I, Switzerland Women tour of Denmark, 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 27, 13:30 GMT",
+      "status": "Denmark Women opt to bat",
       "venue": "Albertslund Cricket Club, Copenhagen",
       "date": "2026-06-27",
       "dateTimeGMT": "2026-06-27T13:30:00",
@@ -235,7 +235,7 @@
     {
       "name": "Denmark Women vs Switzerland Women, 1st T20I, Switzerland Women tour of Denmark, 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 27, 09:00 GMT",
+      "status": "Denmark Women won by 44 runs",
       "venue": "Albertslund Cricket Club, Copenhagen",
       "date": "2026-06-27",
       "dateTimeGMT": "2026-06-27T09:00:00",
@@ -243,7 +243,7 @@
         "Denmark Women",
         "Switzerland Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "South Africa Women vs Australia Women, One-off Test, Australia Women tour of South Africa, 2027",
