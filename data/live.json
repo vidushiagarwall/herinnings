@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-28T15:49:17.465Z",
+  "updatedAt": "2026-06-28T21:38:11.602Z",
   "matches": [
     {
       "name": "Bulgaria Women vs Serbia Women, 4th T20I, Serbia Women tour of Bulgaria, 2026",
       "matchType": "t20",
-      "status": "Serbia Women need 21 runs in 38 balls",
+      "status": "Serbia Women won by 5 wkts",
       "venue": "National Sports Academy, Sofia",
       "date": "2026-06-28",
       "dateTimeGMT": "2026-06-28T06:00:00",
@@ -12,7 +12,7 @@
         "Bulgaria Women",
         "Serbia Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Bulgaria Women vs Serbia Women, 3rd T20I, Serbia Women tour of Bulgaria, 2026",
@@ -118,7 +118,7 @@
     {
       "name": "Czech Republic Women vs Norway Women, 6th Match, Womens T20I Central Europe Cup, 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 28, 12:30 GMT",
+      "status": "Czech Republic Women won by 7 wkts",
       "venue": "Scott Page Field, Vinor, Prague",
       "date": "2026-06-28",
       "dateTimeGMT": "2026-06-28T12:30:00",
@@ -126,7 +126,7 @@
         "Czech Republic Women",
         "Norway Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Luxembourg Women vs Czech Republic Women, 5th Match, Womens T20I Central Europe Cup, 2026",
@@ -196,7 +196,7 @@
     {
       "name": "Denmark Women vs Switzerland Women, 4th T20I, Switzerland Women tour of Denmark, 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 28, 13:00 GMT",
+      "status": "Denmark Women won by 9 runs",
       "venue": "Albertslund Cricket Club, Copenhagen",
       "date": "2026-06-28",
       "dateTimeGMT": "2026-06-28T13:00:00",
@@ -204,12 +204,12 @@
         "Denmark Women",
         "Switzerland Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Denmark Women vs Switzerland Women, 3rd T20I, Switzerland Women tour of Denmark, 2026",
       "matchType": "t20",
-      "status": "Match starts at Jun 28, 08:30 GMT",
+      "status": "Denmark Women won by 14 runs",
       "venue": "Albertslund Cricket Club, Copenhagen",
       "date": "2026-06-28",
       "dateTimeGMT": "2026-06-28T08:30:00",
@@ -217,7 +217,7 @@
         "Denmark Women",
         "Switzerland Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Denmark Women vs Switzerland Women, 2nd T20I, Switzerland Women tour of Denmark, 2026",
