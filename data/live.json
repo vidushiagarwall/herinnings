@@ -1,6 +1,81 @@
 {
-  "updatedAt": "2026-06-29T07:12:32.667Z",
+  "updatedAt": "2026-06-29T12:46:55.531Z",
   "matches": [
+    {
+      "name": "Australia Women vs New Zealand Women, 3rd ODI, New Zealand Women tour of Australia, 2026-27",
+      "status": "Match starts at Mar 11, 23:05 GMT",
+      "venue": "Junction Oval, Melbourne",
+      "date": "2027-03-11",
+      "dateTimeGMT": "2027-03-11T23:05:00",
+      "teams": [
+        "Australia Women",
+        "New Zealand Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Australia Women vs New Zealand Women, 2nd ODI, New Zealand Women tour of Australia, 2026-27",
+      "status": "Match starts at Mar 08, 03:50 GMT",
+      "venue": "Junction Oval, Melbourne",
+      "date": "2027-03-08",
+      "dateTimeGMT": "2027-03-08T03:50:00",
+      "teams": [
+        "Australia Women",
+        "New Zealand Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Australia Women vs New Zealand Women, 1st ODI, New Zealand Women tour of Australia, 2026-27",
+      "status": "Match starts at Mar 06, 03:50 GMT",
+      "venue": "Manuka Oval, Canberra",
+      "date": "2027-03-06",
+      "dateTimeGMT": "2027-03-06T03:50:00",
+      "teams": [
+        "Australia Women",
+        "New Zealand Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Australia Women vs New Zealand Women, 3rd T20I, New Zealand Women tour of Australia, 2026-27",
+      "matchType": "t20",
+      "status": "Match starts at Oct 22, 08:15 GMT",
+      "venue": "North Sydney Oval, Sydney",
+      "date": "2026-10-22",
+      "dateTimeGMT": "2026-10-22T08:15:00",
+      "teams": [
+        "Australia Women",
+        "New Zealand Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Australia Women vs New Zealand Women, 2nd T20I, New Zealand Women tour of Australia, 2026-27",
+      "matchType": "t20",
+      "status": "Match starts at Oct 20, 08:15 GMT",
+      "venue": "North Sydney Oval, Sydney",
+      "date": "2026-10-20",
+      "dateTimeGMT": "2026-10-20T08:15:00",
+      "teams": [
+        "Australia Women",
+        "New Zealand Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Australia Women vs New Zealand Women, 1st T20I, New Zealand Women tour of Australia, 2026-27",
+      "matchType": "t20",
+      "status": "Match starts at Oct 18, 08:15 GMT",
+      "venue": "North Sydney Oval, Sydney",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T08:15:00",
+      "teams": [
+        "Australia Women",
+        "New Zealand Women"
+      ],
+      "matchEnded": false
+    },
     {
       "name": "Bulgaria Women vs Serbia Women, 4th T20I, Serbia Women tour of Bulgaria, 2026",
       "matchType": "t20",
