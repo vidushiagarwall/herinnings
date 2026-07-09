@@ -1,526 +1,94 @@
 {
-  "updatedAt": "2026-07-05T10:37:06.083Z",
+  "updatedAt": "2026-07-09T06:26:31.964Z",
   "matches": [
     {
-      "name": "Australia Women vs New Zealand Women, 3rd ODI, New Zealand Women tour of Australia, 2027",
+      "name": "Ireland Women vs West Indies Women, 2nd ODI, West Indies Women tour of Ireland 2026",
       "matchType": "odi",
-      "status": "Match starts at Mar 11, 23:05 GMT",
-      "venue": "Junction Oval, Melbourne",
-      "date": "2027-03-11",
-      "dateTimeGMT": "2027-03-11T23:05:00",
+      "status": "Match not started",
+      "venue": "Bready Cricket Club, Bready, Northern Ireland",
+      "date": "2026-07-12",
+      "dateTimeGMT": "2026-07-12T09:45:00",
       "teams": [
-        "Australia Women",
-        "New Zealand Women"
+        "Ireland Women",
+        "West Indies Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "Australia Women vs New Zealand Women, 2nd ODI, New Zealand Women tour of Australia, 2027",
+      "name": "Germany Women vs Switzerland Women, 5th T20I, Switzerland Women tour of Germany, 2026",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "SSC, Karlsruhe, Karlsruhe",
+      "date": "2026-07-12",
+      "dateTimeGMT": "2026-07-12T08:00:00",
+      "teams": [
+        "Germany Women",
+        "Switzerland Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Germany Women vs Switzerland Women, 4th T20I, Switzerland Women tour of Germany, 2026",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "SSC, Karlsruhe, Karlsruhe",
+      "date": "2026-07-11",
+      "dateTimeGMT": "2026-07-11T13:30:00",
+      "teams": [
+        "Germany Women",
+        "Switzerland Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Germany Women vs Switzerland Women, 3rd T20I, Switzerland Women tour of Germany, 2026",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "SSC, Karlsruhe, Karlsruhe",
+      "date": "2026-07-11",
+      "dateTimeGMT": "2026-07-11T08:30:00",
+      "teams": [
+        "Germany Women",
+        "Switzerland Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Ireland Women vs West Indies Women, 1st ODI, West Indies Women tour of Ireland, 2026",
       "matchType": "odi",
-      "status": "Match starts at Mar 08, 03:50 GMT",
-      "venue": "Junction Oval, Melbourne",
-      "date": "2027-03-08",
-      "dateTimeGMT": "2027-03-08T03:50:00",
+      "status": "Match not started",
+      "venue": "Bready Cricket Club, Bready, Northern Ireland",
+      "date": "2026-07-10",
+      "dateTimeGMT": "2026-07-10T09:45:00",
       "teams": [
-        "Australia Women",
-        "New Zealand Women"
+        "Ireland Women",
+        "West Indies Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "Australia Women vs New Zealand Women, 1st ODI, New Zealand Women tour of Australia, 2027",
-      "matchType": "odi",
-      "status": "Match starts at Mar 06, 03:50 GMT",
-      "venue": "Manuka Oval, Canberra",
-      "date": "2027-03-06",
-      "dateTimeGMT": "2027-03-06T03:50:00",
-      "teams": [
-        "Australia Women",
-        "New Zealand Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Australia Women vs New Zealand Women, 3rd ODI, New Zealand Women tour of Australia, 2026-27",
+      "name": "Germany Women vs Switzerland Women, 2nd T20I, Switzerland Women tour of Germany, 2026",
       "matchType": "t20",
-      "status": "Match starts at Mar 11, 23:05 GMT",
-      "venue": "Junction Oval, Melbourne",
-      "date": "2027-03-11",
-      "dateTimeGMT": "2027-03-11T23:05:00",
+      "status": "Match not started",
+      "venue": "SSC, Karlsruhe, Karlsruhe",
+      "date": "2026-07-10",
+      "dateTimeGMT": "2026-07-10T13:30:00",
       "teams": [
-        "Australia Women",
-        "New Zealand Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Australia Women vs New Zealand Women, 2nd ODI, New Zealand Women tour of Australia, 2026-27",
-      "matchType": "t20",
-      "status": "Match starts at Mar 08, 03:50 GMT",
-      "venue": "Junction Oval, Melbourne",
-      "date": "2027-03-08",
-      "dateTimeGMT": "2027-03-08T03:50:00",
-      "teams": [
-        "Australia Women",
-        "New Zealand Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Australia Women vs New Zealand Women, 1st ODI, New Zealand Women tour of Australia, 2026-27",
-      "matchType": "t20",
-      "status": "Match starts at Mar 06, 03:50 GMT",
-      "venue": "Manuka Oval, Canberra",
-      "date": "2027-03-06",
-      "dateTimeGMT": "2027-03-06T03:50:00",
-      "teams": [
-        "Australia Women",
-        "New Zealand Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Australia Women vs New Zealand Women, 3rd T20I, New Zealand Women tour of Australia, 2026-27",
-      "matchType": "t20",
-      "status": "Match starts at Oct 22, 08:15 GMT",
-      "venue": "North Sydney Oval, Sydney",
-      "date": "2026-10-22",
-      "dateTimeGMT": "2026-10-22T08:15:00",
-      "teams": [
-        "Australia Women",
-        "New Zealand Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Australia Women vs New Zealand Women, 2nd T20I, New Zealand Women tour of Australia, 2026-27",
-      "matchType": "t20",
-      "status": "Match starts at Oct 20, 08:15 GMT",
-      "venue": "North Sydney Oval, Sydney",
-      "date": "2026-10-20",
-      "dateTimeGMT": "2026-10-20T08:15:00",
-      "teams": [
-        "Australia Women",
-        "New Zealand Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Australia Women vs New Zealand Women, 1st T20I, New Zealand Women tour of Australia, 2026-27",
-      "matchType": "t20",
-      "status": "Match starts at Oct 18, 08:15 GMT",
-      "venue": "North Sydney Oval, Sydney",
-      "date": "2026-10-18",
-      "dateTimeGMT": "2026-10-18T08:15:00",
-      "teams": [
-        "Australia Women",
-        "New Zealand Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Bulgaria Women vs Serbia Women, 4th T20I, Serbia Women tour of Bulgaria, 2026",
-      "matchType": "t20",
-      "status": "Serbia Women won by 5 wkts",
-      "venue": "National Sports Academy, Sofia",
-      "date": "2026-06-28",
-      "dateTimeGMT": "2026-06-28T06:00:00",
-      "teams": [
-        "Bulgaria Women",
-        "Serbia Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Bulgaria Women vs Serbia Women, 3rd T20I, Serbia Women tour of Bulgaria, 2026",
-      "matchType": "t20",
-      "status": "Serbia Women won by 84 runs",
-      "venue": "National Sports Academy, Sofia",
-      "date": "2026-06-27",
-      "dateTimeGMT": "2026-06-27T11:30:00",
-      "teams": [
-        "Bulgaria Women",
-        "Serbia Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Bulgaria Women vs Serbia Women, 2nd T20I, Serbia Women tour of Bulgaria, 2026",
-      "matchType": "t20",
-      "status": "Bulgaria Women won by 7 runs",
-      "venue": "National Sports Academy, Sofia",
-      "date": "2026-06-27",
-      "dateTimeGMT": "2026-06-27T06:00:00",
-      "teams": [
-        "Bulgaria Women",
-        "Serbia Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "India Women U19 vs Sri Lanka Women U19, 3rd unofficial ODI, Sri Lanka Women U19 tour of India 2026",
-      "status": "Match starts at Jul 06, 08:30 GMT",
-      "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
-      "date": "2026-07-06",
-      "dateTimeGMT": "2026-07-06T08:30:00",
-      "teams": [
-        "India Women U19",
-        "Sri Lanka Women U19"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "India Women U19 vs Sri Lanka Women U19, 2nd unofficial ODI, Sri Lanka Women U19 tour of India 2026",
-      "status": "India Women U19 won by 49 runs",
-      "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
-      "date": "2026-07-03",
-      "dateTimeGMT": "2026-07-03T03:30:00",
-      "teams": [
-        "India Women U19",
-        "Sri Lanka Women U19"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "India Women U19 vs Sri Lanka Women U19, 1st unofficial ODI, Sri Lanka Women U19 tour of India 2026",
-      "status": "India Women U19 won by 120 runs",
-      "venue": "Cricket Association Puducherry Ground 2, Puducherry",
-      "date": "2026-06-30",
-      "dateTimeGMT": "2026-06-30T03:30:00",
-      "teams": [
-        "India Women U19",
-        "Sri Lanka Women U19"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "India Women U19 vs Sri Lanka Women U19, 3rd unofficial T20, Sri Lanka Women U19 tour of India 2026",
-      "matchType": "t20",
-      "status": "India Women U19 won by 7 wkts",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-06-27",
-      "dateTimeGMT": "2026-06-27T07:30:00",
-      "teams": [
-        "India Women U19",
-        "Sri Lanka Women U19"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "India Women U19 vs Sri Lanka Women U19, 2nd unofficial T20, Sri Lanka Women U19 tour of India 2026",
-      "matchType": "t20",
-      "status": "India Women U19 won by 11 runs",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-06-24",
-      "dateTimeGMT": "2026-06-24T00:00:00",
-      "teams": [
-        "India Women U19",
-        "Sri Lanka Women U19"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "India Women U19 vs Sri Lanka Women U19, 1st unofficial T20, Sri Lanka Women U19 tour of India 2026",
-      "matchType": "t20",
-      "status": "India Women U19 won by 93 runs",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2026-06-22",
-      "dateTimeGMT": "2026-06-22T00:00:00",
-      "teams": [
-        "India Women U19",
-        "Sri Lanka Women U19"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Czech Republic Women vs Norway Women, 6th Match, Womens T20I Central Europe Cup, 2026",
-      "matchType": "t20",
-      "status": "Czech Republic Women won by 7 wkts",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-06-28",
-      "dateTimeGMT": "2026-06-28T12:30:00",
-      "teams": [
-        "Czech Republic Women",
-        "Norway Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Luxembourg Women vs Czech Republic Women, 5th Match, Womens T20I Central Europe Cup, 2026",
-      "matchType": "t20",
-      "status": "Czech Republic Women won by 8 wkts",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-06-28",
-      "dateTimeGMT": "2026-06-28T08:30:00",
-      "teams": [
-        "Luxembourg Women",
-        "Czech Republic Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Norway Women vs Luxembourg Women, 4th Match, Womens T20I Central Europe Cup, 2026",
-      "matchType": "t20",
-      "status": "Norway Women won by 45 runs",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-06-27",
-      "dateTimeGMT": "2026-06-27T13:00:00",
-      "teams": [
-        "Norway Women",
-        "Luxembourg Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Czech Republic Women vs Norway Women, 3rd Match, Womens T20I Central Europe Cup, 2026",
-      "matchType": "t20",
-      "status": "Czech Republic Women won by 33 runs",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-06-27",
-      "dateTimeGMT": "2026-06-27T09:00:00",
-      "teams": [
-        "Czech Republic Women",
-        "Norway Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Luxembourg Women vs Czech Republic Women, 2nd Match, Womens T20I Central Europe Cup, 2026",
-      "matchType": "t20",
-      "status": "Czech Republic Women won by 10 wkts",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-06-26",
-      "dateTimeGMT": "2026-06-26T13:00:00",
-      "teams": [
-        "Luxembourg Women",
-        "Czech Republic Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Norway Women vs Luxembourg Women, 1st Match, Womens T20I Central Europe Cup, 2026",
-      "matchType": "t20",
-      "status": "Norway Women won by 13 runs",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-06-26",
-      "dateTimeGMT": "2026-06-26T09:00:00",
-      "teams": [
-        "Norway Women",
-        "Luxembourg Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Denmark Women vs Switzerland Women, 4th T20I, Switzerland Women tour of Denmark, 2026",
-      "matchType": "t20",
-      "status": "Denmark Women won by 9 runs",
-      "venue": "Albertslund Cricket Club, Copenhagen",
-      "date": "2026-06-28",
-      "dateTimeGMT": "2026-06-28T13:00:00",
-      "teams": [
-        "Denmark Women",
+        "Germany Women",
         "Switzerland Women"
       ],
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "name": "Denmark Women vs Switzerland Women, 3rd T20I, Switzerland Women tour of Denmark, 2026",
+      "name": "Germany Women vs Switzerland Women, 1st T20I, Switzerland Women tour of Germany, 2026",
       "matchType": "t20",
-      "status": "Denmark Women won by 14 runs",
-      "venue": "Albertslund Cricket Club, Copenhagen",
-      "date": "2026-06-28",
-      "dateTimeGMT": "2026-06-28T08:30:00",
+      "status": "Match not started",
+      "venue": "TBC, TBC",
+      "date": "2026-07-10",
+      "dateTimeGMT": "2026-07-10T10:00:00",
       "teams": [
-        "Denmark Women",
+        "Germany Women",
         "Switzerland Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Denmark Women vs Switzerland Women, 2nd T20I, Switzerland Women tour of Denmark, 2026",
-      "matchType": "t20",
-      "status": "Switzerland Women won by 6 wkts",
-      "venue": "Albertslund Cricket Club, Copenhagen",
-      "date": "2026-06-27",
-      "dateTimeGMT": "2026-06-27T13:30:00",
-      "teams": [
-        "Denmark Women",
-        "Switzerland Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Denmark Women vs Switzerland Women, 1st T20I, Switzerland Women tour of Denmark, 2026",
-      "matchType": "t20",
-      "status": "Denmark Women won by 44 runs",
-      "venue": "Albertslund Cricket Club, Copenhagen",
-      "date": "2026-06-27",
-      "dateTimeGMT": "2026-06-27T09:00:00",
-      "teams": [
-        "Denmark Women",
-        "Switzerland Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "South Africa Women vs Australia Women, One-off Test, Australia Women tour of South Africa, 2027",
-      "status": "Match starts at Apr 08, 08:00 GMT",
-      "venue": "Senwes Park, Potchefstroom",
-      "date": "2027-04-08",
-      "dateTimeGMT": "2027-04-08T08:00:00",
-      "teams": [
-        "South Africa Women",
-        "Australia Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "South Africa Women vs Australia Women, 3rd ODI, Australia Women tour of South Africa, 2027",
-      "status": "Match starts at Apr 03, 12:00 GMT",
-      "venue": "Kingsmead, Durban",
-      "date": "2027-04-03",
-      "dateTimeGMT": "2027-04-03T12:00:00",
-      "teams": [
-        "South Africa Women",
-        "Australia Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "South Africa Women vs Australia Women, 2nd ODI, Australia Women tour of South Africa 2027",
-      "status": "Match starts at Mar 31, 12:00 GMT",
-      "venue": "Boland Park, Paarl",
-      "date": "2027-03-31",
-      "dateTimeGMT": "2027-03-31T12:00:00",
-      "teams": [
-        "South Africa Women",
-        "Australia Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "South Africa Women vs Australia Women, 1st ODI, Australia Women tour of South Africa, 2027",
-      "status": "Match starts at Mar 27, 08:00 GMT",
-      "venue": "St George's Park, Gqeberha",
-      "date": "2027-03-27",
-      "dateTimeGMT": "2027-03-27T08:00:00",
-      "teams": [
-        "South Africa Women",
-        "Australia Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "South Africa Women vs Australia Women, 3rd T20I, Australia Women tour of South Africa, 2027",
-      "matchType": "t20",
-      "status": "Match starts at Mar 23, 16:00 GMT",
-      "venue": "Buffalo Park, East London",
-      "date": "2027-03-23",
-      "dateTimeGMT": "2027-03-23T16:00:00",
-      "teams": [
-        "South Africa Women",
-        "Australia Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "South Africa Women vs Australia Women, 2nd T20I, Australia Women tour of South Africa, 2027",
-      "matchType": "t20",
-      "status": "Match starts at Mar 21, 12:00 GMT",
-      "venue": "Willowmoore Park, Benoni",
-      "date": "2027-03-21",
-      "dateTimeGMT": "2027-03-21T12:00:00",
-      "teams": [
-        "South Africa Women",
-        "Australia Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "South Africa Women vs Australia Women, 1st T20I, Australia Women tour of South Africa, 2027",
-      "matchType": "t20",
-      "status": "Match starts at Mar 18, 16:00 GMT",
-      "venue": "Diamond Oval, Kimberley",
-      "date": "2027-03-18",
-      "dateTimeGMT": "2027-03-18T16:00:00",
-      "teams": [
-        "South Africa Women",
-        "Australia Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "New Zealand Women vs Bangladesh Women, 3rd ODI, Bangladesh Women tour of New Zealand 2026",
-      "status": "Match starts at Dec 23, 02:00 GMT",
-      "venue": "Bay Oval, Mount Maunganui",
-      "date": "2026-12-23",
-      "dateTimeGMT": "2026-12-23T02:00:00",
-      "teams": [
-        "New Zealand Women",
-        "Bangladesh Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "New Zealand Women vs Bangladesh Women, 2nd ODI, Bangladesh Women tour of New Zealand 2026",
-      "status": "Match starts at Dec 21, 02:00 GMT",
-      "venue": "Bay Oval, Mount Maunganui",
-      "date": "2026-12-21",
-      "dateTimeGMT": "2026-12-21T02:00:00",
-      "teams": [
-        "New Zealand Women",
-        "Bangladesh Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "New Zealand Women vs Bangladesh Women, 1st ODI, Bangladesh Women tour of New Zealand 2026",
-      "status": "Match starts at Dec 18, 02:00 GMT",
-      "venue": "Sky Stadium, Wellington",
-      "date": "2026-12-18",
-      "dateTimeGMT": "2026-12-18T02:00:00",
-      "teams": [
-        "New Zealand Women",
-        "Bangladesh Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "New Zealand Women vs Bangladesh Women, 3rd T20I, Bangladesh Women tour of New Zealand 2026",
-      "matchType": "t20",
-      "status": "Match starts at Dec 15, 07:00 GMT",
-      "venue": "Sky Stadium, Wellington",
-      "date": "2026-12-15",
-      "dateTimeGMT": "2026-12-15T07:00:00",
-      "teams": [
-        "New Zealand Women",
-        "Bangladesh Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "New Zealand Women vs Bangladesh Women, 2nd T20I, Bangladesh Women tour of New Zealand 2026",
-      "matchType": "t20",
-      "status": "Match starts at Dec 12, 07:00 GMT",
-      "venue": "Saxton Oval, Nelson",
-      "date": "2026-12-12",
-      "dateTimeGMT": "2026-12-12T07:00:00",
-      "teams": [
-        "New Zealand Women",
-        "Bangladesh Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "New Zealand Women vs Bangladesh Women, 1st T20I, Bangladesh Women tour of New Zealand 2026",
-      "matchType": "t20",
-      "status": "Match starts at Dec 10, 07:00 GMT",
-      "venue": "Saxton Oval, Nelson",
-      "date": "2026-12-10",
-      "dateTimeGMT": "2026-12-10T07:00:00",
-      "teams": [
-        "New Zealand Women",
-        "Bangladesh Women"
       ],
       "matchEnded": false
     }
