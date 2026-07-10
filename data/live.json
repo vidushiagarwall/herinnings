@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-07-09T06:26:31.964Z",
+  "updatedAt": "2026-07-10T06:25:23.108Z",
   "matches": [
+    {
+      "name": "Ireland Women vs West Indies Women, 3rd ODI, West Indies Women tour of Ireland 2026",
+      "matchType": "odi",
+      "status": "Match starts at Jul 15, 09:45 GMT",
+      "venue": "Bready Cricket Club, Bready, Northern Ireland",
+      "date": "2026-07-15",
+      "dateTimeGMT": "2026-07-15T09:45:00",
+      "teams": [
+        "Ireland Women",
+        "West Indies Women"
+      ],
+      "matchEnded": false
+    },
     {
       "name": "Ireland Women vs West Indies Women, 2nd ODI, West Indies Women tour of Ireland 2026",
       "matchType": "odi",
-      "status": "Match not started",
+      "status": "Match starts at Jul 12, 09:45 GMT",
       "venue": "Bready Cricket Club, Bready, Northern Ireland",
       "date": "2026-07-12",
       "dateTimeGMT": "2026-07-12T09:45:00",
@@ -15,48 +28,9 @@
       "matchEnded": false
     },
     {
-      "name": "Germany Women vs Switzerland Women, 5th T20I, Switzerland Women tour of Germany, 2026",
-      "matchType": "t20",
-      "status": "Match not started",
-      "venue": "SSC, Karlsruhe, Karlsruhe",
-      "date": "2026-07-12",
-      "dateTimeGMT": "2026-07-12T08:00:00",
-      "teams": [
-        "Germany Women",
-        "Switzerland Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Germany Women vs Switzerland Women, 4th T20I, Switzerland Women tour of Germany, 2026",
-      "matchType": "t20",
-      "status": "Match not started",
-      "venue": "SSC, Karlsruhe, Karlsruhe",
-      "date": "2026-07-11",
-      "dateTimeGMT": "2026-07-11T13:30:00",
-      "teams": [
-        "Germany Women",
-        "Switzerland Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Germany Women vs Switzerland Women, 3rd T20I, Switzerland Women tour of Germany, 2026",
-      "matchType": "t20",
-      "status": "Match not started",
-      "venue": "SSC, Karlsruhe, Karlsruhe",
-      "date": "2026-07-11",
-      "dateTimeGMT": "2026-07-11T08:30:00",
-      "teams": [
-        "Germany Women",
-        "Switzerland Women"
-      ],
-      "matchEnded": false
-    },
-    {
       "name": "Ireland Women vs West Indies Women, 1st ODI, West Indies Women tour of Ireland, 2026",
       "matchType": "odi",
-      "status": "Match not started",
+      "status": "Match starts at Jul 10, 09:45 GMT",
       "venue": "Bready Cricket Club, Bready, Northern Ireland",
       "date": "2026-07-10",
       "dateTimeGMT": "2026-07-10T09:45:00",
@@ -67,28 +41,392 @@
       "matchEnded": false
     },
     {
-      "name": "Germany Women vs Switzerland Women, 2nd T20I, Switzerland Women tour of Germany, 2026",
+      "name": "Argentina Women vs Canada Women, 7th T20I, Canada Women tour of Argentina, 2026",
       "matchType": "t20",
-      "status": "Match not started",
-      "venue": "SSC, Karlsruhe, Karlsruhe",
-      "date": "2026-07-10",
-      "dateTimeGMT": "2026-07-10T13:30:00",
+      "status": "Match starts at Aug 02, 17:00 GMT",
+      "venue": "St George's College Ground, Quilmes, Buenos Aires",
+      "date": "2026-08-02",
+      "dateTimeGMT": "2026-08-02T17:00:00",
       "teams": [
-        "Germany Women",
-        "Switzerland Women"
+        "Argentina Women",
+        "Canada Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "Germany Women vs Switzerland Women, 1st T20I, Switzerland Women tour of Germany, 2026",
+      "name": "Argentina Women vs Canada Women, 6th T20I, Canada Women tour of Argentina, 2026",
       "matchType": "t20",
-      "status": "Match not started",
-      "venue": "TBC, TBC",
-      "date": "2026-07-10",
-      "dateTimeGMT": "2026-07-10T10:00:00",
+      "status": "Match starts at Aug 02, 17:00 GMT",
+      "venue": "St George's College Ground, Quilmes, Buenos Aires",
+      "date": "2026-08-02",
+      "dateTimeGMT": "2026-08-02T13:00:00",
       "teams": [
-        "Germany Women",
-        "Switzerland Women"
+        "Argentina Women",
+        "Canada Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Argentina Women vs Canada Women, 5th T20I, Canada Women tour of Argentina, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Aug 01, 17:00 GMT",
+      "venue": "St George's College Ground, Quilmes, Buenos Aires",
+      "date": "2026-08-01",
+      "dateTimeGMT": "2026-08-01T17:00:00",
+      "teams": [
+        "Argentina Women",
+        "Canada Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Argentina Women vs Canada Women, 4th T20I, Canada Women tour of Argentina, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Aug 01, 13:00 GMT",
+      "venue": "St George's College Ground, Quilmes, Buenos Aires",
+      "date": "2026-08-01",
+      "dateTimeGMT": "2026-08-01T13:00:00",
+      "teams": [
+        "Argentina Women",
+        "Canada Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Argentina Women vs Canada Women, 3rd T20I, Canada Women tour of Argentina, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jul 31, 15:30 GMT",
+      "venue": "St George's College Ground, Quilmes, Buenos Aires",
+      "date": "2026-07-31",
+      "dateTimeGMT": "2026-07-31T15:30:00",
+      "teams": [
+        "Argentina Women",
+        "Canada Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Argentina Women vs Canada Women, 2nd T20I, Canada Women tour of Argentina, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jul 30, 15:30 GMT",
+      "venue": "St George's College Ground, Quilmes, Buenos Aires",
+      "date": "2026-07-30",
+      "dateTimeGMT": "2026-07-30T15:30:00",
+      "teams": [
+        "Argentina Women",
+        "Canada Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Argentina Women vs Canada Women, 1st T20I, Canada Women tour of Argentina, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jul 29, 03:30 GMT",
+      "venue": "St Georges College Ground, Quilmes, Buenos Aires",
+      "date": "2026-07-29",
+      "dateTimeGMT": "2026-07-29T15:30:00",
+      "teams": [
+        "Argentina Women",
+        "Canada Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Tbc vs Tbc, Final, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Dec 05, 00:00 GMT",
+      "venue": "TBC, TBC",
+      "date": "2026-12-05",
+      "dateTimeGMT": "2026-12-05T00:00:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Tbc vs Tbc, Challenger, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Dec 03, 00:00 GMT",
+      "venue": "TBC, TBC",
+      "date": "2026-12-03",
+      "dateTimeGMT": "2026-12-03T00:00:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Tbc vs Tbc, Knockout, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Dec 01, 00:00 GMT",
+      "venue": "TBC, TBC",
+      "date": "2026-12-01",
+      "dateTimeGMT": "2026-12-01T00:00:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Adelaide Strikers Women vs Hobart Hurricanes Women, 40th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 29, 04:30 GMT",
+      "venue": "Karen Rolton Oval, Adelaide, South Australia",
+      "date": "2026-11-29",
+      "dateTimeGMT": "2026-11-29T04:30:00",
+      "teams": [
+        "Adelaide Strikers Women",
+        "Hobart Hurricanes Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Brisbane Heat Women vs Perth Scorchers Women, 39th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 29, 01:00 GMT",
+      "venue": "Karen Rolton Oval, Adelaide, South Australia",
+      "date": "2026-11-29",
+      "dateTimeGMT": "2026-11-29T01:00:00",
+      "teams": [
+        "Brisbane Heat Women",
+        "Perth Scorchers Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Sydney Thunder Women vs Sydney Sixers Women, 38th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 28, 08:10 GMT",
+      "venue": "Drummoyne Oval, Sydney",
+      "date": "2026-11-28",
+      "dateTimeGMT": "2026-11-28T08:10:00",
+      "teams": [
+        "Sydney Thunder Women",
+        "Sydney Sixers Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Melbourne Renegades Women vs Melbourne Stars Women, 37th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 28, 08:10 GMT",
+      "venue": "Junction Oval, Melbourne",
+      "date": "2026-11-28",
+      "dateTimeGMT": "2026-11-28T08:10:00",
+      "teams": [
+        "Melbourne Renegades Women",
+        "Melbourne Stars Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Perth Scorchers Women vs Hobart Hurricanes Women, 36th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 27, 10:10 GMT",
+      "venue": "W.A.C.A. Ground, Perth",
+      "date": "2026-11-27",
+      "dateTimeGMT": "2026-11-27T10:10:00",
+      "teams": [
+        "Perth Scorchers Women",
+        "Hobart Hurricanes Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Sydney Sixers Women vs Melbourne Stars Women, 35th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 26, 08:10 GMT",
+      "venue": "North Sydney Oval, Sydney",
+      "date": "2026-11-26",
+      "dateTimeGMT": "2026-11-26T08:10:00",
+      "teams": [
+        "Sydney Sixers Women",
+        "Melbourne Stars Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Sydney Thunder Women vs Adelaide Strikers Women, 34th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 26, 04:40 GMT",
+      "venue": "North Sydney Oval, Sydney",
+      "date": "2026-11-26",
+      "dateTimeGMT": "2026-11-26T04:40:00",
+      "teams": [
+        "Sydney Thunder Women",
+        "Adelaide Strikers Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Melbourne Renegades Women vs Brisbane Heat Women, 33rd Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 25, 04:40 GMT",
+      "venue": "Junction Oval, Melbourne",
+      "date": "2026-11-25",
+      "dateTimeGMT": "2026-11-25T04:40:00",
+      "teams": [
+        "Melbourne Renegades Women",
+        "Brisbane Heat Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Melbourne Stars Women vs Melbourne Renegades Women, 32nd Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 22, 08:10 GMT",
+      "venue": "Junction Oval, Melbourne",
+      "date": "2026-11-22",
+      "dateTimeGMT": "2026-11-22T08:10:00",
+      "teams": [
+        "Melbourne Stars Women",
+        "Melbourne Renegades Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Brisbane Heat Women vs Adelaide Strikers Women, 31st Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 22, 04:40 GMT",
+      "venue": "Allan Border Field, Brisbane",
+      "date": "2026-11-22",
+      "dateTimeGMT": "2026-11-22T04:40:00",
+      "teams": [
+        "Brisbane Heat Women",
+        "Adelaide Strikers Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Sydney Sixers Women vs Perth Scorchers Women, 30th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 21, 04:30 GMT",
+      "venue": "North Sydney Oval, Sydney",
+      "date": "2026-11-21",
+      "dateTimeGMT": "2026-11-21T04:30:00",
+      "teams": [
+        "Sydney Sixers Women",
+        "Perth Scorchers Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Hobart Hurricanes Women vs Sydney Thunder Women, 29th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 21, 01:00 GMT",
+      "venue": "Bellerive Oval, Hobart",
+      "date": "2026-11-21",
+      "dateTimeGMT": "2026-11-21T01:00:00",
+      "teams": [
+        "Hobart Hurricanes Women",
+        "Sydney Thunder Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Adelaide Strikers Women vs Melbourne Renegades Women, 28th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 20, 08:10 GMT",
+      "venue": "Adelaide Oval, Adelaide",
+      "date": "2026-11-20",
+      "dateTimeGMT": "2026-11-20T08:10:00",
+      "teams": [
+        "Adelaide Strikers Women",
+        "Melbourne Renegades Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Brisbane Heat Women vs Sydney Thunder Women, 27th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 19, 08:10 GMT",
+      "venue": "Allan Border Field, Brisbane",
+      "date": "2026-11-19",
+      "dateTimeGMT": "2026-11-19T08:10:00",
+      "teams": [
+        "Brisbane Heat Women",
+        "Sydney Thunder Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Hobart Hurricanes Women vs Perth Scorchers Women, 26th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 19, 04:40 GMT",
+      "venue": "Allan Border Field, Brisbane",
+      "date": "2026-11-19",
+      "dateTimeGMT": "2026-11-19T04:40:00",
+      "teams": [
+        "Hobart Hurricanes Women",
+        "Perth Scorchers Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Adelaide Strikers Women vs Sydney Sixers Women, 25th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 17, 08:10 GMT",
+      "venue": "Karen Rolton Oval, Adelaide, South Australia",
+      "date": "2026-11-17",
+      "dateTimeGMT": "2026-11-17T08:10:00",
+      "teams": [
+        "Adelaide Strikers Women",
+        "Sydney Sixers Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Sydney Thunder Women vs Melbourne Stars Women, 24th Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 16, 08:10 GMT",
+      "venue": "Drummoyne Oval, Sydney",
+      "date": "2026-11-16",
+      "dateTimeGMT": "2026-11-16T08:10:00",
+      "teams": [
+        "Sydney Thunder Women",
+        "Melbourne Stars Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Sydney Sixers Women vs Melbourne Renegades Women, 23rd Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 15, 00:00 GMT",
+      "venue": "North Sydney Oval, Sydney",
+      "date": "2026-11-15",
+      "dateTimeGMT": "2026-11-15T00:00:00",
+      "teams": [
+        "Sydney Sixers Women",
+        "Melbourne Renegades Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Perth Scorchers Women vs Adelaide Strikers Women, 22nd Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 14, 08:10 GMT",
+      "venue": "W.A.C.A. Ground, Perth",
+      "date": "2026-11-14",
+      "dateTimeGMT": "2026-11-14T08:10:00",
+      "teams": [
+        "Perth Scorchers Women",
+        "Adelaide Strikers Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Hobart Hurricanes Women vs Brisbane Heat Women, 21st Match, Womens Big Bash League 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 14, 04:40 GMT",
+      "venue": "Bellerive Oval, Hobart",
+      "date": "2026-11-14",
+      "dateTimeGMT": "2026-11-14T04:40:00",
+      "teams": [
+        "Hobart Hurricanes Women",
+        "Brisbane Heat Women"
       ],
       "matchEnded": false
     }
