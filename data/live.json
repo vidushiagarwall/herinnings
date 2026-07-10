@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T11:25:08.117Z",
+  "updatedAt": "2026-07-10T16:36:46.024Z",
   "matches": [
     {
       "name": "Ireland Women vs West Indies Women, 3rd ODI, West Indies Women tour of Ireland 2026",
@@ -30,7 +30,7 @@
     {
       "name": "Ireland Women vs West Indies Women, 1st ODI, West Indies Women tour of Ireland, 2026",
       "matchType": "odi",
-      "status": "West Indies Women opt to bowl",
+      "status": "West Indies Women need 2 runs in 70 balls",
       "venue": "Bready Cricket Club, Bready, Northern Ireland",
       "date": "2026-07-10",
       "dateTimeGMT": "2026-07-10T09:45:00",
@@ -297,136 +297,6 @@
       "teams": [
         "Brisbane Heat Women",
         "Adelaide Strikers Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Sydney Sixers Women vs Perth Scorchers Women, 30th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Nov 21, 04:30 GMT",
-      "venue": "North Sydney Oval, Sydney",
-      "date": "2026-11-21",
-      "dateTimeGMT": "2026-11-21T04:30:00",
-      "teams": [
-        "Sydney Sixers Women",
-        "Perth Scorchers Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Hobart Hurricanes Women vs Sydney Thunder Women, 29th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Nov 21, 01:00 GMT",
-      "venue": "Bellerive Oval, Hobart",
-      "date": "2026-11-21",
-      "dateTimeGMT": "2026-11-21T01:00:00",
-      "teams": [
-        "Hobart Hurricanes Women",
-        "Sydney Thunder Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Adelaide Strikers Women vs Melbourne Renegades Women, 28th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Nov 20, 08:10 GMT",
-      "venue": "Adelaide Oval, Adelaide",
-      "date": "2026-11-20",
-      "dateTimeGMT": "2026-11-20T08:10:00",
-      "teams": [
-        "Adelaide Strikers Women",
-        "Melbourne Renegades Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Brisbane Heat Women vs Sydney Thunder Women, 27th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Nov 19, 08:10 GMT",
-      "venue": "Allan Border Field, Brisbane",
-      "date": "2026-11-19",
-      "dateTimeGMT": "2026-11-19T08:10:00",
-      "teams": [
-        "Brisbane Heat Women",
-        "Sydney Thunder Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Hobart Hurricanes Women vs Perth Scorchers Women, 26th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Nov 19, 04:40 GMT",
-      "venue": "Allan Border Field, Brisbane",
-      "date": "2026-11-19",
-      "dateTimeGMT": "2026-11-19T04:40:00",
-      "teams": [
-        "Hobart Hurricanes Women",
-        "Perth Scorchers Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Adelaide Strikers Women vs Sydney Sixers Women, 25th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Nov 17, 08:10 GMT",
-      "venue": "Karen Rolton Oval, Adelaide, South Australia",
-      "date": "2026-11-17",
-      "dateTimeGMT": "2026-11-17T08:10:00",
-      "teams": [
-        "Adelaide Strikers Women",
-        "Sydney Sixers Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Sydney Thunder Women vs Melbourne Stars Women, 24th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Nov 16, 08:10 GMT",
-      "venue": "Drummoyne Oval, Sydney",
-      "date": "2026-11-16",
-      "dateTimeGMT": "2026-11-16T08:10:00",
-      "teams": [
-        "Sydney Thunder Women",
-        "Melbourne Stars Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Sydney Sixers Women vs Melbourne Renegades Women, 23rd Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Nov 15, 00:00 GMT",
-      "venue": "North Sydney Oval, Sydney",
-      "date": "2026-11-15",
-      "dateTimeGMT": "2026-11-15T00:00:00",
-      "teams": [
-        "Sydney Sixers Women",
-        "Melbourne Renegades Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Perth Scorchers Women vs Adelaide Strikers Women, 22nd Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Nov 14, 08:10 GMT",
-      "venue": "W.A.C.A. Ground, Perth",
-      "date": "2026-11-14",
-      "dateTimeGMT": "2026-11-14T08:10:00",
-      "teams": [
-        "Perth Scorchers Women",
-        "Adelaide Strikers Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Hobart Hurricanes Women vs Brisbane Heat Women, 21st Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Nov 14, 04:40 GMT",
-      "venue": "Bellerive Oval, Hobart",
-      "date": "2026-11-14",
-      "dateTimeGMT": "2026-11-14T04:40:00",
-      "teams": [
-        "Hobart Hurricanes Women",
-        "Brisbane Heat Women"
       ],
       "matchEnded": false
     }
