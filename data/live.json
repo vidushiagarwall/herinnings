@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T16:36:46.024Z",
+  "updatedAt": "2026-07-10T21:34:44.974Z",
   "matches": [
     {
       "name": "Ireland Women vs West Indies Women, 3rd ODI, West Indies Women tour of Ireland 2026",
@@ -30,7 +30,7 @@
     {
       "name": "Ireland Women vs West Indies Women, 1st ODI, West Indies Women tour of Ireland, 2026",
       "matchType": "odi",
-      "status": "West Indies Women need 2 runs in 70 balls",
+      "status": "West Indies Women won by 9 wkts",
       "venue": "Bready Cricket Club, Bready, Northern Ireland",
       "date": "2026-07-10",
       "dateTimeGMT": "2026-07-10T09:45:00",
@@ -38,7 +38,7 @@
         "Ireland Women",
         "West Indies Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Argentina Women vs Canada Women, 7th T20I, Canada Women tour of Argentina, 2026",
