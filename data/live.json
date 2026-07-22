@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-22T15:58:21.092Z",
+  "updatedAt": "2026-07-22T21:36:51.149Z",
   "matches": [
     {
       "name": "Tbc vs Tbc, Final, Womens T20 Quadrangular Series in Namibia 2026",
       "matchType": "t20",
-      "status": "",
-      "venue": "",
+      "status": "Match starts at Jul 30, 12:00 GMT",
+      "venue": "High Performance Oval, Windhoek",
       "date": "2026-07-30",
       "dateTimeGMT": "2026-07-30T12:00:00",
       "teams": [
@@ -17,8 +17,8 @@
     {
       "name": "Tbc vs Tbc, 3rd Place Play-off, Womens T20 Quadrangular Series in Namibia 2026",
       "matchType": "t20",
-      "status": "",
-      "venue": "",
+      "status": "Match starts at Jul 30, 07:30 GMT",
+      "venue": "High Performance Oval, Windhoek",
       "date": "2026-07-30",
       "dateTimeGMT": "2026-07-30T07:30:00",
       "teams": [
