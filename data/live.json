@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T05:33:46.076Z",
+  "updatedAt": "2026-07-22T10:38:11.464Z",
   "matches": [
     {
       "name": "Tbc vs Tbc, Final, Womens T20 Quadrangular Series in Namibia 2026",
@@ -106,10 +106,10 @@
       "matchEnded": false
     },
     {
-      "name": "Namibia Women vs Uganda Women, 3rd Match, Womens T20 Quadrangular Series in Namibia 2026",
+      "name": "Namibia Women vs Uganda Women, 3rd Match, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
-      "status": "",
-      "venue": "",
+      "status": "Uganda Women need 86 runs in 78 balls",
+      "venue": "High Performance Oval, Windhoek",
       "date": "2026-07-22",
       "dateTimeGMT": "2026-07-22T07:30:00",
       "teams": [
@@ -119,17 +119,17 @@
       "matchEnded": false
     },
     {
-      "name": "Namibia Women vs Tanzania Women, 2nd Match, Womens T20 Quadrangular Series in Namibia 2026",
+      "name": "Namibia Women vs Tanzania Women, 2nd Match, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
-      "status": "",
-      "venue": "",
+      "status": "Namibia Women won by 9 wkts",
+      "venue": "High Performance Oval, Windhoek",
       "date": "2026-07-21",
       "dateTimeGMT": "2026-07-21T12:00:00",
       "teams": [
         "Namibia Women",
         "Tanzania Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Ireland Women vs West Indies Women, 3rd ODI, West Indies Women tour of Ireland, 2026",
