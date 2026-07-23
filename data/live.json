@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T16:07:01.591Z",
+  "updatedAt": "2026-07-23T21:35:14.143Z",
   "matches": [
     {
       "name": "Tbc vs Tbc, Final, Womens T20 Quadrangular Series in Namibia 2026",
@@ -80,10 +80,10 @@
       "matchEnded": false
     },
     {
-      "name": "Namibia Women vs Hong Kong, China Women, 6th Match, Womens T20 Quadrangular Series in Namibia 2026",
+      "name": "Namibia Women vs Hong Kong, China Women, 6th Match, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
-      "status": "",
-      "venue": "",
+      "status": "Match starts at Jul 24, 12:00 GMT",
+      "venue": "High Performance Oval, Windhoek",
       "date": "2026-07-24",
       "dateTimeGMT": "2026-07-24T12:00:00",
       "teams": [
