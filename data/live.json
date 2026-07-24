@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T15:55:01.465Z",
+  "updatedAt": "2026-07-24T21:36:39.350Z",
   "matches": [
     {
       "name": "Tbc vs Tbc, Final, Womens T20 Quadrangular Series in Namibia 2026",
@@ -67,7 +67,7 @@
       "matchEnded": false
     },
     {
-      "name": "Namibia Women vs Tanzania Women, 7th Match, Womens T20 Quadrangular Series in Namibia 2026",
+      "name": "Namibia Women vs Tanzania Women, 7th Match, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
       "status": "Match starts at Jul 25, 07:30 GMT",
       "venue": "High Performance Oval, Windhoek",
@@ -82,7 +82,7 @@
     {
       "name": "Namibia Women vs Hong Kong, China Women, 6th Match, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
-      "status": "Hong Kong, China Women opt to bat",
+      "status": "Namibia Women won by 5 wkts",
       "venue": "High Performance Oval, Windhoek",
       "date": "2026-07-24",
       "dateTimeGMT": "2026-07-24T12:00:00",
@@ -90,7 +90,7 @@
         "Namibia Women",
         "Hong Kong"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Tanzania Women vs Uganda Women, 5th Match, Womens T20I Quadrangular Series in Namibia 2026",
