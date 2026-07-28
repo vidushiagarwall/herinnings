@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-28T16:18:17.797Z",
+  "updatedAt": "2026-07-28T21:38:05.375Z",
   "matches": [
     {
-      "name": "Tbc vs Tbc, Final, Womens T20 Quadrangular Series in Namibia 2026",
+      "name": "Tbc vs Tbc, Final, Womens T20I Quadrangular Series in Switzerland, 2026",
       "matchType": "t20",
       "status": "Match starts at Jul 30, 12:00 GMT",
-      "venue": "High Performance Oval, Windhoek",
+      "venue": "TBC, TBC",
       "date": "2026-07-30",
       "dateTimeGMT": "2026-07-30T12:00:00",
       "teams": [
@@ -15,15 +15,67 @@
       "matchEnded": false
     },
     {
-      "name": "Tbc vs Tbc, 3rd Place Play-off, Womens T20 Quadrangular Series in Namibia 2026",
+      "name": "Tbc vs Tbc, 3rd place play-off, Womens T20I Quadrangular Series in Switzerland, 2026",
       "matchType": "t20",
       "status": "Match starts at Jul 30, 07:30 GMT",
-      "venue": "High Performance Oval, Windhoek",
+      "venue": "TBC, TBC",
       "date": "2026-07-30",
       "dateTimeGMT": "2026-07-30T07:30:00",
       "teams": [
         "Tbc",
         "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Switzerland Women vs Brazil Women, 6th Match, Womens T20I Quadrangular Series in Switzerland, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jul 29, 14:00 GMT",
+      "venue": "Embrach Cricket Ground, Embrach",
+      "date": "2026-07-29",
+      "dateTimeGMT": "2026-07-29T14:00:00",
+      "teams": [
+        "Switzerland Women",
+        "Brazil Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Brazil Women vs Spain Women, 5th Match, Womens T20I Quadrangular Series in Switzerland, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jul 29, 10:30 GMT",
+      "venue": "Embrach Cricket Ground, Embrach",
+      "date": "2026-07-29",
+      "dateTimeGMT": "2026-07-29T10:30:00",
+      "teams": [
+        "Brazil Women",
+        "Spain Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Switzerland Women vs Jersey Women, Only T20I, Jersey Women tour of Switzerland, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jul 29, 07:00 GMT",
+      "venue": "Embrach Cricket Ground, Embrach",
+      "date": "2026-07-29",
+      "dateTimeGMT": "2026-07-29T07:00:00",
+      "teams": [
+        "Switzerland Women",
+        "Jersey Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Namibia Women vs Uganda Women, Final, Womens T20I Quadrangular Series in Namibia 2026",
+      "matchType": "t20",
+      "status": "Match starts at Jul 30, 12:00 GMT",
+      "venue": "High Performance Oval, Windhoek",
+      "date": "2026-07-30",
+      "dateTimeGMT": "2026-07-30T12:00:00",
+      "teams": [
+        "Namibia Women",
+        "Uganda Women"
       ],
       "matchEnded": false
     },
