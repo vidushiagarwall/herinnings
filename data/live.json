@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T11:02:25.474Z",
+  "updatedAt": "2026-07-29T16:00:33.153Z",
   "matches": [
     {
       "name": "Tbc vs Tbc, Final, Womens T20I Quadrangular Series in Switzerland, 2026",
@@ -56,7 +56,7 @@
     {
       "name": "Switzerland Women vs Jersey Women, Only T20I, Jersey Women tour of Switzerland, 2026",
       "matchType": "t20",
-      "status": "Match starts at Jul 29, 07:00 GMT",
+      "status": "Jersey Women won by 66 runs",
       "venue": "Embrach Cricket Ground, Embrach",
       "date": "2026-07-29",
       "dateTimeGMT": "2026-07-29T07:00:00",
@@ -64,7 +64,7 @@
         "Switzerland Women",
         "Jersey Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Namibia Women vs Uganda Women, Final, Womens T20I Quadrangular Series in Namibia 2026",
