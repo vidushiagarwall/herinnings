@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T10:37:54.236Z",
+  "updatedAt": "2026-07-30T16:05:55.149Z",
   "matches": [
     {
       "name": "Brazil Women vs Jersey Women, Final, Womens T20I Quadrangular Series in Switzerland, 2026",
@@ -17,7 +17,7 @@
     {
       "name": "Spain Women vs Switzerland Women, 3rd place play-off, Womens T20I Quadrangular Series in Switzerland, 2026",
       "matchType": "t20",
-      "status": "Switzerland Women opt to bowl",
+      "status": "Spain Women won by 76 runs",
       "venue": "Embrach Cricket Ground, Embrach",
       "date": "2026-07-30",
       "dateTimeGMT": "2026-07-30T07:30:00",
@@ -25,12 +25,12 @@
         "Spain Women",
         "Switzerland Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Switzerland Women vs Brazil Women, 6th Match, Womens T20I Quadrangular Series in Switzerland, 2026",
       "matchType": "t20",
-      "status": "Switzerland Women opt to bat",
+      "status": "Brazil Women won by 6 wkts",
       "venue": "Embrach Cricket Ground, Embrach",
       "date": "2026-07-29",
       "dateTimeGMT": "2026-07-29T14:00:00",
@@ -38,12 +38,12 @@
         "Switzerland Women",
         "Brazil Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Brazil Women vs Spain Women, 5th Match, Womens T20I Quadrangular Series in Switzerland, 2026",
       "matchType": "t20",
-      "status": "Brazil Women opt to bowl",
+      "status": "Brazil Women won by 6 wkts",
       "venue": "Embrach Cricket Ground, Embrach",
       "date": "2026-07-29",
       "dateTimeGMT": "2026-07-29T10:30:00",
@@ -51,7 +51,7 @@
         "Brazil Women",
         "Spain Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Switzerland Women vs Jersey Women, Only T20I, Jersey Women tour of Switzerland, 2026",
@@ -69,7 +69,7 @@
     {
       "name": "Namibia Women vs Uganda Women, Final, Womens T20I Quadrangular Series in Namibia 2026",
       "matchType": "t20",
-      "status": "Match starts at Jul 30, 12:00 GMT",
+      "status": "Uganda Women won by 17 runs",
       "venue": "High Performance Oval, Windhoek",
       "date": "2026-07-30",
       "dateTimeGMT": "2026-07-30T12:00:00",
@@ -77,7 +77,7 @@
         "Namibia Women",
         "Uganda Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Tanzania Women vs Uganda Women, 12th Match, Womens T20I Quadrangular Series in Namibia 2026",
@@ -303,7 +303,7 @@
     {
       "name": "Argentina Women vs Canada Women, 1st T20I, Canada Women tour of Argentina, 2026",
       "matchType": "t20",
-      "status": "Argentina Women opt to bowl",
+      "status": "Argentina Women won by 1 wkt",
       "venue": "St George's College Ground, Quilmes, Buenos Aires",
       "date": "2026-07-29",
       "dateTimeGMT": "2026-07-29T15:30:00",
@@ -311,7 +311,7 @@
         "Argentina Women",
         "Canada Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     }
   ]
 }
