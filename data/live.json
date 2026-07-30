@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-07-29T21:25:56.083Z",
+  "updatedAt": "2026-07-30T05:23:20.729Z",
   "matches": [
     {
-      "name": "Tbc vs Tbc, Final, Womens T20I Quadrangular Series in Switzerland, 2026",
+      "name": "Brazil Women vs Jersey Women, Final, Womens T20I Quadrangular Series in Switzerland, 2026",
       "matchType": "t20",
       "status": "Match starts at Jul 30, 12:00 GMT",
-      "venue": "TBC, TBC",
+      "venue": "Embrach Cricket Ground, Embrach",
       "date": "2026-07-30",
       "dateTimeGMT": "2026-07-30T12:00:00",
       "teams": [
-        "Tbc",
-        "Tbc"
+        "Brazil Women",
+        "Jersey Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "Tbc vs Tbc, 3rd place play-off, Womens T20I Quadrangular Series in Switzerland, 2026",
+      "name": "Spain Women vs Switzerland Women, 3rd place play-off, Womens T20I Quadrangular Series in Switzerland, 2026",
       "matchType": "t20",
       "status": "Match starts at Jul 30, 07:30 GMT",
-      "venue": "TBC, TBC",
+      "venue": "Embrach Cricket Ground, Embrach",
       "date": "2026-07-30",
       "dateTimeGMT": "2026-07-30T07:30:00",
       "teams": [
-        "Tbc",
-        "Tbc"
+        "Spain Women",
+        "Switzerland Women"
       ],
       "matchEnded": false
     },
