@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-31T05:49:43.587Z",
+  "updatedAt": "2026-07-31T11:05:27.405Z",
   "matches": [
     {
-      "name": "Brazil Women vs Jersey Women, Final, Womens T20I Quadrangular Series in Switzerland, 2026",
+      "name": "Brazil Women vs Spain Women, Final, Womens T20I Quadrangular Series in Switzerland, 2026",
       "matchType": "t20",
-      "status": "Brazil Women opt to bat",
+      "status": "Brazil Women won by 86 runs",
       "venue": "Embrach Cricket Ground, Embrach",
       "date": "2026-07-30",
       "dateTimeGMT": "2026-07-30T12:00:00",
       "teams": [
         "Brazil Women",
-        "Jersey Women"
+        "Spain Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Spain Women vs Switzerland Women, 3rd place play-off, Womens T20I Quadrangular Series in Switzerland, 2026",
