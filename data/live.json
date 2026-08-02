@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T10:14:36.353Z",
+  "updatedAt": "2026-08-02T15:37:46.467Z",
   "matches": [
     {
       "name": "Brazil Women vs Spain Women, Final, Womens T20I Quadrangular Series in Switzerland, 2026",
@@ -251,7 +251,7 @@
     {
       "name": "Argentina Women vs Canada Women, 5th T20I, Canada Women tour of Argentina, 2026",
       "matchType": "t20",
-      "status": "Match starts at Aug 01, 17:00 GMT",
+      "status": "Canada Women won by 8 wkts",
       "venue": "St George's College Ground, Quilmes, Buenos Aires",
       "date": "2026-08-01",
       "dateTimeGMT": "2026-08-01T17:00:00",
@@ -259,12 +259,12 @@
         "Argentina Women",
         "Canada Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Argentina Women vs Canada Women, 4th T20I, Canada Women tour of Argentina, 2026",
       "matchType": "t20",
-      "status": "Canada Women opt to bowl",
+      "status": "Argentina Women won by 18 runs",
       "venue": "St George's College Ground, Quilmes, Buenos Aires",
       "date": "2026-08-01",
       "dateTimeGMT": "2026-08-01T13:00:00",
@@ -272,7 +272,7 @@
         "Argentina Women",
         "Canada Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Argentina Women vs Canada Women, 3rd T20I, Canada Women tour of Argentina, 2026",
