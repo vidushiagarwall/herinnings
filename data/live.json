@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T15:04:41.952Z",
+  "updatedAt": "2026-08-20T20:56:29.191Z",
   "matches": [
     {
       "name": "Luxembourg Women vs Belgium Women, 4th T20I, Belgium Women tour of Luxembourg, 2026",
@@ -56,7 +56,7 @@
     {
       "name": "China Women vs Oman Women, 1st T20I, China Women T20I Tri-Series, 2026",
       "matchType": "t20",
-      "status": "Oman Women opt to bowl",
+      "status": "China Women won by 18 runs (DLS method Target 53)",
       "venue": "Zhejiang University of Technology Cricket Field, Hangzhou",
       "date": "2026-08-20",
       "dateTimeGMT": "2026-08-20T07:30:00",
@@ -64,7 +64,7 @@
         "China Women",
         "Oman Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Papua New Guinea Women vs Thailand Women, 3rd ODI, Thailand Women tour of Papua New Guinea, 2026",
