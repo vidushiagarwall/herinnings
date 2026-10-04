@@ -1,338 +1,52 @@
 {
-  "updatedAt": "2026-10-04T08:39:17.499Z",
+  "updatedAt": "2026-10-04T18:16:39.262Z",
   "matches": [
     {
-      "name": "Japan Women vs Malaysia Women, 2nd T20I, Malaysia Women tour of Japan 2026",
+      "name": "China Women vs Indonesia Women, Final, China Women T20I Tri-Series, 2026",
       "matchType": "t20",
-      "status": "Match abandoned due to rain",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-09-12",
-      "dateTimeGMT": "2026-09-12T00:00:00",
-      "teams": [
-        "Japan Women",
-        "Malaysia Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Hobart Hurricanes Women vs Melbourne Renegades Women, 9th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Nov 04, 08:10 GMT",
-      "venue": "Bellerive Oval, Hobart",
-      "date": "2026-11-04",
-      "dateTimeGMT": "2026-11-04T08:10:00",
-      "teams": [
-        "Hobart Hurricanes Women",
-        "Melbourne Renegades Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Japan Women vs Malaysia Women, 1st T20I, Malaysia Women tour of Japan 2026",
-      "matchType": "t20",
-      "status": "Match abandoned due to rain",
-      "venue": "Sano International Cricket Ground, Sano, Kanto",
-      "date": "2026-09-11",
-      "dateTimeGMT": "2026-09-11T00:00:00",
-      "teams": [
-        "Japan Women",
-        "Malaysia Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Melbourne Stars Women vs Perth Scorchers Women, 8th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Nov 02, 08:10 GMT",
-      "venue": "Junction Oval, Melbourne",
-      "date": "2026-11-02",
-      "dateTimeGMT": "2026-11-02T08:10:00",
-      "teams": [
-        "Melbourne Stars Women",
-        "Perth Scorchers Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Czech Republic Women vs Portugal Women, 6th Match, Czech Republic Womens T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Czech Republic Women won by 6 wkts",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-09-05",
-      "dateTimeGMT": "2026-09-05T00:00:00",
-      "teams": [
-        "Czech Republic Women",
-        "Portugal Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Sydney Sixers Women vs Hobart Hurricanes Women, 7th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Nov 01, 08:10 GMT",
-      "venue": "Drummoyne Oval, Sydney",
-      "date": "2026-11-01",
-      "dateTimeGMT": "2026-11-01T08:10:00",
-      "teams": [
-        "Sydney Sixers Women",
-        "Hobart Hurricanes Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Czech Republic Women vs Belgium Women, 5th Match, Czech Republic Womens T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Czech Republic Women won by 10 wkts",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-09-05",
-      "dateTimeGMT": "2026-09-05T00:00:00",
-      "teams": [
-        "Czech Republic Women",
-        "Belgium Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Sydney Thunder Women vs Brisbane Heat Women, 6th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Nov 01, 04:40 GMT",
-      "venue": "Drummoyne Oval, Sydney",
-      "date": "2026-11-01",
-      "dateTimeGMT": "2026-11-01T04:40:00",
-      "teams": [
-        "Sydney Thunder Women",
-        "Brisbane Heat Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Belgium Women vs Portugal Women, 4th Match, Czech Republic Womens T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Portugal Women won by 7 wkts",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-09-05",
-      "dateTimeGMT": "2026-09-05T00:00:00",
-      "teams": [
-        "Belgium Women",
-        "Portugal Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Perth Scorchers Women vs Melbourne Renegades Women, 5th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Oct 31, 08:10 GMT",
-      "venue": "W.A.C.A. Ground, Perth",
-      "date": "2026-10-31",
-      "dateTimeGMT": "2026-10-31T08:10:00",
-      "teams": [
-        "Perth Scorchers Women",
-        "Melbourne Renegades Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Czech Republic Women vs Belgium Women, 3rd Match, Czech Republic Womens T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Czech Republic Women won by 48 runs",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-09-04",
-      "dateTimeGMT": "2026-09-04T00:00:00",
-      "teams": [
-        "Czech Republic Women",
-        "Belgium Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Adelaide Strikers Women vs Melbourne Stars Women, 4th Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Oct 31, 04:40 GMT",
-      "venue": "Karen Rolton Oval, Adelaide, South Australia",
-      "date": "2026-10-31",
-      "dateTimeGMT": "2026-10-31T04:40:00",
-      "teams": [
-        "Adelaide Strikers Women",
-        "Melbourne Stars Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Czech Republic Women vs Portugal Women, 2nd Match, Czech Republic Womens T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Czech Republic Women won by 7 wkts",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-09-04",
-      "dateTimeGMT": "2026-09-04T00:00:00",
-      "teams": [
-        "Czech Republic Women",
-        "Portugal Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Brisbane Heat Women vs Sydney Sixers Women, 3rd Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Oct 30, 08:10 GMT",
-      "venue": "Allan Border Field, Brisbane",
-      "date": "2026-10-30",
-      "dateTimeGMT": "2026-10-30T08:10:00",
-      "teams": [
-        "Brisbane Heat Women",
-        "Sydney Sixers Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Belgium Women vs Portugal Women, 1st Match, Czech Republic Womens T20I Tri-Series 2026",
-      "matchType": "t20",
-      "status": "Portugal Women won by 52 runs",
-      "venue": "Scott Page Field, Vinor, Prague",
-      "date": "2026-09-04",
-      "dateTimeGMT": "2026-09-04T00:00:00",
-      "teams": [
-        "Belgium Women",
-        "Portugal Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Melbourne Stars Women vs Hobart Hurricanes Women, 2nd Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Oct 29, 08:10 GMT",
-      "venue": "Junction Oval, Melbourne",
-      "date": "2026-10-29",
-      "dateTimeGMT": "2026-10-29T08:10:00",
-      "teams": [
-        "Melbourne Stars Women",
-        "Hobart Hurricanes Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Melbourne Renegades Women vs Sydney Thunder Women, 1st Match, Womens Big Bash League 2026",
-      "matchType": "t20",
-      "status": "Match starts at Oct 29, 04:40 GMT",
-      "venue": "Junction Oval, Melbourne",
-      "date": "2026-10-29",
-      "dateTimeGMT": "2026-10-29T04:40:00",
-      "teams": [
-        "Melbourne Renegades Women",
-        "Sydney Thunder Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Brazil Women vs Jersey Women, 4th Match, Womens T20I Quadrangular Series in Switzerland, 2026",
-      "matchType": "t20",
-      "status": "Brazil Women won by 87 runs",
-      "venue": "Embrach Cricket Ground, Embrach",
-      "date": "2026-07-28",
-      "dateTimeGMT": "2026-07-28T00:00:00",
-      "teams": [
-        "Brazil Women",
-        "Jersey Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Switzerland Women vs Spain Women, 3rd Match, Womens T20I Quadrangular Series in Switzerland, 2026",
-      "matchType": "t20",
-      "status": "Spain Women won by 8 wkts",
-      "venue": "Embrach Cricket Ground, Embrach",
-      "date": "2026-07-28",
-      "dateTimeGMT": "2026-07-28T00:00:00",
-      "teams": [
-        "Switzerland Women",
-        "Spain Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Jersey Women vs Spain Women, 2nd Match, Womens T20I Quadrangular Series in Switzerland, 2026",
-      "matchType": "t20",
-      "status": "Jersey Women won by 5 wkts",
-      "venue": "Embrach Cricket Ground, Embrach",
-      "date": "2026-07-27",
-      "dateTimeGMT": "2026-07-27T00:00:00",
-      "teams": [
-        "Jersey Women",
-        "Spain Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Switzerland Women vs Jersey Women, 1st Match, Womens T20I Quadrangular Series in Switzerland, 2026",
-      "matchType": "t20",
-      "status": "Jersey Women won by 7 wkts",
-      "venue": "Embrach Cricket Ground, Embrach",
-      "date": "2026-07-27",
-      "dateTimeGMT": "2026-07-27T00:00:00",
-      "teams": [
-        "Switzerland Women",
-        "Jersey Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Luxembourg Women vs Belgium Women, 4th T20I, Belgium Women tour of Luxembourg, 2026",
-      "matchType": "t20",
-      "status": "Luxembourg Women won by 47 runs",
-      "venue": "Pierre Werner Cricket Ground, Walferdange",
-      "date": "2026-08-23",
-      "dateTimeGMT": "2026-08-23T13:30:00",
-      "teams": [
-        "Luxembourg Women",
-        "Belgium Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Luxembourg Women vs Belgium Women, 3rd T20I, Belgium Women tour of Luxembourg, 2026",
-      "matchType": "t20",
-      "status": "Luxembourg Women won by 4 wkts",
-      "venue": "Pierre Werner Cricket Ground, Walferdange",
-      "date": "2026-08-23",
-      "dateTimeGMT": "2026-08-23T08:30:00",
-      "teams": [
-        "Luxembourg Women",
-        "Belgium Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Luxembourg Women vs Belgium Women, 2nd T20I, Belgium Women tour of Luxembourg, 2026",
-      "matchType": "t20",
-      "status": "Luxembourg Women won by 10 wkts (DLS method)",
-      "venue": "Pierre Werner Cricket Ground, Walferdange",
-      "date": "2026-08-22",
-      "dateTimeGMT": "2026-08-22T13:30:00",
-      "teams": [
-        "Luxembourg Women",
-        "Belgium Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Luxembourg Women vs Belgium Women, 1st T20I, Belgium Women tour of Luxembourg, 2026",
-      "matchType": "t20",
-      "status": "Belgium Women won by 26 runs",
-      "venue": "Pierre Werner Cricket Ground, Walferdange",
-      "date": "2026-08-22",
-      "dateTimeGMT": "2026-08-22T08:30:00",
-      "teams": [
-        "Luxembourg Women",
-        "Belgium Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "China Women vs Oman Women, 1st T20I, China Women T20I Tri-Series, 2026",
-      "matchType": "t20",
-      "status": "China Women won by 18 runs (DLS method Target 53)",
+      "status": "China Women won by 6 wkts (DLS Method)",
       "venue": "Zhejiang University of Technology Cricket Field, Hangzhou",
-      "date": "2026-08-20",
-      "dateTimeGMT": "2026-08-20T07:30:00",
+      "date": "2026-08-24",
+      "dateTimeGMT": "2026-08-24T00:00:00",
+      "teams": [
+        "China Women",
+        "Indonesia Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Indonesia Women vs Oman Women, 6th T20I, China Women T20I Tri-Series, 2026",
+      "matchType": "t20",
+      "status": "Indonesia Women won by 66 runs",
+      "venue": "Zhejiang University of Technology Cricket Field, Hangzhou",
+      "date": "2026-08-23",
+      "dateTimeGMT": "2026-08-23T00:00:00",
+      "teams": [
+        "Indonesia Women",
+        "Oman Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "China Women vs Indonesia Women, 5th T20I, China Women T20I Tri-Series, 2026",
+      "matchType": "t20",
+      "status": "Indonesia Women won by 9 wkts (DLS method)",
+      "venue": "Zhejiang University of Technology Cricket Field, Hangzhou",
+      "date": "2026-08-22",
+      "dateTimeGMT": "2026-08-22T00:00:00",
+      "teams": [
+        "China Women",
+        "Indonesia Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "China Women vs Oman Women, 4th T20I, China Women T20I Tri-Series, 2026",
+      "matchType": "t20",
+      "status": "China Women won by 8 wkts",
+      "venue": "Zhejiang University of Technology Cricket Field, Hangzhou",
+      "date": "2026-08-22",
+      "dateTimeGMT": "2026-08-22T00:00:00",
       "teams": [
         "China Women",
         "Oman Women"
@@ -340,131 +54,28 @@
       "matchEnded": true
     },
     {
-      "name": "Papua New Guinea Women vs Thailand Women, 3rd ODI, Thailand Women tour of Papua New Guinea, 2026",
-      "status": "Thailand Women won by 5 wkts",
-      "venue": "Amini Park, Port Moresby",
-      "date": "2026-08-17",
-      "dateTimeGMT": "2026-08-17T23:30:00",
+      "name": "Oman Women vs Indonesia Women, 3rd T20I, China Women T20I Tri-Series, 2026",
+      "matchType": "t20",
+      "status": "Indonesia Women won by 50 runs",
+      "venue": "Zhejiang University of Technology Cricket Field, Hangzhou",
+      "date": "2026-08-21",
+      "dateTimeGMT": "2026-08-21T00:00:00",
       "teams": [
-        "Papua New Guinea Women",
-        "Thailand Women"
+        "Oman Women",
+        "Indonesia Women"
       ],
       "matchEnded": true
     },
     {
-      "name": "Brazil Women vs Spain Women, Final, Womens T20I Quadrangular Series in Switzerland, 2026",
+      "name": "China Women vs Indonesia Women, 2nd T20I, China Women T20I Tri-Series, 2026",
       "matchType": "t20",
-      "status": "Brazil Women won by 86 runs",
-      "venue": "Embrach Cricket Ground, Embrach",
-      "date": "2026-07-30",
-      "dateTimeGMT": "2026-07-30T12:00:00",
+      "status": "China Women won by 7 wkts",
+      "venue": "Zhejiang University of Technology Cricket Field, Hangzhou",
+      "date": "2026-08-21",
+      "dateTimeGMT": "2026-08-21T00:00:00",
       "teams": [
-        "Brazil Women",
-        "Spain Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Spain Women vs Switzerland Women, 3rd place play-off, Womens T20I Quadrangular Series in Switzerland, 2026",
-      "matchType": "t20",
-      "status": "Spain Women won by 76 runs",
-      "venue": "Embrach Cricket Ground, Embrach",
-      "date": "2026-07-30",
-      "dateTimeGMT": "2026-07-30T07:30:00",
-      "teams": [
-        "Spain Women",
-        "Switzerland Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Switzerland Women vs Brazil Women, 6th Match, Womens T20I Quadrangular Series in Switzerland, 2026",
-      "matchType": "t20",
-      "status": "Brazil Women won by 6 wkts",
-      "venue": "Embrach Cricket Ground, Embrach",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T14:00:00",
-      "teams": [
-        "Switzerland Women",
-        "Brazil Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Brazil Women vs Spain Women, 5th Match, Womens T20I Quadrangular Series in Switzerland, 2026",
-      "matchType": "t20",
-      "status": "Brazil Women won by 6 wkts",
-      "venue": "Embrach Cricket Ground, Embrach",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T10:30:00",
-      "teams": [
-        "Brazil Women",
-        "Spain Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Switzerland Women vs Jersey Women, Only T20I, Jersey Women tour of Switzerland, 2026",
-      "matchType": "t20",
-      "status": "Jersey Women won by 66 runs",
-      "venue": "Embrach Cricket Ground, Embrach",
-      "date": "2026-07-29",
-      "dateTimeGMT": "2026-07-29T07:00:00",
-      "teams": [
-        "Switzerland Women",
-        "Jersey Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Namibia Women vs Uganda Women, Final, Womens T20I Quadrangular Series in Namibia 2026",
-      "matchType": "t20",
-      "status": "Uganda Women won by 17 runs",
-      "venue": "High Performance Oval, Windhoek",
-      "date": "2026-07-30",
-      "dateTimeGMT": "2026-07-30T12:00:00",
-      "teams": [
-        "Namibia Women",
-        "Uganda Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Tanzania Women vs Uganda Women, 12th Match, Womens T20I Quadrangular Series in Namibia 2026",
-      "matchType": "t20",
-      "status": "Tanzania Women awarded the match (opposition refused to play)",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-07-28",
-      "dateTimeGMT": "2026-07-28T12:00:00",
-      "teams": [
-        "Tanzania Women",
-        "Uganda Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Namibia Women vs Hong Kong, China Women, 11th Match, Womens T20I Quadrangular Series in Namibia 2026",
-      "matchType": "t20",
-      "status": "Namibia Women won by 8 wkts",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-07-28",
-      "dateTimeGMT": "2026-07-28T07:30:00",
-      "teams": [
-        "Namibia Women",
-        "Hong Kong"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Namibia Women vs Uganda Women, 10th Match, Womens T20I Quadrangular Series in Namibia 2026",
-      "matchType": "t20",
-      "status": "Namibia Women won by 6 wkts",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "date": "2026-07-27",
-      "dateTimeGMT": "2026-07-27T12:00:00",
-      "teams": [
-        "Namibia Women",
-        "Uganda Women"
+        "China Women",
+        "Indonesia Women"
       ],
       "matchEnded": true
     }
