@@ -1,94 +1,205 @@
 {
-  "updatedAt": "2026-10-12T22:11:41.332Z",
+  "updatedAt": "2026-10-13T09:38:41.358Z",
   "matches": [
     {
-      "name": "China Women vs Indonesia Women, Final, China Women T20I Tri-Series, 2026",
-      "matchType": "t20",
-      "status": "China Women won by 6 wkts (DLS Method)",
-      "venue": "Zhejiang University of Technology Cricket Field, Hangzhou",
-      "date": "2026-08-24",
-      "dateTimeGMT": "2026-08-24T00:00:00",
+      "name": "New Zealand Women vs Bangladesh Women, 3rd ODI, Bangladesh Women tour of New Zealand 2026",
+      "status": "Match starts at Dec 23, 02:00 GMT",
+      "venue": "Bay Oval, Mount Maunganui",
+      "date": "2026-12-23",
+      "dateTimeGMT": "2026-12-23T02:00:00",
       "teams": [
-        "China Women",
-        "Indonesia Women"
+        "New Zealand Women",
+        "Bangladesh Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "New Zealand Women vs Bangladesh Women, 2nd ODI, Bangladesh Women tour of New Zealand 2026",
+      "status": "Match starts at Dec 21, 02:00 GMT",
+      "venue": "Bay Oval, Mount Maunganui",
+      "date": "2026-12-21",
+      "dateTimeGMT": "2026-12-21T02:00:00",
+      "teams": [
+        "New Zealand Women",
+        "Bangladesh Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Scotland Women vs Netherlands Women, 3rd ODI, Netherlands Women tour of Scotland 2026",
+      "matchType": "odi",
+      "status": "Match abandoned due to rain (no toss)",
+      "venue": "New Williamfield No1 Oval, Stirling",
+      "date": "2026-09-01",
+      "dateTimeGMT": "2026-09-01T00:00:00",
+      "teams": [
+        "Scotland Women",
+        "Netherlands Women"
       ],
       "matchEnded": true
     },
     {
-      "name": "Indonesia Women vs Oman Women, 6th T20I, China Women T20I Tri-Series, 2026",
-      "matchType": "t20",
-      "status": "Indonesia Women won by 66 runs",
-      "venue": "Zhejiang University of Technology Cricket Field, Hangzhou",
-      "date": "2026-08-23",
-      "dateTimeGMT": "2026-08-23T00:00:00",
+      "name": "New Zealand Women vs Bangladesh Women, 1st ODI, Bangladesh Women tour of New Zealand 2026",
+      "status": "Match starts at Dec 18, 02:00 GMT",
+      "venue": "Sky Stadium, Wellington",
+      "date": "2026-12-18",
+      "dateTimeGMT": "2026-12-18T02:00:00",
       "teams": [
-        "Indonesia Women",
-        "Oman Women"
+        "New Zealand Women",
+        "Bangladesh Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Scotland Women vs Netherlands Women, 2nd ODI (Rescheduled match), Netherlands Women tour of Scotland 2026",
+      "matchType": "odi",
+      "status": "Scotland Women won by 9 wkts",
+      "venue": "New Williamfield No1 Oval, Stirling",
+      "date": "2026-08-31",
+      "dateTimeGMT": "2026-08-31T00:00:00",
+      "teams": [
+        "Scotland Women",
+        "Netherlands Women"
       ],
       "matchEnded": true
     },
     {
-      "name": "China Women vs Indonesia Women, 5th T20I, China Women T20I Tri-Series, 2026",
-      "matchType": "t20",
-      "status": "Indonesia Women won by 9 wkts (DLS method)",
-      "venue": "Zhejiang University of Technology Cricket Field, Hangzhou",
-      "date": "2026-08-22",
-      "dateTimeGMT": "2026-08-22T00:00:00",
+      "name": "Scotland Women vs Netherlands Women, 2nd ODI, Netherlands Women tour of Scotland 2026",
+      "matchType": "odi",
+      "status": "Match Abandoned without toss",
+      "venue": "New Williamfield No1 Oval, Stirling",
+      "date": "2026-08-30",
+      "dateTimeGMT": "2026-08-30T00:00:00",
       "teams": [
-        "China Women",
-        "Indonesia Women"
+        "Scotland Women",
+        "Netherlands Women"
       ],
       "matchEnded": true
     },
     {
-      "name": "China Women vs Oman Women, 4th T20I, China Women T20I Tri-Series, 2026",
+      "name": "New Zealand Women vs Bangladesh Women, 3rd T20I, Bangladesh Women tour of New Zealand 2026",
       "matchType": "t20",
-      "status": "China Women won by 8 wkts",
-      "venue": "Zhejiang University of Technology Cricket Field, Hangzhou",
-      "date": "2026-08-22",
-      "dateTimeGMT": "2026-08-22T00:00:00",
+      "status": "Match starts at Dec 15, 07:00 GMT",
+      "venue": "Sky Stadium, Wellington",
+      "date": "2026-12-15",
+      "dateTimeGMT": "2026-12-15T07:00:00",
       "teams": [
-        "China Women",
-        "Oman Women"
+        "New Zealand Women",
+        "Bangladesh Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Scotland Women vs Netherlands Women, 1st ODI, Netherlands Women tour of Scotland 2026",
+      "matchType": "odi",
+      "status": "Netherlands Women won by 58 runs",
+      "venue": "Titwood, Glasgow",
+      "date": "2026-08-28",
+      "dateTimeGMT": "2026-08-28T00:00:00",
+      "teams": [
+        "Scotland Women",
+        "Netherlands Women"
       ],
       "matchEnded": true
     },
     {
-      "name": "Oman Women vs Indonesia Women, 3rd T20I, China Women T20I Tri-Series, 2026",
+      "name": "New Zealand Women vs Bangladesh Women, 2nd T20I, Bangladesh Women tour of New Zealand 2026",
       "matchType": "t20",
-      "status": "Indonesia Women won by 50 runs",
-      "venue": "Zhejiang University of Technology Cricket Field, Hangzhou",
-      "date": "2026-08-21",
-      "dateTimeGMT": "2026-08-21T00:00:00",
+      "status": "Match starts at Dec 12, 07:00 GMT",
+      "venue": "Saxton Oval, Nelson",
+      "date": "2026-12-12",
+      "dateTimeGMT": "2026-12-12T07:00:00",
       "teams": [
-        "Oman Women",
-        "Indonesia Women"
+        "New Zealand Women",
+        "Bangladesh Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "New Zealand Women vs Bangladesh Women, 1st T20I, Bangladesh Women tour of New Zealand 2026",
+      "matchType": "t20",
+      "status": "Match starts at Dec 10, 07:00 GMT",
+      "venue": "Saxton Oval, Nelson",
+      "date": "2026-12-10",
+      "dateTimeGMT": "2026-12-10T07:00:00",
+      "teams": [
+        "New Zealand Women",
+        "Bangladesh Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Sri Lanka Women vs Pakistan Women, 3rd T20I, Pakistan Women tour of Sri Lanka, 2026",
+      "matchType": "t20",
+      "status": "Pakistan Women won by 4 wkts",
+      "venue": "Rangiri Dambulla International Stadium, Dambulla",
+      "date": "2026-08-04",
+      "dateTimeGMT": "2026-08-04T00:00:00",
+      "teams": [
+        "Sri Lanka Women",
+        "Pakistan Women"
       ],
       "matchEnded": true
     },
     {
-      "name": "China Women vs Indonesia Women, 2nd T20I, China Women T20I Tri-Series, 2026",
+      "name": "Sri Lanka Women vs Pakistan Women, 2nd T20I, Pakistan Women tour of Sri Lanka, 2026",
       "matchType": "t20",
-      "status": "China Women won by 7 wkts",
-      "venue": "Zhejiang University of Technology Cricket Field, Hangzhou",
-      "date": "2026-08-21",
-      "dateTimeGMT": "2026-08-21T00:00:00",
+      "status": "Sri Lanka Women won by 6 wkts",
+      "venue": "Rangiri Dambulla International Stadium, Dambulla",
+      "date": "2026-08-02",
+      "dateTimeGMT": "2026-08-02T00:00:00",
       "teams": [
-        "China Women",
-        "Indonesia Women"
+        "Sri Lanka Women",
+        "Pakistan Women"
       ],
       "matchEnded": true
     },
     {
-      "name": "India Women vs Sri Lanka Women, Final, Womens Asia Cup 2026",
+      "name": "Sri Lanka Women vs Pakistan Women, 1st T20I, Pakistan Women tour of Sri Lanka, 2026",
       "matchType": "t20",
-      "status": "India Women won by 72 runs",
-      "venue": "Dubai International Cricket Stadium, Dubai",
-      "date": "2026-09-13",
-      "dateTimeGMT": "2026-09-13T00:00:00",
+      "status": "Sri Lanka Women won by 6 wkts",
+      "venue": "Rangiri Dambulla International Stadium, Dambulla",
+      "date": "2026-07-31",
+      "dateTimeGMT": "2026-07-31T00:00:00",
       "teams": [
-        "India Women",
-        "Sri Lanka Women"
+        "Sri Lanka Women",
+        "Pakistan Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Sri Lanka Women vs Pakistan Women, 3rd ODI, Pakistan Women tour of Sri Lanka, 2026",
+      "status": "Sri Lanka Women won by 8 wkts",
+      "venue": "Mahinda Rajapaksa International Stadium, Hambantota",
+      "date": "2026-07-28",
+      "dateTimeGMT": "2026-07-28T00:00:00",
+      "teams": [
+        "Sri Lanka Women",
+        "Pakistan Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Sri Lanka Women vs Pakistan Women, 2nd ODI, Pakistan Women tour of Sri Lanka, 2026",
+      "status": "Sri Lanka Women won by 8 wkts",
+      "venue": "Mahinda Rajapaksa International Stadium, Hambantota",
+      "date": "2026-07-25",
+      "dateTimeGMT": "2026-07-25T00:00:00",
+      "teams": [
+        "Sri Lanka Women",
+        "Pakistan Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Sri Lanka Women vs Pakistan Women, 1st ODI, Pakistan Women tour of Sri Lanka, 2026",
+      "status": "Pakistan Women won by 5 wkts",
+      "venue": "Mahinda Rajapaksa International Stadium, Hambantota",
+      "date": "2026-07-23",
+      "dateTimeGMT": "2026-07-23T00:00:00",
+      "teams": [
+        "Sri Lanka Women",
+        "Pakistan Women"
       ],
       "matchEnded": true
     }
