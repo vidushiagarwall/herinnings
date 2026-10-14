@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T13:55:56.490Z",
+  "updatedAt": "2026-10-14T18:47:53.959Z",
   "matches": [
     {
       "name": "Australia Women vs Bangladesh Women, 3rd ODI, Bangladesh Women tour of Australia, 2026",
@@ -294,93 +294,6 @@
       "teams": [
         "Barbados Tridents Women",
         "Trinbago Knight Riders Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "India A Women vs Australia A Women, Only unofficial Test, Australia A Women tour of India 2026",
-      "status": "India A Women won by 281 runs",
-      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
-      "date": "2026-09-29",
-      "dateTimeGMT": "2026-09-29T00:00:00",
-      "teams": [
-        "India A Women",
-        "Australia A Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "India A Women vs Australia A Women, 3rd unofficial ODI, Australia A Women tour of India 2026",
-      "status": "India A Women won by 4 wkts",
-      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "date": "2026-09-25",
-      "dateTimeGMT": "2026-09-25T00:00:00",
-      "teams": [
-        "India A Women",
-        "Australia A Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "India A Women vs Australia A Women, 2nd unofficial ODI, Australia A Women tour of India 2026",
-      "status": "Australia A Women won by 2 wkts",
-      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "date": "2026-09-23",
-      "dateTimeGMT": "2026-09-23T00:00:00",
-      "teams": [
-        "India A Women",
-        "Australia A Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "India A Women vs Australia A Women, 1st unofficial ODI, Australia A Women tour of India 2026",
-      "status": "India A Women won by 4 wkts",
-      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "date": "2026-09-20",
-      "dateTimeGMT": "2026-09-20T00:00:00",
-      "teams": [
-        "India A Women",
-        "Australia A Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "India A Women vs Australia A Women, 3rd unofficial T20, Australia A Women tour of India 2026",
-      "matchType": "t20",
-      "status": "Australia A Women won by 7 runs",
-      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",
-      "date": "2026-09-17",
-      "dateTimeGMT": "2026-09-17T00:00:00",
-      "teams": [
-        "India A Women",
-        "Australia A Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "India A Women vs Australia A Women, 2nd unofficial T20, Australia A Women tour of India 2026",
-      "matchType": "t20",
-      "status": "Australia A Women won by 30 runs",
-      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",
-      "date": "2026-09-15",
-      "dateTimeGMT": "2026-09-15T00:00:00",
-      "teams": [
-        "India A Women",
-        "Australia A Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "India A Women vs Australia A Women, 1st unofficial T20, Australia A Women tour of India 2026",
-      "matchType": "t20",
-      "status": "Australia A Women won by 6 wkts",
-      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",
-      "date": "2026-09-12",
-      "dateTimeGMT": "2026-09-12T00:00:00",
-      "teams": [
-        "India A Women",
-        "Australia A Women"
       ],
       "matchEnded": true
     }
