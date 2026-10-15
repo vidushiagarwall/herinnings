@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T13:36:04.657Z",
+  "updatedAt": "2026-10-15T18:29:43.565Z",
   "matches": [
     {
       "name": "Australia Women vs Bangladesh Women, 3rd ODI, Bangladesh Women tour of Australia, 2026",
@@ -268,32 +268,6 @@
       "teams": [
         "Trinbago Knight Riders Women",
         "Jamaica Empress Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Jamaica Empress Women vs Guyana Amazon Warriors Women, 2nd Match, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "JEW won by 1 wkt  -  2nd innings reduced to 19 overs - DLS Target 132",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-05",
-      "dateTimeGMT": "2026-09-05T00:00:00",
-      "teams": [
-        "Jamaica Empress Women",
-        "Guyana Amazon Warriors Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Barbados Tridents Women vs Trinbago Knight Riders Women, 1st Match, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Trinbago Knight Riders Women won by 21 runs",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-05",
-      "dateTimeGMT": "2026-09-05T00:00:00",
-      "teams": [
-        "Barbados Tridents Women",
-        "Trinbago Knight Riders Women"
       ],
       "matchEnded": true
     }
