@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-10-16T07:25:48.399Z",
+  "updatedAt": "2026-10-16T13:25:34.856Z",
   "matches": [
+    {
+      "name": "Bulgaria Women vs Sweden Women, 2nd Match, ECA Womens European Cup, 2026",
+      "matchType": "t20",
+      "status": "Sweden Women won by 10 wkts",
+      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
+      "date": "2026-10-15",
+      "dateTimeGMT": "2026-10-15T00:00:00",
+      "teams": [
+        "Bulgaria Women",
+        "Sweden Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Austria Women vs Sweden Women, 1st Match, ECA Womens European Cup, 2026",
+      "matchType": "t20",
+      "status": "Sweden Women won by 9 wkts",
+      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
+      "date": "2026-10-15",
+      "dateTimeGMT": "2026-10-15T00:00:00",
+      "teams": [
+        "Austria Women",
+        "Sweden Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Tbc vs Tbc, Final, ECA Womens European Cup, 2026",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T11:00:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Tbc vs Tbc, 3rd place play-off, ECA Womens European Cup, 2026",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
+      "date": "2026-10-18",
+      "dateTimeGMT": "2026-10-18T07:00:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Romania Women vs Sweden Women, 6th Match, ECA Womens European Cup, 2026",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
+      "date": "2026-10-17",
+      "dateTimeGMT": "2026-10-17T11:00:00",
+      "teams": [
+        "Romania Women",
+        "Sweden Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Romania Women vs Austria Women, 5th Match, ECA Womens European Cup, 2026",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
+      "date": "2026-10-17",
+      "dateTimeGMT": "2026-10-17T07:00:00",
+      "teams": [
+        "Romania Women",
+        "Austria Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Austria Women vs Bulgaria Women, 4th Match, ECA Womens European Cup, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Oct 16, 11:00 GMT",
+      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
+      "date": "2026-10-16",
+      "dateTimeGMT": "2026-10-16T11:00:00",
+      "teams": [
+        "Austria Women",
+        "Bulgaria Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Romania Women vs Bulgaria Women, 3rd Match, ECA Womens European Cup, 2026",
+      "matchType": "t20",
+      "status": "Bulgaria Women won by 2 wkts - 15 overs game",
+      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
+      "date": "2026-10-16",
+      "dateTimeGMT": "2026-10-16T07:00:00",
+      "teams": [
+        "Romania Women",
+        "Bulgaria Women"
+      ],
+      "matchEnded": true
+    },
     {
       "name": "Australia Women vs Bangladesh Women, 3rd ODI, Bangladesh Women tour of Australia, 2026",
       "matchType": "odi",
@@ -164,110 +268,6 @@
       "teams": [
         "Germany Women",
         "Denmark Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Denmark Women vs Sweden Women, 2nd Match, Nordic Womens T20I Cup 2026",
-      "matchType": "t20",
-      "status": "Sweden Women won by 71 runs",
-      "venue": "GelsenTrabPark, Gelsenkirchen",
-      "date": "2026-08-28",
-      "dateTimeGMT": "2026-08-28T00:00:00",
-      "teams": [
-        "Denmark Women",
-        "Sweden Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Germany Women vs Sweden Women, 1st Match, Nordic Womens T20I Cup 2026",
-      "matchType": "t20",
-      "status": "Sweden Women won by 14 runs (DLS method) Target 58",
-      "venue": "GelsenTrabPark, Gelsenkirchen",
-      "date": "2026-08-28",
-      "dateTimeGMT": "2026-08-28T00:00:00",
-      "teams": [
-        "Germany Women",
-        "Sweden Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women, Final, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Guyana Amazon Warriors Women won by 2 wkts",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-17",
-      "dateTimeGMT": "2026-09-17T00:00:00",
-      "teams": [
-        "Trinbago Knight Riders Women",
-        "Guyana Amazon Warriors Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Barbados Tridents Women vs Guyana Amazon Warriors Women, Playoff 2nd v 3rd, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Guyana Amazon Warriors Women won by 7 wkts (8 overs game due to rain)",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-16",
-      "dateTimeGMT": "2026-09-16T00:00:00",
-      "teams": [
-        "Barbados Tridents Women",
-        "Guyana Amazon Warriors Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Guyana Amazon Warriors Women vs Barbados Tridents Women, 6th Match, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Guyana Amazon Warriors Women won by 5 wkts",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-12",
-      "dateTimeGMT": "2026-09-12T00:00:00",
-      "teams": [
-        "Guyana Amazon Warriors Women",
-        "Barbados Tridents Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Barbados Tridents Women vs Jamaica Empress Women, 5th Match, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Barbados Tridents Women won by 3 runs",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-12",
-      "dateTimeGMT": "2026-09-12T00:00:00",
-      "teams": [
-        "Barbados Tridents Women",
-        "Jamaica Empress Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women, 4th Match, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Guyana Amazon Warriors Women won by 25 runs",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-12",
-      "dateTimeGMT": "2026-09-12T00:00:00",
-      "teams": [
-        "Trinbago Knight Riders Women",
-        "Guyana Amazon Warriors Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Trinbago Knight Riders Women vs Jamaica Empress Women, 3rd Match, Womens Caribbean Premier League 2026",
-      "matchType": "t20",
-      "status": "Trinbago Knight Riders Women won by 9 wkts",
-      "venue": "Kensington Oval, Bridgetown, Barbados",
-      "date": "2026-09-10",
-      "dateTimeGMT": "2026-09-10T00:00:00",
-      "teams": [
-        "Trinbago Knight Riders Women",
-        "Jamaica Empress Women"
       ],
       "matchEnded": true
     }
