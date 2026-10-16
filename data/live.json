@@ -1,6 +1,93 @@
 {
-  "updatedAt": "2026-10-16T13:25:34.856Z",
+  "updatedAt": "2026-10-16T18:15:35.604Z",
   "matches": [
+    {
+      "name": "South Africa Women vs Australia Women, One-off Test, Australia Women tour of South Africa, 2027",
+      "status": "Match starts at Apr 08, 08:00 GMT",
+      "venue": "Senwes Park, Potchefstroom",
+      "date": "2027-04-08",
+      "dateTimeGMT": "2027-04-08T08:00:00",
+      "teams": [
+        "South Africa Women",
+        "Australia Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "South Africa Women vs Australia Women, 3rd ODI, Australia Women tour of South Africa, 2027",
+      "status": "Match starts at Apr 03, 12:00 GMT",
+      "venue": "Kingsmead, Durban",
+      "date": "2027-04-03",
+      "dateTimeGMT": "2027-04-03T12:00:00",
+      "teams": [
+        "South Africa Women",
+        "Australia Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "South Africa Women vs Australia Women, 2nd ODI, Australia Women tour of South Africa 2027",
+      "status": "Match starts at Mar 31, 12:00 GMT",
+      "venue": "Boland Park, Paarl",
+      "date": "2027-03-31",
+      "dateTimeGMT": "2027-03-31T12:00:00",
+      "teams": [
+        "South Africa Women",
+        "Australia Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "South Africa Women vs Australia Women, 1st ODI, Australia Women tour of South Africa, 2027",
+      "status": "Match starts at Mar 27, 08:00 GMT",
+      "venue": "St George's Park, Gqeberha",
+      "date": "2027-03-27",
+      "dateTimeGMT": "2027-03-27T08:00:00",
+      "teams": [
+        "South Africa Women",
+        "Australia Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "South Africa Women vs Australia Women, 3rd T20I, Australia Women tour of South Africa, 2027",
+      "matchType": "t20",
+      "status": "Match starts at Mar 23, 16:00 GMT",
+      "venue": "Buffalo Park, East London",
+      "date": "2027-03-23",
+      "dateTimeGMT": "2027-03-23T16:00:00",
+      "teams": [
+        "South Africa Women",
+        "Australia Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "South Africa Women vs Australia Women, 2nd T20I, Australia Women tour of South Africa, 2027",
+      "matchType": "t20",
+      "status": "Match starts at Mar 21, 12:00 GMT",
+      "venue": "Willowmoore Park, Benoni",
+      "date": "2027-03-21",
+      "dateTimeGMT": "2027-03-21T12:00:00",
+      "teams": [
+        "South Africa Women",
+        "Australia Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "South Africa Women vs Australia Women, 1st T20I, Australia Women tour of South Africa, 2027",
+      "matchType": "t20",
+      "status": "Match starts at Mar 18, 16:00 GMT",
+      "venue": "Diamond Oval, Kimberley",
+      "date": "2027-03-18",
+      "dateTimeGMT": "2027-03-18T16:00:00",
+      "teams": [
+        "South Africa Women",
+        "Australia Women"
+      ],
+      "matchEnded": false
+    },
     {
       "name": "Bulgaria Women vs Sweden Women, 2nd Match, ECA Womens European Cup, 2026",
       "matchType": "t20",
@@ -56,7 +143,7 @@
     {
       "name": "Romania Women vs Sweden Women, 6th Match, ECA Womens European Cup, 2026",
       "matchType": "t20",
-      "status": "Match not started",
+      "status": "Match starts at Oct 17, 11:00 GMT",
       "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
       "date": "2026-10-17",
       "dateTimeGMT": "2026-10-17T11:00:00",
@@ -69,7 +156,7 @@
     {
       "name": "Romania Women vs Austria Women, 5th Match, ECA Womens European Cup, 2026",
       "matchType": "t20",
-      "status": "Match not started",
+      "status": "Match starts at Oct 17, 07:00 GMT",
       "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
       "date": "2026-10-17",
       "dateTimeGMT": "2026-10-17T07:00:00",
@@ -82,7 +169,7 @@
     {
       "name": "Austria Women vs Bulgaria Women, 4th Match, ECA Womens European Cup, 2026",
       "matchType": "t20",
-      "status": "Match starts at Oct 16, 11:00 GMT",
+      "status": "Austria Women won by 10 wkts (DLS method)",
       "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
       "date": "2026-10-16",
       "dateTimeGMT": "2026-10-16T11:00:00",
@@ -90,7 +177,7 @@
         "Austria Women",
         "Bulgaria Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Romania Women vs Bulgaria Women, 3rd Match, ECA Womens European Cup, 2026",
@@ -141,133 +228,6 @@
       "teams": [
         "Australia Women",
         "Bangladesh Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "England Women vs Bangladesh Women, 3rd ODI, Bangladesh Women tour of England 2027",
-      "status": "Match starts at Sep 24, 11:30 GMT",
-      "venue": "The Ambassador Cruise Line Ground, Chelmsford",
-      "date": "2027-09-24",
-      "dateTimeGMT": "2027-09-24T11:30:00",
-      "teams": [
-        "England Women",
-        "Bangladesh Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "England Women vs Bangladesh Women, 2nd ODI, Bangladesh Women tour of England 2027",
-      "status": "Match starts at Sep 21, 11:30 GMT",
-      "venue": "St Lawrence Ground, Canterbury",
-      "date": "2027-09-21",
-      "dateTimeGMT": "2027-09-21T11:30:00",
-      "teams": [
-        "England Women",
-        "Bangladesh Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "England Women vs Bangladesh Women, 1st ODI, Bangladesh Women tour of England 2027",
-      "status": "Match starts at Sep 17, 11:30 GMT",
-      "venue": "County Ground, Hove",
-      "date": "2027-09-17",
-      "dateTimeGMT": "2027-09-17T11:30:00",
-      "teams": [
-        "England Women",
-        "Bangladesh Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "England Women vs Bangladesh Women, 3rd T20I, Bangladesh Women tour of England 2027",
-      "matchType": "t20",
-      "status": "Match starts at Sep 12, 13:30 GMT",
-      "venue": "New Road, Worcester",
-      "date": "2027-09-12",
-      "dateTimeGMT": "2027-09-12T13:30:00",
-      "teams": [
-        "England Women",
-        "Bangladesh Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "England Women vs Bangladesh Women, 2nd T20I, Bangladesh Women tour of England 2027",
-      "matchType": "t20",
-      "status": "Match starts at Sep 10, 17:30 GMT",
-      "venue": "The Cooper Associates County Ground, Taunton",
-      "date": "2027-09-10",
-      "dateTimeGMT": "2027-09-10T17:30:00",
-      "teams": [
-        "England Women",
-        "Bangladesh Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "England Women vs Bangladesh Women, 1st T20I, Bangladesh Women tour of England 2027",
-      "matchType": "t20",
-      "status": "Match starts at Sep 08, 17:30 GMT",
-      "venue": "County Ground, Northampton",
-      "date": "2027-09-08",
-      "dateTimeGMT": "2027-09-08T17:30:00",
-      "teams": [
-        "England Women",
-        "Bangladesh Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Germany Women vs Denmark Women, 6th Match, Nordic Womens T20I Cup 2026",
-      "matchType": "t20",
-      "status": "Germany Women won by 37 runs",
-      "venue": "GelsenTrabPark, Gelsenkirchen",
-      "date": "2026-08-30",
-      "dateTimeGMT": "2026-08-30T00:00:00",
-      "teams": [
-        "Germany Women",
-        "Denmark Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Denmark Women vs Sweden Women, 5th Match, Nordic Womens T20I Cup 2026",
-      "matchType": "t20",
-      "status": "Match abandoned due to rain (no toss)",
-      "venue": "GelsenTrabPark, Gelsenkirchen",
-      "date": "2026-08-30",
-      "dateTimeGMT": "2026-08-30T00:00:00",
-      "teams": [
-        "Denmark Women",
-        "Sweden Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Germany Women vs Sweden Women, 4th Match, Nordic Womens T20I Cup 2026",
-      "matchType": "t20",
-      "status": "No result due to rain",
-      "venue": "GelsenTrabPark, Gelsenkirchen",
-      "date": "2026-08-29",
-      "dateTimeGMT": "2026-08-29T00:00:00",
-      "teams": [
-        "Germany Women",
-        "Sweden Women"
-      ],
-      "matchEnded": true
-    },
-    {
-      "name": "Germany Women vs Denmark Women, 3rd Match, Nordic Womens T20I Cup 2026",
-      "matchType": "t20",
-      "status": "Denmark Women won by 2 wkts",
-      "venue": "GelsenTrabPark, Gelsenkirchen",
-      "date": "2026-08-29",
-      "dateTimeGMT": "2026-08-29T00:00:00",
-      "teams": [
-        "Germany Women",
-        "Denmark Women"
       ],
       "matchEnded": true
     }
