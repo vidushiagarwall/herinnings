@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T08:00:05.449Z",
+  "updatedAt": "2026-10-19T15:47:38.462Z",
   "matches": [
     {
       "name": "South Africa Women vs Australia Women, One-off Test, Australia Women tour of South Africa, 2027",
@@ -130,7 +130,7 @@
     {
       "name": "Romania Women vs Bulgaria Women, 3rd place play-off, ECA Womens European Cup, 2026",
       "matchType": "t20",
-      "status": "Romania Women opt to bat",
+      "status": "Bulgaria Women won by 5 wkts",
       "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
       "date": "2026-10-18",
       "dateTimeGMT": "2026-10-18T07:00:00",
@@ -138,7 +138,7 @@
         "Romania Women",
         "Bulgaria Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Romania Women vs Sweden Women, 6th Match, ECA Womens European Cup, 2026",
