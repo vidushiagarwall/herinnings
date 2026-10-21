@@ -1,196 +1,613 @@
 {
-  "updatedAt": "2026-10-21T07:53:54.813Z",
+  "updatedAt": "2026-10-21T18:48:45.915Z",
   "matches": [
     {
-      "name": "South Africa Women vs Australia Women, One-off Test, Australia Women tour of South Africa, 2027",
-      "status": "Match starts at Apr 08, 08:00 GMT",
-      "venue": "Senwes Park, Potchefstroom",
-      "date": "2027-04-08",
-      "dateTimeGMT": "2027-04-08T08:00:00",
+      "name": "Sri Lanka Women vs England Women, 3rd ODI, England Women tour of Sri Lanka, 2027",
+      "status": "Match starts at Mar 08, 04:30 GMT",
+      "venue": "Rangiri Dambulla International Stadium, Dambulla",
+      "date": "2027-03-08",
+      "dateTimeGMT": "2027-03-08T04:30:00",
       "teams": [
-        "South Africa Women",
-        "Australia Women"
+        "Sri Lanka Women",
+        "England Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "South Africa Women vs Australia Women, 3rd ODI, Australia Women tour of South Africa, 2027",
-      "status": "Match starts at Apr 03, 12:00 GMT",
-      "venue": "Kingsmead, Durban",
-      "date": "2027-04-03",
-      "dateTimeGMT": "2027-04-03T12:00:00",
+      "name": "Sri Lanka Women vs England Women, 2nd ODI, England Women tour of Sri Lanka, 2027",
+      "status": "Match starts at Mar 06, 04:30 GMT",
+      "venue": "Rangiri Dambulla International Stadium, Dambulla",
+      "date": "2027-03-06",
+      "dateTimeGMT": "2027-03-06T04:30:00",
       "teams": [
-        "South Africa Women",
-        "Australia Women"
+        "Sri Lanka Women",
+        "England Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "South Africa Women vs Australia Women, 2nd ODI, Australia Women tour of South Africa 2027",
-      "status": "Match starts at Mar 31, 12:00 GMT",
-      "venue": "Boland Park, Paarl",
-      "date": "2027-03-31",
-      "dateTimeGMT": "2027-03-31T12:00:00",
+      "name": "Sri Lanka Women vs England Women, 1st ODI, England Women tour of Sri Lanka, 2027",
+      "status": "Match starts at Mar 04, 04:30 GMT",
+      "venue": "Rangiri Dambulla International Stadium, Dambulla",
+      "date": "2027-03-04",
+      "dateTimeGMT": "2027-03-04T04:30:00",
       "teams": [
-        "South Africa Women",
-        "Australia Women"
+        "Sri Lanka Women",
+        "England Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "South Africa Women vs Australia Women, 1st ODI, Australia Women tour of South Africa, 2027",
-      "status": "Match starts at Mar 27, 08:00 GMT",
-      "venue": "St George's Park, Gqeberha",
-      "date": "2027-03-27",
-      "dateTimeGMT": "2027-03-27T08:00:00",
+      "name": "Sri Lanka Women vs England Women, 3rd T20I, England Women tour of Sri Lanka, 2027",
+      "matchType": "t20",
+      "status": "Match starts at Feb 05, 04:30 GMT",
+      "venue": "Asgiriya Stadium, Kandy",
+      "date": "2027-02-05",
+      "dateTimeGMT": "2027-02-05T04:30:00",
       "teams": [
-        "South Africa Women",
-        "Australia Women"
+        "Sri Lanka Women",
+        "England Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "South Africa Women vs Australia Women, 3rd T20I, Australia Women tour of South Africa, 2027",
+      "name": "Sri Lanka Women vs England Women, 2nd T20I, England Women tour of Sri Lanka, 2027",
       "matchType": "t20",
-      "status": "Match starts at Mar 23, 16:00 GMT",
-      "venue": "Buffalo Park, East London",
-      "date": "2027-03-23",
-      "dateTimeGMT": "2027-03-23T16:00:00",
+      "status": "Match starts at Feb 03, 04:30 GMT",
+      "venue": "Asgiriya Stadium, Kandy",
+      "date": "2027-02-03",
+      "dateTimeGMT": "2027-02-03T04:30:00",
       "teams": [
-        "South Africa Women",
-        "Australia Women"
+        "Sri Lanka Women",
+        "England Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "South Africa Women vs Australia Women, 2nd T20I, Australia Women tour of South Africa, 2027",
+      "name": "Sri Lanka Women vs England Women, 1st T20I, England Women tour of Sri Lanka, 2027",
       "matchType": "t20",
-      "status": "Match starts at Mar 21, 12:00 GMT",
-      "venue": "Willowmoore Park, Benoni",
-      "date": "2027-03-21",
-      "dateTimeGMT": "2027-03-21T12:00:00",
+      "status": "Match starts at Feb 01, 04:30 GMT",
+      "venue": "Asgiriya Stadium, Kandy",
+      "date": "2027-02-01",
+      "dateTimeGMT": "2027-02-01T04:30:00",
       "teams": [
-        "South Africa Women",
-        "Australia Women"
+        "Sri Lanka Women",
+        "England Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "South Africa Women vs Australia Women, 1st T20I, Australia Women tour of South Africa, 2027",
+      "name": "Tbc vs Tbc, Final, ICC Under 19 Womens T20 World Cup 2027",
       "matchType": "t20",
-      "status": "Match starts at Mar 18, 16:00 GMT",
-      "venue": "Diamond Oval, Kimberley",
-      "date": "2027-03-18",
-      "dateTimeGMT": "2027-03-18T16:00:00",
+      "status": "Match starts at Feb 06, 07:30 GMT",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2027-02-06",
+      "dateTimeGMT": "2027-02-06T07:30:00",
       "teams": [
-        "South Africa Women",
-        "Australia Women"
+        "Tbc",
+        "Tbc"
       ],
       "matchEnded": false
     },
     {
-      "name": "Bulgaria Women vs Sweden Women, 2nd Match, ECA Womens European Cup, 2026",
+      "name": "Ad1 vs Bc2, 2nd Semi-Final, ICC Under 19 Womens T20 World Cup 2027",
       "matchType": "t20",
-      "status": "Sweden Women won by 10 wkts",
-      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
-      "date": "2026-10-15",
-      "dateTimeGMT": "2026-10-15T00:00:00",
+      "status": "Match starts at Feb 04, 07:30 GMT",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2027-02-04",
+      "dateTimeGMT": "2027-02-04T07:30:00",
       "teams": [
-        "Bulgaria Women",
-        "Sweden Women"
+        "Ad1",
+        "Bc2"
       ],
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "name": "Austria Women vs Sweden Women, 1st Match, ECA Womens European Cup, 2026",
+      "name": "Bc1 vs Ad2, 1st Semi-Final, ICC Under 19 Womens T20 World Cup 2027",
       "matchType": "t20",
-      "status": "Sweden Women won by 9 wkts",
-      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
-      "date": "2026-10-15",
-      "dateTimeGMT": "2026-10-15T00:00:00",
+      "status": "Match starts at Feb 04, 03:30 GMT",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2027-02-04",
+      "dateTimeGMT": "2027-02-04T03:30:00",
       "teams": [
-        "Austria Women",
-        "Sweden Women"
+        "Bc1",
+        "Ad2"
       ],
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "name": "Austria Women vs Sweden Women, Final, ECA Womens European Cup, 2026",
+      "name": "B1 vs C2, Super Six, Match 12, ICC Under 19 Womens T20 World Cup 2027",
       "matchType": "t20",
-      "status": "Sweden Women won by 64 runs",
-      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
-      "date": "2026-10-18",
-      "dateTimeGMT": "2026-10-18T11:00:00",
+      "status": "Match starts at Feb 02, 07:30 GMT",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2027-02-02",
+      "dateTimeGMT": "2027-02-02T07:30:00",
       "teams": [
-        "Austria Women",
-        "Sweden Women"
+        "B1",
+        "C2"
       ],
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "name": "Romania Women vs Bulgaria Women, 3rd place play-off, ECA Womens European Cup, 2026",
+      "name": "D3 vs A1, Super Six, Match 11, ICC Under 19 Womens T20 World Cup 2027",
       "matchType": "t20",
-      "status": "Bulgaria Women won by 5 wkts",
-      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
-      "date": "2026-10-18",
-      "dateTimeGMT": "2026-10-18T07:00:00",
+      "status": "Match starts at Feb 02, 03:30 GMT",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2027-02-02",
+      "dateTimeGMT": "2027-02-02T03:30:00",
       "teams": [
-        "Romania Women",
-        "Bulgaria Women"
+        "D3",
+        "A1"
       ],
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "name": "Romania Women vs Sweden Women, 6th Match, ECA Womens European Cup, 2026",
+      "name": "C3 vs B2, Super Six, Match 10, ICC Under 19 Womens T20 World Cup 2027",
       "matchType": "t20",
-      "status": "Sweden Women won by 10 wkts",
-      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
-      "date": "2026-10-17",
-      "dateTimeGMT": "2026-10-17T11:00:00",
+      "status": "Match starts at Feb 01, 07:30 GMT",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2027-02-01",
+      "dateTimeGMT": "2027-02-01T07:30:00",
       "teams": [
-        "Romania Women",
-        "Sweden Women"
+        "C3",
+        "B2"
       ],
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "name": "Romania Women vs Austria Women, 5th Match, ECA Womens European Cup, 2026",
+      "name": "C1 vs B3, Super Six, Match 9, ICC Under 19 Womens T20 World Cup 2027",
       "matchType": "t20",
-      "status": "Austria Women won by 7 wkts",
-      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
-      "date": "2026-10-17",
-      "dateTimeGMT": "2026-10-17T07:00:00",
+      "status": "Match starts at Feb 01, 03:30 GMT",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2027-02-01",
+      "dateTimeGMT": "2027-02-01T03:30:00",
       "teams": [
-        "Romania Women",
-        "Austria Women"
+        "C1",
+        "B3"
       ],
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "name": "Austria Women vs Bulgaria Women, 4th Match, ECA Womens European Cup, 2026",
+      "name": "D1 vs A3, Super Six, Match 8, ICC Under 19 Womens T20 World Cup 2027",
       "matchType": "t20",
-      "status": "Austria Women won by 10 wkts (DLS method)",
-      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
-      "date": "2026-10-16",
-      "dateTimeGMT": "2026-10-16T11:00:00",
+      "status": "Match starts at Feb 01, 03:30 GMT",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2027-02-01",
+      "dateTimeGMT": "2027-02-01T03:30:00",
       "teams": [
-        "Austria Women",
-        "Bulgaria Women"
+        "D1",
+        "A3"
       ],
-      "matchEnded": true
+      "matchEnded": false
     },
     {
-      "name": "Romania Women vs Bulgaria Women, 3rd Match, ECA Womens European Cup, 2026",
+      "name": "A1 vs D2, Super Six, Match 7, ICC Under 19 Womens T20 World Cup 2027",
       "matchType": "t20",
-      "status": "Bulgaria Women won by 2 wkts - 15 overs game",
-      "venue": "Moara Vlasiei Cricket Ground, Bucharest, Ilfov County",
-      "date": "2026-10-16",
-      "dateTimeGMT": "2026-10-16T07:00:00",
+      "status": "Match starts at Jan 31, 07:30 GMT",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2027-01-31",
+      "dateTimeGMT": "2027-01-31T07:30:00",
       "teams": [
-        "Romania Women",
-        "Bulgaria Women"
+        "A1",
+        "D2"
       ],
-      "matchEnded": true
+      "matchEnded": false
+    },
+    {
+      "name": "A2 vs D3, Super Six, Match 6, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 31, 03:30 GMT",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2027-01-31",
+      "dateTimeGMT": "2027-01-31T03:30:00",
+      "teams": [
+        "A2",
+        "D3"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "B1 vs C3, Super Six, Match 5, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 30, 03:30 GMT",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2027-01-30",
+      "dateTimeGMT": "2027-01-30T03:30:00",
+      "teams": [
+        "B1",
+        "C3"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "C1 vs B2, Super Six, Match 4, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 29, 07:30 GMT",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2027-01-29",
+      "dateTimeGMT": "2027-01-29T07:30:00",
+      "teams": [
+        "C1",
+        "B2"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "B3 vs C2, Super Six, Match 3, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 29, 03:30 GMT",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2027-01-29",
+      "dateTimeGMT": "2027-01-29T03:30:00",
+      "teams": [
+        "B3",
+        "C2"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "D1 vs A2, Super Six, Match 2, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 28, 07:45 GMT",
+      "venue": "Mulpani Cricket Ground, Kathmandu",
+      "date": "2027-01-28",
+      "dateTimeGMT": "2027-01-28T07:45:00",
+      "teams": [
+        "D1",
+        "A2"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "A3 vs D2, Super Six, Match 1, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 28, 03:45 GMT",
+      "venue": "Mulpani Cricket Ground, Kathmandu",
+      "date": "2027-01-28",
+      "dateTimeGMT": "2027-01-28T03:45:00",
+      "teams": [
+        "A3",
+        "D2"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "B4 vs C4, 4th place play-off 2, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 28, 03:30 GMT",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2027-01-28",
+      "dateTimeGMT": "2027-01-28T03:30:00",
+      "teams": [
+        "B4",
+        "C4"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "A4 vs D4, 4th place play-off 1, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 27, 03:45 GMT",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2027-01-27",
+      "dateTimeGMT": "2027-01-27T03:45:00",
+      "teams": [
+        "A4",
+        "D4"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "India Women U19 vs Ireland Women U19, 24th Match, Group A, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 26, 07:45 GMT",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2027-01-26",
+      "dateTimeGMT": "2027-01-26T07:45:00",
+      "teams": [
+        "India Women U19",
+        "Ireland Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "New Zealand Women U19 vs South Africa Women U19, 23rd Match, Group B, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 26, 07:30 GMT",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2027-01-26",
+      "dateTimeGMT": "2027-01-26T07:30:00",
+      "teams": [
+        "New Zealand Women U19",
+        "South Africa Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "West Indies Women U19 vs Nepal Women U19, 22nd Match, Group A, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 26, 03:45 GMT",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2027-01-26",
+      "dateTimeGMT": "2027-01-26T03:45:00",
+      "teams": [
+        "West Indies Women U19",
+        "Nepal Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Pakistan Women U19 vs Samoa Women U19, 21st Match, Group B, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 26, 03:30 GMT",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2027-01-26",
+      "dateTimeGMT": "2027-01-26T03:30:00",
+      "teams": [
+        "Pakistan Women U19",
+        "Samoa Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "United States Of America Women U19 vs Sri Lanka Women U19, 20th Match, Group D, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 25, 07:45 GMT",
+      "venue": "Mulpani Cricket Ground, Kathmandu",
+      "date": "2027-01-25",
+      "dateTimeGMT": "2027-01-25T07:45:00",
+      "teams": [
+        "United States Of America Women U19",
+        "Sri Lanka Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Bangladesh Women U19 vs Nigeria Women U19, 19th Match, Group C, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 25, 07:30 GMT",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2027-01-25",
+      "dateTimeGMT": "2027-01-25T07:30:00",
+      "teams": [
+        "Bangladesh Women U19",
+        "Nigeria Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "England Women U19 vs Scotland Women U19, 18th Match, Group D, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 25, 03:45 GMT",
+      "venue": "Mulpani Cricket Ground, Kathmandu",
+      "date": "2027-01-25",
+      "dateTimeGMT": "2027-01-25T03:45:00",
+      "teams": [
+        "England Women U19",
+        "Scotland Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Australia Women U19 vs United Arab Emirates Women U19, 17th Match, Group C, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 25, 03:30 GMT",
+      "venue": "Sylhet District Stadium, Sylhet",
+      "date": "2027-01-25",
+      "dateTimeGMT": "2027-01-25T03:30:00",
+      "teams": [
+        "Australia Women U19",
+        "United Arab Emirates Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Ireland Women U19 vs West Indies Women U19, 16th Match, Group A, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 24, 07:45 GMT",
+      "venue": "Mulpani Cricket Ground, Kathmandu",
+      "date": "2027-01-24",
+      "dateTimeGMT": "2027-01-24T07:45:00",
+      "teams": [
+        "Ireland Women U19",
+        "West Indies Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Pakistan Women U19 vs New Zealand Women U19, 15th Match, Group B, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 24, 07:30 GMT",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2027-01-24",
+      "dateTimeGMT": "2027-01-24T07:30:00",
+      "teams": [
+        "Pakistan Women U19",
+        "New Zealand Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Nepal Women U19 vs India Women U19, 14th Match, Group A, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 24, 03:45 GMT",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2027-01-24",
+      "dateTimeGMT": "2027-01-24T03:45:00",
+      "teams": [
+        "Nepal Women U19",
+        "India Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Samoa Women U19 vs South Africa Women U19, 13th Match, Group B, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 24, 03:30 GMT",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2027-01-24",
+      "dateTimeGMT": "2027-01-24T03:30:00",
+      "teams": [
+        "Samoa Women U19",
+        "South Africa Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Sri Lanka Women U19 vs England Women U19, 12th Match, Group D, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 23, 07:45 GMT",
+      "venue": "Mulpani Cricket Ground, Kathmandu",
+      "date": "2027-01-23",
+      "dateTimeGMT": "2027-01-23T07:45:00",
+      "teams": [
+        "Sri Lanka Women U19",
+        "England Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Bangladesh Women U19 vs Australia Women U19, 11th Match, Group C, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 23, 07:30 GMT",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2027-01-23",
+      "dateTimeGMT": "2027-01-23T07:30:00",
+      "teams": [
+        "Bangladesh Women U19",
+        "Australia Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "United States Of America Women U19 vs Scotland Women U19, 10th Match, Group D, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 23, 03:45 GMT",
+      "venue": "Mulpani Cricket Ground, Kathmandu",
+      "date": "2027-01-23",
+      "dateTimeGMT": "2027-01-23T03:45:00",
+      "teams": [
+        "United States Of America Women U19",
+        "Scotland Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "United Arab Emirates Women U19 vs Nigeria Women U19, 9th Match, Group C, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 23, 03:30 GMT",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2027-01-23",
+      "dateTimeGMT": "2027-01-23T03:30:00",
+      "teams": [
+        "United Arab Emirates Women U19",
+        "Nigeria Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "India Women U19 vs West Indies Women U19, 8th Match, Group A, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 22, 07:45 GMT",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2027-01-22",
+      "dateTimeGMT": "2027-01-22T07:45:00",
+      "teams": [
+        "India Women U19",
+        "West Indies Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "South Africa Women U19 vs Pakistan Women U19, 7th Match, Group B, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 22, 07:30 GMT",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2027-01-22",
+      "dateTimeGMT": "2027-01-22T07:30:00",
+      "teams": [
+        "South Africa Women U19",
+        "Pakistan Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Nepal Women U19 vs Ireland Women U19, 6th Match, Group A, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 22, 03:45 GMT",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2027-01-22",
+      "dateTimeGMT": "2027-01-22T03:45:00",
+      "teams": [
+        "Nepal Women U19",
+        "Ireland Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "New Zealand Women U19 vs Samoa Women U19, 5th Match, Group B, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 22, 03:30 GMT",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "date": "2027-01-22",
+      "dateTimeGMT": "2027-01-22T03:30:00",
+      "teams": [
+        "New Zealand Women U19",
+        "Samoa Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "England Women U19 vs United States Of America Women U19, 4th Match, Group D, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 21, 07:45 GMT",
+      "venue": "Mulpani Cricket Ground, Kathmandu",
+      "date": "2027-01-21",
+      "dateTimeGMT": "2027-01-21T07:45:00",
+      "teams": [
+        "England Women U19",
+        "United States Of America Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Australia Women U19 vs Nigeria Women U19, 3rd Match, Group C, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 21, 07:30 GMT",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2027-01-21",
+      "dateTimeGMT": "2027-01-21T07:30:00",
+      "teams": [
+        "Australia Women U19",
+        "Nigeria Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Sri Lanka Women U19 vs Scotland Women U19, 2nd Match, Group D, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 21, 03:45 GMT",
+      "venue": "Mulpani Cricket Ground, Kathmandu",
+      "date": "2027-01-21",
+      "dateTimeGMT": "2027-01-21T03:45:00",
+      "teams": [
+        "Sri Lanka Women U19",
+        "Scotland Women U19"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Bangladesh Women U19 vs United Arab Emirates Women U19, 1st Match, Group C, ICC Under 19 Womens T20 World Cup 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 21, 03:30 GMT",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "date": "2027-01-21",
+      "dateTimeGMT": "2027-01-21T03:30:00",
+      "teams": [
+        "Bangladesh Women U19",
+        "United Arab Emirates Women U19"
+      ],
+      "matchEnded": false
     }
   ]
 }
