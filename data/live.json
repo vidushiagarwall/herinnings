@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-24T17:31:08.702Z",
+  "updatedAt": "2026-10-24T22:38:40.777Z",
   "matches": [
     {
       "name": "Mexico Women vs Argentina Women, 3rd T20I, Argentina Women tour of Mexico, 2026",
       "matchType": "t20",
-      "status": "Match not started",
+      "status": "Match starts at Oct 25, 14:00 GMT",
       "venue": "Complejo Municipal de Beisbol de Texcoco, Texcoco de Mora",
       "date": "2026-10-25",
       "dateTimeGMT": "2026-10-25T14:00:00",
@@ -30,7 +30,7 @@
     {
       "name": "Mexico Women vs Argentina Women, 1st T20I, Argentina Women tour of Mexico, 2026",
       "matchType": "t20",
-      "status": "Mexico Women opt to bowl",
+      "status": "Argentina Women won by 223 runs",
       "venue": "Complejo Municipal de Beisbol de Texcoco, Texcoco de Mora",
       "date": "2026-10-24",
       "dateTimeGMT": "2026-10-24T14:00:00",
@@ -38,7 +38,7 @@
         "Mexico Women",
         "Argentina Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Sri Lanka Women vs England Women, 3rd ODI, England Women tour of Sri Lanka, 2027",
