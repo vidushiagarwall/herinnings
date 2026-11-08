@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-08T18:56:58.988Z",
+  "updatedAt": "2026-11-08T23:53:19.613Z",
   "matches": [
+    {
+      "name": "Pakistan Women vs Bangladesh Women, 3rd Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-12",
+      "dateTimeGMT": "2026-11-12T09:15:00",
+      "teams": [
+        "Pakistan Women",
+        "Bangladesh Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Netherlands Women vs Thailand Women, 4th Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-12",
+      "dateTimeGMT": "2026-11-12T09:15:00",
+      "teams": [
+        "Netherlands Women",
+        "Thailand Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Sri Lanka Women vs Ireland Women, 1st Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "TBC, TBC",
+      "date": "2026-11-12",
+      "dateTimeGMT": "2026-11-12T05:30:00",
+      "teams": [
+        "Sri Lanka Women",
+        "Ireland Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Papua New Guinea Women vs Scotland Women, 2nd Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-12",
+      "dateTimeGMT": "2026-11-12T05:30:00",
+      "teams": [
+        "Papua New Guinea Women",
+        "Scotland Women"
+      ],
+      "matchEnded": false
+    },
     {
       "name": "Namibia Women vs United States Of America Women, 10th Match, Womens Victoria T20I Series, 2026",
       "matchType": "t20",
