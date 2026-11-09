@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T10:05:08.228Z",
+  "updatedAt": "2026-11-09T23:30:02.389Z",
   "matches": [
     {
       "name": "Pakistan Women vs Bangladesh Women, 3rd Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
@@ -82,7 +82,7 @@
     {
       "name": "Namibia Women vs Uganda Women, 8th Match, Womens Victoria T20I Series, 2026",
       "matchType": "t20",
-      "status": "Match not started",
+      "status": "Match starts at Nov 10, 11:00 GMT",
       "venue": "Entebbe Cricket Oval, Entebbe",
       "date": "2026-11-10",
       "dateTimeGMT": "2026-11-10T11:00:00",
@@ -93,15 +93,15 @@
       "matchEnded": false
     },
     {
-      "name": "Rwanda Women vs United States Of America Women, 7th Match, Womens Victoria T20I Series, 2026",
+      "name": "Rwanda Women vs United States of America Women, 7th Match, Womens Victoria T20I Series, 2026",
       "matchType": "t20",
-      "status": "Match not started",
+      "status": "Match starts at Nov 10, 06:30 GMT",
       "venue": "Entebbe Cricket Oval, Entebbe",
       "date": "2026-11-10",
       "dateTimeGMT": "2026-11-10T06:30:00",
       "teams": [
         "Rwanda Women",
-        "United States Of America Women"
+        "United States of America Women"
       ],
       "matchEnded": false
     },
