@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T10:13:31.522Z",
+  "updatedAt": "2026-11-10T20:56:53.161Z",
   "matches": [
     {
       "name": "Pakistan Women vs Bangladesh Women, 3rd Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
@@ -54,22 +54,22 @@
       "matchEnded": false
     },
     {
-      "name": "Namibia Women vs United States Of America Women, 10th Match, Womens Victoria T20I Series, 2026",
+      "name": "Namibia Women vs United States of America Women, 10th Match, Womens Victoria T20I Series, 2026",
       "matchType": "t20",
-      "status": "Match not started",
+      "status": "Match starts at Nov 11, 11:00 GMT",
       "venue": "Entebbe Cricket Oval, Entebbe",
       "date": "2026-11-11",
       "dateTimeGMT": "2026-11-11T11:00:00",
       "teams": [
         "Namibia Women",
-        "United States Of America Women"
+        "United States of America Women"
       ],
       "matchEnded": false
     },
     {
       "name": "Uganda Women vs Rwanda Women, 9th Match, Womens Victoria T20I Series, 2026",
       "matchType": "t20",
-      "status": "Match not started",
+      "status": "Match starts at Nov 11, 06:30 GMT",
       "venue": "Entebbe Cricket Oval, Entebbe",
       "date": "2026-11-11",
       "dateTimeGMT": "2026-11-11T06:30:00",
@@ -82,7 +82,7 @@
     {
       "name": "Namibia Women vs Uganda Women, 8th Match, Womens Victoria T20I Series, 2026",
       "matchType": "t20",
-      "status": "Match starts at Nov 10, 11:00 GMT",
+      "status": "Namibia Women won by 4 runs",
       "venue": "Entebbe Cricket Oval, Entebbe",
       "date": "2026-11-10",
       "dateTimeGMT": "2026-11-10T11:00:00",
@@ -90,12 +90,12 @@
         "Namibia Women",
         "Uganda Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Rwanda Women vs United States of America Women, 7th Match, Womens Victoria T20I Series, 2026",
       "matchType": "t20",
-      "status": "United States of America Women need 96 runs",
+      "status": "Rwanda Women won by 2 runs",
       "venue": "Entebbe Cricket Oval, Entebbe",
       "date": "2026-11-10",
       "dateTimeGMT": "2026-11-10T06:30:00",
@@ -103,7 +103,7 @@
         "Rwanda Women",
         "United States of America Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Uganda Women vs United States of America Women, 6th Match, Womens Victoria T20I Series, 2026",
