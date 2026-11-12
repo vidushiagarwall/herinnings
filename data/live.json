@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-11T21:29:30.269Z",
+  "updatedAt": "2026-11-12T10:04:01.732Z",
   "matches": [
     {
       "name": "Pakistan Women vs Bangladesh Women, 3rd Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Match starts at Nov 12, 09:15 GMT",
+      "status": "Bangladesh Women opt to bat",
       "venue": "Karwan Cricket Ground, Ajman",
       "date": "2026-11-12",
       "dateTimeGMT": "2026-11-12T09:15:00",
@@ -17,7 +17,7 @@
     {
       "name": "Netherlands Women vs Thailand Women, 4th Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Match starts at Nov 12, 09:15 GMT",
+      "status": "Thailand Women opt to bat",
       "venue": "Seven Districts Ground, Ajman",
       "date": "2026-11-12",
       "dateTimeGMT": "2026-11-12T09:15:00",
@@ -30,7 +30,7 @@
     {
       "name": "Sri Lanka Women vs Ireland Women, 1st Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Match starts at Nov 12, 05:00 GMT",
+      "status": "Sri Lanka Women won by 10 wkts",
       "venue": "Karwan Cricket Ground, Ajman",
       "date": "2026-11-12",
       "dateTimeGMT": "2026-11-12T05:30:00",
@@ -38,12 +38,12 @@
         "Sri Lanka Women",
         "Ireland Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Papua New Guinea Women vs Scotland Women, 2nd Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Match starts at Nov 12, 05:00 GMT",
+      "status": "Scotland Women won by 7 wkts",
       "venue": "Seven Districts Ground, Ajman",
       "date": "2026-11-12",
       "dateTimeGMT": "2026-11-12T05:30:00",
@@ -51,7 +51,7 @@
         "Papua New Guinea Women",
         "Scotland Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Namibia Women vs United States of America Women, 10th Match, Womens Victoria T20I Series, 2026",
