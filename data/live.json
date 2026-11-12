@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-12T10:04:01.732Z",
+  "updatedAt": "2026-11-12T21:31:17.820Z",
   "matches": [
     {
       "name": "Pakistan Women vs Bangladesh Women, 3rd Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Bangladesh Women opt to bat",
+      "status": "Pakistan Women won by 8 wkts",
       "venue": "Karwan Cricket Ground, Ajman",
       "date": "2026-11-12",
       "dateTimeGMT": "2026-11-12T09:15:00",
@@ -12,12 +12,12 @@
         "Pakistan Women",
         "Bangladesh Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Netherlands Women vs Thailand Women, 4th Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Thailand Women opt to bat",
+      "status": "Netherlands Women won by 5 wkts",
       "venue": "Seven Districts Ground, Ajman",
       "date": "2026-11-12",
       "dateTimeGMT": "2026-11-12T09:15:00",
@@ -25,7 +25,7 @@
         "Netherlands Women",
         "Thailand Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Sri Lanka Women vs Ireland Women, 1st Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
