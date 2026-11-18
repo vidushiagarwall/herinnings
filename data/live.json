@@ -1,6 +1,721 @@
 {
-  "updatedAt": "2026-11-17T22:32:22.990Z",
+  "updatedAt": "2026-11-18T10:29:41.916Z",
   "matches": [
+    {
+      "name": "Uganda Women vs Rwanda Women, Final, Womens Victoria T20I Series, 2026",
+      "matchType": "t20",
+      "status": "Uganda Women won by 19 runs",
+      "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-14",
+      "dateTimeGMT": "2026-11-14T00:00:00",
+      "teams": [
+        "Uganda Women",
+        "Rwanda Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Namibia Women vs United States of America Women, 3rd Place Play-off, Womens Victoria T20I Series, 2026",
+      "matchType": "t20",
+      "status": "United States of America Women won by 28 runs",
+      "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-14",
+      "dateTimeGMT": "2026-11-14T00:00:00",
+      "teams": [
+        "Namibia Women",
+        "United States of America Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Namibia Women vs Rwanda Women, 12th Match, Womens Victoria T20I Series, 2026",
+      "matchType": "t20",
+      "status": "Rwanda Women won by 4 wkts",
+      "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-12",
+      "dateTimeGMT": "2026-11-12T00:00:00",
+      "teams": [
+        "Namibia Women",
+        "Rwanda Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Uganda Women vs United States of America Women, 11th Match, Womens Victoria T20I Series, 2026",
+      "matchType": "t20",
+      "status": "Uganda Women won by 14 runs",
+      "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-12",
+      "dateTimeGMT": "2026-11-12T00:00:00",
+      "teams": [
+        "Uganda Women",
+        "United States of America Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Namibia Women vs United States of America Women, 3rd Match, Womens Victoria T20I Series, 2026",
+      "matchType": "t20",
+      "status": "Namibia Women won by 8 runs",
+      "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-07",
+      "dateTimeGMT": "2026-11-07T00:00:00",
+      "teams": [
+        "Namibia Women",
+        "United States of America Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Rwanda Women vs United States of America Women, 2nd Match, Womens Victoria T20I Series, 2026",
+      "matchType": "t20",
+      "status": "Rwanda Women won by 14 runs",
+      "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-06",
+      "dateTimeGMT": "2026-11-06T00:00:00",
+      "teams": [
+        "Rwanda Women",
+        "United States of America Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Uganda Women vs Namibia Women, 1st Match, Womens Victoria T20I Series, 2026",
+      "matchType": "t20",
+      "status": "Uganda Women won by 4 wkts",
+      "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-06",
+      "dateTimeGMT": "2026-11-06T00:00:00",
+      "teams": [
+        "Uganda Women",
+        "Namibia Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Tbc vs Tbc, Final, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 25, 05:00 GMT",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-25",
+      "dateTimeGMT": "2026-11-25T05:00:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Tbc vs Tbc, 29th Match, Super Six (A3 v B2), ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 23, 09:15 GMT",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-23",
+      "dateTimeGMT": "2026-11-23T09:15:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Tbc vs Tbc, 28th Match, Super Six (B3 v A2), ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 23, 09:15 GMT",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-23",
+      "dateTimeGMT": "2026-11-23T09:15:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Tbc vs Tbc, 27th Match, Super Six (A1 v B1), ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 23, 05:00 GMT",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-23",
+      "dateTimeGMT": "2026-11-23T05:00:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Tbc vs Tbc, 26th Match, Super Six (A3 v B3), ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 22, 09:15 GMT",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-22",
+      "dateTimeGMT": "2026-11-22T09:15:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Tbc vs Tbc, 25th Match, Super Six (B1 v A2), ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 22, 05:00 GMT",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-22",
+      "dateTimeGMT": "2026-11-22T05:00:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Tbc vs Tbc, 24th Match, Super Six (B2 v A1), ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 22, 05:00 GMT",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-22",
+      "dateTimeGMT": "2026-11-22T05:00:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Tbc vs Tbc, 23rd Match, Super Six, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 20, 09:15 GMT",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-20",
+      "dateTimeGMT": "2026-11-20T09:15:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Tbc vs Tbc, 22nd Match, Super Six (A1 v B3), ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 20, 05:00 GMT",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-20",
+      "dateTimeGMT": "2026-11-20T05:00:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Tbc vs Tbc, 21st Match, Super Six (A2 v B2), ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Match starts at Nov 20, 05:00 GMT",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-20",
+      "dateTimeGMT": "2026-11-20T05:00:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Bangladesh Women vs Thailand Women, 20th Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Thailand Women opt to bowl",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-18",
+      "dateTimeGMT": "2026-11-18T09:15:00",
+      "teams": [
+        "Bangladesh Women",
+        "Thailand Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Netherlands Women vs Zimbabwe Women, 19th Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Zimbabwe Women opt to bat",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-18",
+      "dateTimeGMT": "2026-11-18T09:15:00",
+      "teams": [
+        "Netherlands Women",
+        "Zimbabwe Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Ireland Women vs Scotland Women, 18th Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Scotland Women won by 8 wkts",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-18",
+      "dateTimeGMT": "2026-11-18T00:00:00",
+      "teams": [
+        "Ireland Women",
+        "Scotland Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Papua New Guinea Women vs United Arab Emirates Women, 17th Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "United Arab Emirates Women won by 70 runs",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-18",
+      "dateTimeGMT": "2026-11-18T00:00:00",
+      "teams": [
+        "Papua New Guinea Women",
+        "United Arab Emirates Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Ireland Women vs Papua New Guinea Women, 15th Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Ireland Women won by 45 runs",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-16",
+      "dateTimeGMT": "2026-11-16T00:00:00",
+      "teams": [
+        "Ireland Women",
+        "Papua New Guinea Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "United Arab Emirates Women vs Sri Lanka Women, 16th Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Sri Lanka Women won by 5 wkts",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-16",
+      "dateTimeGMT": "2026-11-16T00:00:00",
+      "teams": [
+        "United Arab Emirates Women",
+        "Sri Lanka Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Zimbabwe Women vs Pakistan Women, 14th Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Pakistan Women won by 51 runs",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-16",
+      "dateTimeGMT": "2026-11-16T00:00:00",
+      "teams": [
+        "Zimbabwe Women",
+        "Pakistan Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Bangladesh Women vs Netherlands Women, 13th Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Netherlands Women won by 5 wkts",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-16",
+      "dateTimeGMT": "2026-11-16T00:00:00",
+      "teams": [
+        "Bangladesh Women",
+        "Netherlands Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Sri Lanka Women vs Papua New Guinea Women, 12th Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Sri Lanka Women won by 67 runs",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-15",
+      "dateTimeGMT": "2026-11-15T00:00:00",
+      "teams": [
+        "Sri Lanka Women",
+        "Papua New Guinea Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Scotland Women vs United Arab Emirates Women, 11th Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Scotland Women won by 7 wkts",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-15",
+      "dateTimeGMT": "2026-11-15T00:00:00",
+      "teams": [
+        "Scotland Women",
+        "United Arab Emirates Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Pakistan Women vs Netherlands Women, 10th Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Netherlands Women won by 8 wkts",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-15",
+      "dateTimeGMT": "2026-11-15T00:00:00",
+      "teams": [
+        "Pakistan Women",
+        "Netherlands Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Thailand Women vs Zimbabwe Women, 9th Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Zimbabwe Women won by 28 runs",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-15",
+      "dateTimeGMT": "2026-11-15T00:00:00",
+      "teams": [
+        "Thailand Women",
+        "Zimbabwe Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Thailand Women vs Pakistan Women, 7th Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Pakistan Women won by 24 runs",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-13",
+      "dateTimeGMT": "2026-11-13T00:00:00",
+      "teams": [
+        "Thailand Women",
+        "Pakistan Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Zimbabwe Women vs Bangladesh Women, 8th Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Bangladesh Women won by 9 wkts",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-13",
+      "dateTimeGMT": "2026-11-13T00:00:00",
+      "teams": [
+        "Zimbabwe Women",
+        "Bangladesh Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "United Arab Emirates Women vs Ireland Women, 6th Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Ireland Women won by 61 runs",
+      "venue": "Seven Districts Ground, Ajman",
+      "date": "2026-11-13",
+      "dateTimeGMT": "2026-11-13T00:00:00",
+      "teams": [
+        "United Arab Emirates Women",
+        "Ireland Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Scotland Women vs Sri Lanka Women, 5th Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
+      "matchType": "t20",
+      "status": "Sri Lanka Women won by 4 wkts",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "date": "2026-11-13",
+      "dateTimeGMT": "2026-11-13T00:00:00",
+      "teams": [
+        "Scotland Women",
+        "Sri Lanka Women"
+      ],
+      "matchEnded": true
+    },
+    {
+      "name": "Tbc vs Tbc, Final, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Feb 07, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-02-07",
+      "dateTimeGMT": "2027-02-07T14:00:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Tbc vs Tbc, Eliminator, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Feb 05, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-02-05",
+      "dateTimeGMT": "2027-02-05T14:00:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Delhi Capitals Women vs Up Warriorz Women, 20th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Feb 03, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-02-03",
+      "dateTimeGMT": "2027-02-03T14:00:00",
+      "teams": [
+        "Delhi Capitals Women",
+        "Up Warriorz Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Royal Challengers Bengaluru Women vs Gujarat Giants Women, 19th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Feb 02, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-02-02",
+      "dateTimeGMT": "2027-02-02T14:00:00",
+      "teams": [
+        "Royal Challengers Bengaluru Women",
+        "Gujarat Giants Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Mumbai Indians Women vs Delhi Capitals Women, 18th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Feb 01, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-02-01",
+      "dateTimeGMT": "2027-02-01T14:00:00",
+      "teams": [
+        "Mumbai Indians Women",
+        "Delhi Capitals Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Up Warriorz Women vs Royal Challengers Bengaluru Women, 17th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 31, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-01-31",
+      "dateTimeGMT": "2027-01-31T14:00:00",
+      "teams": [
+        "Up Warriorz Women",
+        "Royal Challengers Bengaluru Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Mumbai Indians Women vs Gujarat Giants Women, 16th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 30, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-01-30",
+      "dateTimeGMT": "2027-01-30T14:00:00",
+      "teams": [
+        "Mumbai Indians Women",
+        "Gujarat Giants Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Royal Challengers Bengaluru Women vs Delhi Capitals Women, 15th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 29, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-01-29",
+      "dateTimeGMT": "2027-01-29T14:00:00",
+      "teams": [
+        "Royal Challengers Bengaluru Women",
+        "Delhi Capitals Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Mumbai Indians Women vs Up Warriorz Women, 14th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 28, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-01-28",
+      "dateTimeGMT": "2027-01-28T14:00:00",
+      "teams": [
+        "Mumbai Indians Women",
+        "Up Warriorz Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Delhi Capitals Women vs Gujarat Giants Women, 13th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 27, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-01-27",
+      "dateTimeGMT": "2027-01-27T14:00:00",
+      "teams": [
+        "Delhi Capitals Women",
+        "Gujarat Giants Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Mumbai Indians Women vs Royal Challengers Bengaluru Women, 12th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 26, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-01-26",
+      "dateTimeGMT": "2027-01-26T14:00:00",
+      "teams": [
+        "Mumbai Indians Women",
+        "Royal Challengers Bengaluru Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Up Warriorz Women vs Gujarat Giants Women, 11th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 24, 14:00 GMT",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2027-01-24",
+      "dateTimeGMT": "2027-01-24T14:00:00",
+      "teams": [
+        "Up Warriorz Women",
+        "Gujarat Giants Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Delhi Capitals Women vs Mumbai Indians Women, 10th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 23, 14:00 GMT",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2027-01-23",
+      "dateTimeGMT": "2027-01-23T14:00:00",
+      "teams": [
+        "Delhi Capitals Women",
+        "Mumbai Indians Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Gujarat Giants Women vs Royal Challengers Bengaluru Women, 9th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 22, 14:00 GMT",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2027-01-22",
+      "dateTimeGMT": "2027-01-22T14:00:00",
+      "teams": [
+        "Gujarat Giants Women",
+        "Royal Challengers Bengaluru Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Up Warriorz Women vs Delhi Capitals Women, 8th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 21, 14:00 GMT",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2027-01-21",
+      "dateTimeGMT": "2027-01-21T14:00:00",
+      "teams": [
+        "Up Warriorz Women",
+        "Delhi Capitals Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Gujarat Giants Women vs Mumbai Indians Women, 7th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 20, 14:00 GMT",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2027-01-20",
+      "dateTimeGMT": "2027-01-20T14:00:00",
+      "teams": [
+        "Gujarat Giants Women",
+        "Mumbai Indians Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Royal Challengers Bengaluru Women vs Up Warriorz Women, 6th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 19, 14:00 GMT",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2027-01-19",
+      "dateTimeGMT": "2027-01-19T14:00:00",
+      "teams": [
+        "Royal Challengers Bengaluru Women",
+        "Up Warriorz Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Gujarat Giants Women vs Delhi Capitals Women, 5th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 18, 14:00 GMT",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2027-01-18",
+      "dateTimeGMT": "2027-01-18T14:00:00",
+      "teams": [
+        "Gujarat Giants Women",
+        "Delhi Capitals Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Up Warriorz Women vs Mumbai Indians Women, 4th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 17, 14:00 GMT",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2027-01-17",
+      "dateTimeGMT": "2027-01-17T14:00:00",
+      "teams": [
+        "Up Warriorz Women",
+        "Mumbai Indians Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Delhi Capitals Women vs Royal Challengers Bengaluru Women, 3rd Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 16, 14:00 GMT",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2027-01-16",
+      "dateTimeGMT": "2027-01-16T14:00:00",
+      "teams": [
+        "Delhi Capitals Women",
+        "Royal Challengers Bengaluru Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Gujarat Giants Women vs Up Warriorz Women, 2nd Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 15, 14:00 GMT",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2027-01-15",
+      "dateTimeGMT": "2027-01-15T14:00:00",
+      "teams": [
+        "Gujarat Giants Women",
+        "Up Warriorz Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Royal Challengers Bengaluru Women vs Mumbai Indians Women, 1st Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 14, 14:00 GMT",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "date": "2027-01-14",
+      "dateTimeGMT": "2027-01-14T14:00:00",
+      "teams": [
+        "Royal Challengers Bengaluru Women",
+        "Mumbai Indians Women"
+      ],
+      "matchEnded": false
+    },
     {
       "name": "Pakistan Women vs Bangladesh Women, 3rd Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
@@ -136,6 +851,8 @@
       "matchType": "t20",
       "status": "Uganda Women opt to bat",
       "venue": "Entebbe Cricket Oval, Entebbe",
+      "date": "2026-11-07",
+      "dateTimeGMT": "2026-11-07T00:00:00",
       "teams": [
         "Uganda Women",
         "Rwanda Women"
