@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T10:29:41.916Z",
+  "updatedAt": "2026-11-18T22:12:55.808Z",
   "matches": [
     {
       "name": "Uganda Women vs Rwanda Women, Final, Womens Victoria T20I Series, 2026",
@@ -225,7 +225,7 @@
     {
       "name": "Bangladesh Women vs Thailand Women, 20th Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Thailand Women opt to bowl",
+      "status": "Bangladesh Women won by 3 runs",
       "venue": "Seven Districts Ground, Ajman",
       "date": "2026-11-18",
       "dateTimeGMT": "2026-11-18T09:15:00",
@@ -233,12 +233,12 @@
         "Bangladesh Women",
         "Thailand Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Netherlands Women vs Zimbabwe Women, 19th Match, Group B, ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Zimbabwe Women opt to bat",
+      "status": "Zimbabwe Women won by 33 runs",
       "venue": "Karwan Cricket Ground, Ajman",
       "date": "2026-11-18",
       "dateTimeGMT": "2026-11-18T09:15:00",
@@ -246,7 +246,7 @@
         "Netherlands Women",
         "Zimbabwe Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Ireland Women vs Scotland Women, 18th Match, Group A, ICC Womens Emerging Nations Trophy, 2026",
