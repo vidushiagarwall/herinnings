@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T10:17:41.854Z",
+  "updatedAt": "2026-11-20T21:54:34.890Z",
   "matches": [
     {
       "name": "Uganda Women vs Rwanda Women, Final, Womens Victoria T20I Series, 2026",
@@ -186,7 +186,7 @@
     {
       "name": "Pakistan Women vs Ireland Women, 23rd Match, Super Six (B1 v A3), ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Pakistan Women opt to bat",
+      "status": "Ireland Women won by 9 wkts",
       "venue": "Karwan Cricket Ground, Ajman",
       "date": "2026-11-20",
       "dateTimeGMT": "2026-11-20T09:15:00",
@@ -194,7 +194,7 @@
         "Pakistan Women",
         "Ireland Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Sri Lanka Women vs Zimbabwe Women, 22nd Match, Super Six (A1 v B3), ICC Womens Emerging Nations Trophy, 2026",
