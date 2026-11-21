@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T10:02:41.349Z",
+  "updatedAt": "2026-11-21T20:37:40.969Z",
   "matches": [
     {
       "name": "Tbc vs Tbc, Final, Malaysia Womens T20I Tri-Series, 2026",
@@ -236,41 +236,41 @@
       "matchEnded": false
     },
     {
-      "name": "Tbc vs Tbc, 26th Match, Super Six (A3 v B3), ICC Womens Emerging Nations Trophy, 2026",
+      "name": "Ireland Women vs Zimbabwe Women, 26th Match, Super Six (A3 v B3), ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
       "status": "Match starts at Nov 22, 09:15 GMT",
       "venue": "Seven Districts Ground, Ajman",
       "date": "2026-11-22",
       "dateTimeGMT": "2026-11-22T09:15:00",
       "teams": [
-        "Tbc",
-        "Tbc"
+        "Ireland Women",
+        "Zimbabwe Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "Tbc vs Tbc, 25th Match, Super Six (B1 v A2), ICC Womens Emerging Nations Trophy, 2026",
+      "name": "Pakistan Women vs Scotland Women, 25th Match, Super Six (B1 v A2), ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
       "status": "Match starts at Nov 22, 05:00 GMT",
       "venue": "Seven Districts Ground, Ajman",
       "date": "2026-11-22",
       "dateTimeGMT": "2026-11-22T05:00:00",
       "teams": [
-        "Tbc",
-        "Tbc"
+        "Pakistan Women",
+        "Scotland Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "Tbc vs Tbc, 24th Match, Super Six (B2 v A1), ICC Womens Emerging Nations Trophy, 2026",
+      "name": "Netherlands Women vs Sri Lanka Women, 24th Match, Super Six (B2 v A1), ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
       "status": "Match starts at Nov 22, 05:00 GMT",
       "venue": "Karwan Cricket Ground, Ajman",
       "date": "2026-11-22",
       "dateTimeGMT": "2026-11-22T05:00:00",
       "teams": [
-        "Tbc",
-        "Tbc"
+        "Netherlands Women",
+        "Sri Lanka Women"
       ],
       "matchEnded": false
     },
