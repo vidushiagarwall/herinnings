@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T10:04:45.713Z",
+  "updatedAt": "2026-11-22T20:47:26.021Z",
   "matches": [
     {
       "name": "Tbc vs Tbc, Final, Malaysia Womens T20I Tri-Series, 2026",
@@ -197,48 +197,48 @@
       "matchEnded": false
     },
     {
-      "name": "Tbc vs Tbc, 29th Match, Super Six (A3 v B2), ICC Womens Emerging Nations Trophy, 2026",
+      "name": "Ireland Women vs Netherlands Women, 29th Match, Super Six (A3 v B2), ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
       "status": "Match starts at Nov 23, 09:15 GMT",
       "venue": "Seven Districts Ground, Ajman",
       "date": "2026-11-23",
       "dateTimeGMT": "2026-11-23T09:15:00",
       "teams": [
-        "Tbc",
-        "Tbc"
+        "Ireland Women",
+        "Netherlands Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "Tbc vs Tbc, 28th Match, Super Six (B3 v A2), ICC Womens Emerging Nations Trophy, 2026",
+      "name": "Zimbabwe Women vs Scotland Women, 28th Match, Super Six (B3 v A2), ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
       "status": "Match starts at Nov 23, 09:15 GMT",
       "venue": "Karwan Cricket Ground, Ajman",
       "date": "2026-11-23",
       "dateTimeGMT": "2026-11-23T09:15:00",
       "teams": [
-        "Tbc",
-        "Tbc"
+        "Zimbabwe Women",
+        "Scotland Women"
       ],
       "matchEnded": false
     },
     {
-      "name": "Tbc vs Tbc, 27th Match, Super Six (A1 v B1), ICC Womens Emerging Nations Trophy, 2026",
+      "name": "Sri Lanka Women vs Pakistan Women, 27th Match, Super Six (A1 v B1), ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
       "status": "Match starts at Nov 23, 05:00 GMT",
       "venue": "Karwan Cricket Ground, Ajman",
       "date": "2026-11-23",
       "dateTimeGMT": "2026-11-23T05:00:00",
       "teams": [
-        "Tbc",
-        "Tbc"
+        "Sri Lanka Women",
+        "Pakistan Women"
       ],
       "matchEnded": false
     },
     {
       "name": "Ireland Women vs Zimbabwe Women, 26th Match, Super Six (A3 v B3), ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Zimbabwe Women opt to bat",
+      "status": "Ireland Women won by 3 wkts",
       "venue": "Seven Districts Ground, Ajman",
       "date": "2026-11-22",
       "dateTimeGMT": "2026-11-22T09:15:00",
@@ -246,7 +246,7 @@
         "Ireland Women",
         "Zimbabwe Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Pakistan Women vs Scotland Women, 25th Match, Super Six (B1 v A2), ICC Womens Emerging Nations Trophy, 2026",
