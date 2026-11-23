@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T20:47:26.021Z",
+  "updatedAt": "2026-11-23T11:01:18.320Z",
   "matches": [
     {
       "name": "Tbc vs Tbc, Final, Malaysia Womens T20I Tri-Series, 2026",
@@ -43,7 +43,7 @@
     {
       "name": "China Women vs Indonesia Women, 5th Match, Malaysia Womens T20I Tri-Series, 2026",
       "matchType": "t20",
-      "status": "Match not started",
+      "status": "Match starts at Nov 24, 02:00 GMT",
       "venue": "Bayuemas Oval, Kuala Lumpur",
       "date": "2026-11-24",
       "dateTimeGMT": "2026-11-24T02:00:00",
@@ -56,7 +56,7 @@
     {
       "name": "Malaysia Women vs Indonesia Women, 4th Match, Malaysia Womens T20I Tri-Series, 2026",
       "matchType": "t20",
-      "status": "Match starts at Nov 23, 02:00 GMT",
+      "status": "Indonesia Women won by 6 wkts",
       "venue": "Bayuemas Oval, Kuala Lumpur",
       "date": "2026-11-23",
       "dateTimeGMT": "2026-11-23T02:00:00",
@@ -64,7 +64,7 @@
         "Malaysia Women",
         "Indonesia Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Malaysia Women vs China Women, 3rd Match, Malaysia Womens T20I Tri-Series, 2026",
@@ -199,7 +199,7 @@
     {
       "name": "Ireland Women vs Netherlands Women, 29th Match, Super Six (A3 v B2), ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Match starts at Nov 23, 09:15 GMT",
+      "status": "Netherlands Women opt to bowl",
       "venue": "Seven Districts Ground, Ajman",
       "date": "2026-11-23",
       "dateTimeGMT": "2026-11-23T09:15:00",
@@ -212,7 +212,7 @@
     {
       "name": "Zimbabwe Women vs Scotland Women, 28th Match, Super Six (B3 v A2), ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Match starts at Nov 23, 09:15 GMT",
+      "status": "Scotland Women opt to bat",
       "venue": "Karwan Cricket Ground, Ajman",
       "date": "2026-11-23",
       "dateTimeGMT": "2026-11-23T09:15:00",
@@ -225,7 +225,7 @@
     {
       "name": "Sri Lanka Women vs Pakistan Women, 27th Match, Super Six (A1 v B1), ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Match starts at Nov 23, 05:00 GMT",
+      "status": "Sri Lanka Women won by 4 runs",
       "venue": "Karwan Cricket Ground, Ajman",
       "date": "2026-11-23",
       "dateTimeGMT": "2026-11-23T05:00:00",
@@ -233,7 +233,7 @@
         "Sri Lanka Women",
         "Pakistan Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Ireland Women vs Zimbabwe Women, 26th Match, Super Six (A3 v B3), ICC Womens Emerging Nations Trophy, 2026",
