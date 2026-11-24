@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T01:47:13.119Z",
+  "updatedAt": "2026-11-24T12:47:31.268Z",
   "matches": [
     {
       "name": "Tbc vs Tbc, Final, Malaysia Womens T20I Tri-Series, 2026",
@@ -43,7 +43,7 @@
     {
       "name": "China Women vs Indonesia Women, 5th Match, Malaysia Womens T20I Tri-Series, 2026",
       "matchType": "t20",
-      "status": "Match starts at Nov 24, 02:00 GMT",
+      "status": "Indonesia Women won by 91 runs",
       "venue": "Bayuemas Oval, Kuala Lumpur",
       "date": "2026-11-24",
       "dateTimeGMT": "2026-11-24T02:00:00",
@@ -51,7 +51,7 @@
         "China Women",
         "Indonesia Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Malaysia Women vs Indonesia Women, 4th Match, Malaysia Womens T20I Tri-Series, 2026",
@@ -184,15 +184,15 @@
       "matchEnded": true
     },
     {
-      "name": "Tbc vs Tbc, Final, ICC Womens Emerging Nations Trophy, 2026",
+      "name": "Sri Lanka Women vs Ireland Women, Final, ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
       "status": "Match starts at Nov 25, 05:00 GMT",
       "venue": "Karwan Cricket Ground, Ajman",
       "date": "2026-11-25",
       "dateTimeGMT": "2026-11-25T05:00:00",
       "teams": [
-        "Tbc",
-        "Tbc"
+        "Sri Lanka Women",
+        "Ireland Women"
       ],
       "matchEnded": false
     },
