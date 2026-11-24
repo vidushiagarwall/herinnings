@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T11:01:18.320Z",
+  "updatedAt": "2026-11-24T01:47:13.119Z",
   "matches": [
     {
       "name": "Tbc vs Tbc, Final, Malaysia Womens T20I Tri-Series, 2026",
@@ -199,7 +199,7 @@
     {
       "name": "Ireland Women vs Netherlands Women, 29th Match, Super Six (A3 v B2), ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Netherlands Women opt to bowl",
+      "status": "Ireland Women won by 44 runs",
       "venue": "Seven Districts Ground, Ajman",
       "date": "2026-11-23",
       "dateTimeGMT": "2026-11-23T09:15:00",
@@ -207,12 +207,12 @@
         "Ireland Women",
         "Netherlands Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Zimbabwe Women vs Scotland Women, 28th Match, Super Six (B3 v A2), ICC Womens Emerging Nations Trophy, 2026",
       "matchType": "t20",
-      "status": "Scotland Women opt to bat",
+      "status": "Scotland Women won by 74 runs",
       "venue": "Karwan Cricket Ground, Ajman",
       "date": "2026-11-23",
       "dateTimeGMT": "2026-11-23T09:15:00",
@@ -220,7 +220,7 @@
         "Zimbabwe Women",
         "Scotland Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Sri Lanka Women vs Pakistan Women, 27th Match, Super Six (A1 v B1), ICC Womens Emerging Nations Trophy, 2026",
@@ -635,123 +635,6 @@
       "teams": [
         "Mumbai Indians Women",
         "Up Warriorz Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Delhi Capitals Women vs Gujarat Giants Women, 13th Match, Womens Premier League 2027",
-      "matchType": "t20",
-      "status": "Match starts at Jan 27, 14:00 GMT",
-      "venue": "Wankhede Stadium, Mumbai",
-      "date": "2027-01-27",
-      "dateTimeGMT": "2027-01-27T14:00:00",
-      "teams": [
-        "Delhi Capitals Women",
-        "Gujarat Giants Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Mumbai Indians Women vs Royal Challengers Bengaluru Women, 12th Match, Womens Premier League 2027",
-      "matchType": "t20",
-      "status": "Match starts at Jan 26, 14:00 GMT",
-      "venue": "Wankhede Stadium, Mumbai",
-      "date": "2027-01-26",
-      "dateTimeGMT": "2027-01-26T14:00:00",
-      "teams": [
-        "Mumbai Indians Women",
-        "Royal Challengers Bengaluru Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Up Warriorz Women vs Gujarat Giants Women, 11th Match, Womens Premier League 2027",
-      "matchType": "t20",
-      "status": "Match starts at Jan 24, 14:00 GMT",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "date": "2027-01-24",
-      "dateTimeGMT": "2027-01-24T14:00:00",
-      "teams": [
-        "Up Warriorz Women",
-        "Gujarat Giants Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Delhi Capitals Women vs Mumbai Indians Women, 10th Match, Womens Premier League 2027",
-      "matchType": "t20",
-      "status": "Match starts at Jan 23, 14:00 GMT",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "date": "2027-01-23",
-      "dateTimeGMT": "2027-01-23T14:00:00",
-      "teams": [
-        "Delhi Capitals Women",
-        "Mumbai Indians Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Gujarat Giants Women vs Royal Challengers Bengaluru Women, 9th Match, Womens Premier League 2027",
-      "matchType": "t20",
-      "status": "Match starts at Jan 22, 14:00 GMT",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "date": "2027-01-22",
-      "dateTimeGMT": "2027-01-22T14:00:00",
-      "teams": [
-        "Gujarat Giants Women",
-        "Royal Challengers Bengaluru Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Up Warriorz Women vs Delhi Capitals Women, 8th Match, Womens Premier League 2027",
-      "matchType": "t20",
-      "status": "Match starts at Jan 21, 14:00 GMT",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "date": "2027-01-21",
-      "dateTimeGMT": "2027-01-21T14:00:00",
-      "teams": [
-        "Up Warriorz Women",
-        "Delhi Capitals Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Gujarat Giants Women vs Mumbai Indians Women, 7th Match, Womens Premier League 2027",
-      "matchType": "t20",
-      "status": "Match starts at Jan 20, 14:00 GMT",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "date": "2027-01-20",
-      "dateTimeGMT": "2027-01-20T14:00:00",
-      "teams": [
-        "Gujarat Giants Women",
-        "Mumbai Indians Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Royal Challengers Bengaluru Women vs Up Warriorz Women, 6th Match, Womens Premier League 2027",
-      "matchType": "t20",
-      "status": "Match starts at Jan 19, 14:00 GMT",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "date": "2027-01-19",
-      "dateTimeGMT": "2027-01-19T14:00:00",
-      "teams": [
-        "Royal Challengers Bengaluru Women",
-        "Up Warriorz Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Gujarat Giants Women vs Delhi Capitals Women, 5th Match, Womens Premier League 2027",
-      "matchType": "t20",
-      "status": "Match starts at Jan 18, 14:00 GMT",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "date": "2027-01-18",
-      "dateTimeGMT": "2027-01-18T14:00:00",
-      "teams": [
-        "Gujarat Giants Women",
-        "Delhi Capitals Women"
       ],
       "matchEnded": false
     }
