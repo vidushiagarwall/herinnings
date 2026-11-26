@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T11:17:57.136Z",
+  "updatedAt": "2026-11-26T23:10:57.133Z",
   "matches": [
     {
       "name": "Tbc vs Tbc, Final, Malaysia Womens T20I Tri-Series, 2026",
@@ -520,6 +520,123 @@
         "Sri Lanka Women"
       ],
       "matchEnded": true
+    },
+    {
+      "name": "Tbc vs Tbc, Final, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Feb 07, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-02-07",
+      "dateTimeGMT": "2027-02-07T14:00:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Tbc vs Tbc, Eliminator, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Feb 05, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-02-05",
+      "dateTimeGMT": "2027-02-05T14:00:00",
+      "teams": [
+        "Tbc",
+        "Tbc"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Delhi Capitals Women vs Up Warriorz Women, 20th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Feb 03, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-02-03",
+      "dateTimeGMT": "2027-02-03T14:00:00",
+      "teams": [
+        "Delhi Capitals Women",
+        "Up Warriorz Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Royal Challengers Bengaluru Women vs Gujarat Giants Women, 19th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Feb 02, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-02-02",
+      "dateTimeGMT": "2027-02-02T14:00:00",
+      "teams": [
+        "Royal Challengers Bengaluru Women",
+        "Gujarat Giants Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Mumbai Indians Women vs Delhi Capitals Women, 18th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Feb 01, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-02-01",
+      "dateTimeGMT": "2027-02-01T14:00:00",
+      "teams": [
+        "Mumbai Indians Women",
+        "Delhi Capitals Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Up Warriorz Women vs Royal Challengers Bengaluru Women, 17th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 31, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-01-31",
+      "dateTimeGMT": "2027-01-31T14:00:00",
+      "teams": [
+        "Up Warriorz Women",
+        "Royal Challengers Bengaluru Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Mumbai Indians Women vs Gujarat Giants Women, 16th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 30, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-01-30",
+      "dateTimeGMT": "2027-01-30T14:00:00",
+      "teams": [
+        "Mumbai Indians Women",
+        "Gujarat Giants Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Royal Challengers Bengaluru Women vs Delhi Capitals Women, 15th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 29, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-01-29",
+      "dateTimeGMT": "2027-01-29T14:00:00",
+      "teams": [
+        "Royal Challengers Bengaluru Women",
+        "Delhi Capitals Women"
+      ],
+      "matchEnded": false
+    },
+    {
+      "name": "Mumbai Indians Women vs Up Warriorz Women, 14th Match, Womens Premier League 2027",
+      "matchType": "t20",
+      "status": "Match starts at Jan 28, 14:00 GMT",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2027-01-28",
+      "dateTimeGMT": "2027-01-28T14:00:00",
+      "teams": [
+        "Mumbai Indians Women",
+        "Up Warriorz Women"
+      ],
+      "matchEnded": false
     }
   ]
 }
