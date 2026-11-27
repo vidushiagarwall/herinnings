@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-26T23:10:57.133Z",
+  "updatedAt": "2026-11-27T11:11:53.671Z",
   "matches": [
     {
-      "name": "Tbc vs Tbc, Final, Malaysia Womens T20I Tri-Series, 2026",
+      "name": "Indonesia Women vs Malaysia Women, Final, Malaysia Womens T20I Tri-Series, 2026",
       "matchType": "t20",
-      "status": "Match starts at Nov 27, 02:00 GMT",
+      "status": "Indonesia Women won by 8 wkts - 13 overs game due to rain",
       "venue": "Bayuemas Oval, Kuala Lumpur",
       "date": "2026-11-27",
       "dateTimeGMT": "2026-11-27T02:00:00",
       "teams": [
-        "Tbc",
-        "Tbc"
+        "Indonesia Women",
+        "Malaysia Women"
       ],
-      "matchEnded": false
+      "matchEnded": true
     },
     {
       "name": "Malaysia Women vs China Women, 6th Match, Malaysia Womens T20I Tri-Series, 2026",
@@ -622,19 +622,6 @@
       "teams": [
         "Royal Challengers Bengaluru Women",
         "Delhi Capitals Women"
-      ],
-      "matchEnded": false
-    },
-    {
-      "name": "Mumbai Indians Women vs Up Warriorz Women, 14th Match, Womens Premier League 2027",
-      "matchType": "t20",
-      "status": "Match starts at Jan 28, 14:00 GMT",
-      "venue": "Wankhede Stadium, Mumbai",
-      "date": "2027-01-28",
-      "dateTimeGMT": "2027-01-28T14:00:00",
-      "teams": [
-        "Mumbai Indians Women",
-        "Up Warriorz Women"
       ],
       "matchEnded": false
     }
